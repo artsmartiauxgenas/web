@@ -1,0 +1,90 @@
+:root {
+  --font-body: "Segoe UI", Roboto, sans-serif;
+  --color-bg: #f8efe1;
+  --color-text: #133748;
+  --color-accent: #DA6131;
+  --color-muted: #f0f0f0;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  padding: 2rem 1rem;
+  font-family: var(--font-body);
+  background: var(--color-bg);
+  color: var(--color-text);
+  line-height: 1.6;
+  text-align: center;
+}
+
+.wrapper {
+  max-width: 100%;
+  margin: 0 auto;
+}
+
+img.logo {
+  width: 80%;
+  margin-bottom: 1.5rem;
+}
+
+h1 {
+  font-size: 1.5rem;
+  margin-bottom: 1rem;
+}
+
+.message {
+  font-size: 1rem;
+  margin-bottom: 2rem;
+}
+
+form.newsletter {
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+  margin-bottom: 1.5rem;
+}
+
+form.newsletter input {
+  padding: 0.75rem;
+  font-size: 1rem;
+  border: 1px solid var(--color-muted);
+  border-radius: 0.4rem;
+}
+
+form.newsletter button {
+  background: var(--color-accent);
+  color: white;
+  font-weight: bold;
+  padding: 0.75rem;
+  border: none;
+  border-radius: 0.4rem;
+  cursor: pointer;
+}
+
+form.newsletter button:hover {
+  background: #eb6936;
+}
+
+.rgpd {
+  font-size: 0.8rem;
+  color: #666;
+  margin-top: 1rem;
+}
+
+/* -------- Desktop & Tablette -------- */
+@media (min-width: 600px) {
+  .wrapper {
+    max-width: 480px;
+  }
+
+  h1 {
+    font-size: 2rem;
+  }
+
+  .message {
+    font-size: 1.1rem;
+  }
+}
