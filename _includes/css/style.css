@@ -1,8 +1,8 @@
 :root {
   --font-body: "Segoe UI", Roboto, sans-serif;
-  --color-bg: #f8efe1;
-  --color-text: #133748;
-  --color-accent: #DA6131;
+  --color-bg: #fcf3df;
+  --color-text: #1D2C3A;
+  --color-accent: #D64A1C;
   --color-muted: #f0f0f0;
 }
 
@@ -27,7 +27,7 @@ body {
 
 img.logo {
   width: 80%;
-  margin-bottom: 1.5rem;
+  margin-bottom: 0.5rem;
 }
 
 h1 {
@@ -52,6 +52,7 @@ form.newsletter input {
   font-size: 1rem;
   border: 1px solid var(--color-muted);
   border-radius: 0.4rem;
+  text-align: center;
 }
 
 form.newsletter button {
@@ -65,7 +66,7 @@ form.newsletter button {
 }
 
 form.newsletter button:hover {
-  background: #eb6936;
+  background: #B6452C;
 }
 
 .rgpd {
