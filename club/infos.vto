@@ -1,0 +1,23 @@
+---
+title: Informations administratives | {{ club.name }}
+
+---
+
+<h1>Informations administratives du club</h1>
+
+<ul>
+    <li>Nom : <strong>{{ club.name }}</strong></li>
+    <li>RNA : <strong>{{ club.rna }}</strong></li>
+    <li>SIRET : <strong>{{ club.siret }}</strong></li>
+    <li>Code APE : <strong>{{ club.ape }}</strong></li>
+    <li>Type : <strong>{{ club.type }}</strong></li>
+    <li>Date de création : <strong>{{ club.creation_date }}</strong></li>
+</ul>
+
+<h2>Contact</h2>
+
+<ul>
+	<li>Mail : <a href="mailto:{{ club.mail }}">{{ club.mail }}</a></li>
+	<li>Site : <a href="{{ club.website }}">{{ club.website }}</a></li>
+	<li>Git : <a href="{{ club.git }}">{{ club.git }}</a></li>
+</ul>

@@ -1,0 +1,26 @@
+- 2024-2025/
+	─ index.md
+	- club/
+		- historique.md
+		- statuts.md
+		- règlements.md
+		- rôles.md
+	- AG/
+		- compte-rendu.md
+	- cours/
+		- planning.md
+		- disciplines.md
+	- enseignants/
+		- programme.md
+		- sécurité.md
+	- membres/
+		- inscription.md
+		- FAQ.md
+	- communication/
+		- réseaux-sociaux.md
+	- budget/
+		- prévisionnel.md
+		- éalisé.md
+	- subventions/
+		- demandes.md
+	- divers.md

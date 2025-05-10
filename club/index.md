@@ -1,0 +1,8 @@
+- club/
+	- qui-sommes-nous.md
+	- disciplines.md
+	- valeurs.md
+	- équipe.md
+	- lieux.md
+	- contact.md
+	- infos.md
