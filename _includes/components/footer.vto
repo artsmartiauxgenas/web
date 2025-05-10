@@ -2,11 +2,11 @@
   <div class="separator"></div>
   <div class="wrapper">
     <ul class="footer-list">
-      <li>&copy; {{ new Date().getFullYear() }} Arts Martiaux Genas</li>
-      <li>RNA W691055588</li>
-      <li>SIRET 414 756 668 00037</li>
+      <li>&copy; {{ new Date().getFullYear() }} {{ club.name }}</li>
+      <li>RNA {{ club.rna }}</li>
+      <li>SIRET {{ club.siret }}</li>
       <li>
-        <a href="https://github.com/artsmartiauxgenas/web" target="_blank" rel="noopener" class="github-link">
+        <a href="{{ club.git }}" target="_blank" rel="noopener" class="github-link">
           <span class="github-inline">
             <svg class="icon" viewBox="0 0 24 24" aria-hidden="true">
               <path fill="currentColor"
