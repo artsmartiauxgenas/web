@@ -41,10 +41,12 @@ La documentation couvre :
 ## Organisation
 
 La documentation est structurée de la manière suivante :
-- Un **dossier par saison** dans `docs/saisons/` (ex : `2025`)
-- Un **fichier unique pour les informations administratives** dans `_data/club.yaml`
-- Des **dossiers publics** (vitrine, cours, blog)
-- Un **dépôt privé** séparé pour les documents sensibles
+
+- Un **dossier par saison** dans `docs/saisons/` (ex : `2025`), regroupant tous les documents de l’année.
+- Un fichier **`_data/club.yaml`** contenant les **données transverses officielles** (nom du club, RNA, SIRET, IBAN masqué, contacts…).
+- Des **espaces publics** (`club/`, `blog/`, etc.) pour la vitrine, les annonces et la vie du club.
+- Un **dépôt séparé et privé** pour les documents confidentiels (`private/`), exclu du site statique public.
+- Des fichiers **modèles** dans un dossier `templates/` pour standardiser les AG, convocations, budgets, etc.
 
 Chaque saison contient les dossiers suivants :
 - `admin/` : statuts, règlement, équipe
@@ -81,8 +83,19 @@ Les contributions peuvent être rédigées ensemble ou à l’initiative de chac
 
 ## Bonnes pratiques
 
-- **Un seul fichier par sujet**, bien nommé et daté.
-- **Aucun document ne doit rester isolé** sur un poste personnel.
-- **Utiliser Git** ou une solution de synchronisation pour suivre les évolutions.
-- **Taguer les documents** par type et par saison pour permettre une navigation croisée.
+Pour garantir la cohérence, la traçabilité et la maintenabilité de la documentation du club, les règles suivantes s’appliquent :
 
+1. **Une seule source de vérité pour chaque information**  
+   - Les données officielles (RNA, SIRET, adresse...) sont uniquement dans `_data/club.yaml`.
+   - Les documents de référence (statuts, règlements) sont dans un seul fichier par saison.
+
+2. **Chaque document a un contexte temporel clair**  
+   - Tout document lié à une saison (AG, budget, programme, planning) doit se trouver dans le dossier de cette saison.
+
+3. **Aucun fichier ne doit rester isolé**  
+   - Tous les documents doivent être intégrés dans l’arborescence documentaire ou dans le dépôt privé.
+
+4. **Chaque document doit être lisible, daté et identifiable**  
+   - Les fichiers doivent avoir un nom clair, une date, et un auteur ou responsable si pertinent.
+
+> Ces règles visent à permettre une prise en main rapide du fonctionnement du club par toute personne entrant au bureau ou dans l’équipe pédagogique.

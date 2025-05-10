@@ -1,16 +1,12 @@
 ---
-title: Tags
+title: Saisons
 tags: 
   - documentation
 date: 2025-05-10
 layout: layouts/page.vto
 ---
 
-# Tags
+# Saisons
 [Arts Martiaux Genas](/)
 
-- tags/
-	- AG.md
-	- budget.md
-	- enseignants.md
-	- statuts.md
+- [2024-2025](2025/)
