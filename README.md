@@ -77,7 +77,7 @@ Les documents confidentiels (RIB, contrats, liste des adhérents, comptabilité 
 ### Installation locale
 
 ```bash
-deno task dev
+deno task serve
 ```
 
 Le site sera disponible en local sur :  
@@ -86,8 +86,6 @@ Le site sera disponible en local sur :
 ### Commandes utiles
 
 - `deno task build` → génère le site statique dans `_site/`
-- `deno task clean` → nettoie les fichiers générés
-- `deno task update` → met à jour les dépendances (Lume & plugins)
 
 ### Structure Lume
 

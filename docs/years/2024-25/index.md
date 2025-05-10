@@ -1,9 +1,8 @@
 ---
-title: Saison 2025
+title: Saison 2024-25
 tags: 
   - documentation
-  - 2025
-year: 2025
+  - 2024-25
 date: 2025-05-10
 layout: layouts/page.vto
 ---
@@ -11,7 +10,7 @@ layout: layouts/page.vto
 # Saison 2024-25
 [Arts Martiaux Genas](/)
 
-- 2025/
+- 2024-25/
 	- index
 	- règlement intérieur
 	- accounts/
@@ -24,3 +23,36 @@ layout: layouts/page.vto
 			- convocation
 			- document de présentation
 			- PV
+
+---
+
+## Administration
+
+- Statuts : [TODO]()
+- Règlement intérieur : [TODO]()
+- PV AG : [TODO]()
+
+## Conseil d'administration et bureau
+
+- TODO
+
+## Comptabilité
+
+- Budget : [TODO]()
+- Bilan : [TODO]()
+
+## Réunions du CA et bureau
+
+| Date | Notes |
+|------|-------|
+| yyyy-mm-dd | [Réunion1]() : décisions |
+
+## Cours
+
+TODO
+
+## Evénements
+
+| Date | Notes |
+|------|-------|
+| yyyy-mm-dd | [Event1 (blog)]() |
