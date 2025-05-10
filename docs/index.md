@@ -6,6 +6,12 @@ date: 2025-05-10
 layout: layouts/page.vto
 ---
 
+# Documentation
+[Arts Martiaux Genas](/)
+
+- [Onboarding](onboarding/charte-documentation)
+- [Saisons](saisons)
+
 > 📘 **Rappel : principes de structuration documentaire**
 >
 > ✅ **Une seule source de vérité**  
