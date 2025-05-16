@@ -1,16 +1,16 @@
 ---
-title: Saison 2024-25
+title: Saison 2024-2025
 tags: 
   - documentation
-  - 2024-25
+  - 2024-2024
 date: 2025-05-10
 layout: layouts/page.vto
 ---
 
-# Saison 2024-25
+# Saison 2024-2025
 [Arts Martiaux Genas](/)
 
-- 2024-25/
+- 2024-2025/
 	- index
 	- règlement intérieur
 	- accounts/
