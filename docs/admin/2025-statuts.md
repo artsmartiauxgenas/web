@@ -9,7 +9,7 @@ layout: layouts/page.vto
 # Statuts de l'association Arts Martiaux Genas
 17 avril 2025
 
-> <a href="http://localhost:3000/docs/admin/2025-Statuts%20Arts%20Martiaux%20Genas.pdf">Version PDF signée</a>
+> <a href="http://localhost:3000/docs/admin/2025-statuts%20Arts%20Martiaux%20Genas.pdf">Version PDF signée</a>
 
 ---
 
