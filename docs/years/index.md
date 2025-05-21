@@ -9,4 +9,5 @@ layout: layouts/page.vto
 # Saisons
 [Arts Martiaux Genas](/)
 
-- [2024-25](2024-25/)
+- [2025-2026](2025-2026/)
+- [2024-2025](2024-2025/)

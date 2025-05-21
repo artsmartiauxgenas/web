@@ -8,14 +8,10 @@ layout: layouts/page.vto
 ---
 # Règlement Intérieur
 
-[Arts Martiaux Genas](/)
-
+[Arts Martiaux Genas](/)  
 [Saison 2025-2026](/docs/years/2025-2026/)
 
-> Version PDF signée : <a href="">TODO</a>
-
-RNA : W691055588  
-SIRET : 414 756 668 00037
+> <a href="">Version PDF signée [TODO]</a>
 
 ---
 
@@ -148,4 +144,17 @@ Toute modification sera communiquée aux adhérents par affichage ou par courrie
 
 Fait à Genas, le 17 avril 2025
 
-Le Président de l'Association  
+Le Président  
+Geoffrey Petri
+
+Le Secrétaire  
+Cyrille Protière
+
+Le Trésorier  
+Dragos Mocanu
+
+---
+
+artsmartiauxgenas.fr  
+Arts Martiaux Genas – Association loi 1901 déclarée en Préfecture du Rhône le 26 novembre 1993  
+RNA W691055588 – Siret : 414 756 668 00037
