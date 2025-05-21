@@ -6,22 +6,20 @@ tags:
 date: 2025-05-15
 layout: layouts/page.vto
 ---
-# Statuts de l'Association Arts Martiaux Genas
+# Statuts de l'association Arts Martiaux Genas
+17 avril 2025
 
-> Version PDF signée : <a href="">TODO</a>
-
-RNA : W691055588  
-SIRET : 414 756 668 00037
+> <a href="http://localhost:3000/docs/admin/2025-Statuts%20Arts%20Martiaux%20Genas.pdf">Version PDF signée</a>
 
 ---
 
-## Titre I - Identification de l'Association
+## Titre I – Identification de l'Association
 
-### Article 1 - Nom
+### Article 1 – Nom
 
 Il est fondé entre les adhérents aux présents statuts une association régie par la loi du 1er juillet 1901 et le décret du 16 août 1901, ayant pour titre **Arts Martiaux Genas**.
 
-### Article 2 - But et objet
+### Article 2 – But et objet
 
 L'association a pour mission principale de promouvoir et développer la pratique des arts martiaux, tout en transmettant des valeurs éducatives, sociales et morales. Elle vise à :
 
@@ -32,26 +30,26 @@ L'association a pour mission principale de promouvoir et développer la pratique
 
 Elle pourra également proposer à la vente des produits ou fournir des services, dans le respect du règlement intérieur.
 
-### Article 3 - Siège social
+### Article 3 – Siège social
 
 Le siège social est fixé à l'adresse du Président de l'association.  
 Toute modification de cette adresse est décidée par le Conseil d'administration, et déclarée auprès des autorités compétentes.
 
-### Article 4 - Durée
+### Article 4 – Durée
 
 La durée de l'association est illimitée.  
 
 ---
 
-## Titre II - Membres de l'Association
+## Titre II – Membres de l'Association
 
-### Article 5 - Admission
+### Article 5 – Admission
 
 Pour devenir membre, toute personne doit s'acquitter de la cotisation ou du droit d’entrée et respecter le règlement intérieur.
 
 La cotisation et le droit d'entrée sont annuels et précisés dans le règlement intérieur.
 
-### Article 6 - Catégories de membres
+### Article 6 – Catégories de membres
 
 L'association se compose de plusieurs catégories de membres :
 
@@ -61,7 +59,7 @@ L'association se compose de plusieurs catégories de membres :
 
 Tous les membres de l’association ont droit à une participation égale aux événements et activités organisés par l’association, dans le respect des conditions définies par le règlement intérieur.
 
-### Article 7 - Radiations
+### Article 7 – Radiations
 
 La qualité de membre se perd par :
 
@@ -72,9 +70,9 @@ La qualité de membre se perd par :
 
 ---
 
-## Titre III - Instances Dirigeantes
+## Titre III – Instances Dirigeantes
 
-### Article 8 - Assemblée générale ordinaire
+### Article 8 – Assemblée générale ordinaire
 
 L'assemblée générale ordinaire comprend tous les membres de l'association, sans distinction. Elle se réunit au moins une fois par an.  
 Les membres sont convoqués par le Conseil d'administration au moins quinze jours avant la date fixée, avec la communication d'un ordre du jour précis.
@@ -86,12 +84,12 @@ Les décisions sont prises à la majorité des voix des membres présents. En ca
 
 Les décisions des assemblées générales s’imposent à tous les membres, y compris absents ou représentés.
 
-### Article 9 - Assemblée générale extraordinaire
+### Article 9 – Assemblée générale extraordinaire
 
 Le Président peut convoquer une assemblée générale extraordinaire pour traiter de questions importantes, telles que la modification des statuts ou la dissolution de l'association.  
 Les modalités de convocation et de délibération sont identiques à celles de l'assemblée générale ordinaire.
 
-### Article 10 - Conseil d'administration
+### Article 10 – Conseil d'administration
 
 L'association est dirigée par un Conseil d'administration composé de membres élus par l'assemblée générale pour un mandat de 3 ans, renouvelable.
 
@@ -102,7 +100,7 @@ Le Conseil d'administration se réunit au moins une fois par an, sur convocation
 Les décisions sont prises à la majorité des voix. En cas d'égalité, la voix du Président prévaut.  
 Tout membre du Conseil d'administration qui n'assiste pas à trois réunions consécutives est réputé démissionnaire, sauf en cas de force majeure dûment justifiée.
 
-### Article 11 - Bureau
+### Article 11 – Bureau
 
 Le Conseil d'administration élit, parmi ses membres, un Bureau composé de :
 
@@ -112,7 +110,7 @@ Le Conseil d'administration élit, parmi ses membres, un Bureau composé de :
 
 Les membres du Bureau sont rééligibles. En cas de vacances, le Conseil d'administration pourvoit provisoirement au remplacement jusqu'à la prochaine assemblée générale.
 
-### Article 12 - Conflits d'intérêts
+### Article 12 – Conflits d'intérêts
 
 Les membres du Conseil d'administration, du Bureau et les prestataires externes doivent déclarer tout conflit d'intérêt pouvant influencer leur impartialité. Toute situation conflictuelle fera l'objet d'un examen par le Conseil d'administration, qui prendra les mesures nécessaires pour assurer la transparence et l'intégrité des décisions.
 
@@ -124,13 +122,13 @@ En règle générale :
 
 ---
 
-## Titre IV - Fonctionnement de l'Association
+## Titre IV – Fonctionnement de l'Association
 
-### Article 13 - Affiliation
+### Article 13 – Affiliation
 
 L'adhésion aux fédérations, unions ou regroupements se fait chaque année, sur proposition du Conseil d'administration, et sera formalisée par une mention dans le règlement intérieur.
 
-### Article 14 - Ressources
+### Article 14 – Ressources
 
 Les ressources de l'association se composent notamment de :
 
@@ -139,7 +137,7 @@ Les ressources de l'association se composent notamment de :
 * Recettes issues d'événements et ventes ;  
 * Toutes autres ressources autorisées par les lois et règlements en vigueur.
 
-### Article 15 - Rémunération, indemnités et prise en charge des frais
+### Article 15 – Rémunération, indemnités et prise en charge des frais
 
 L'association peut rembourser les frais engagés par ses bénévoles dans le cadre de formations, événements ou stages, notamment :
 
@@ -150,13 +148,13 @@ L'association peut rembourser les frais engagés par ses bénévoles dans le cad
 
 Des rémunérations exceptionnelles, plafonnées annuellement à 2 000 € par bénévole, peuvent être versées pour des missions ponctuelles. Ces rémunérations et remboursements doivent être justifiés par des pièces comptables et validés par le Conseil d'administration.
 
-### Article 16 - Prestataires externes
+### Article 16 – Prestataires externes
 
 L'association peut recourir à des prestataires externes pour des missions spécifiques (cours, formations, interventions, etc.).
 
 Ces prestataires sont engagés par contrat, qui précise leurs missions, modalités de rémunération et le remboursement éventuel de frais engagés, dans le respect des barèmes fiscaux et des décisions du Conseil d'administration.
 
-### Article 17 - Règlement intérieur
+### Article 17 – Règlement intérieur
 
 Un règlement intérieur, élaboré par le Conseil d'administration et soumis à l'approbation de l'assemblée générale, précise :
 
@@ -164,13 +162,13 @@ Un règlement intérieur, élaboré par le Conseil d'administration et soumis à
 * Les droits et obligations des membres ;  
 * Les règles de discipline et de gestion interne.
 
-### Article 18 - Dissolution
+### Article 18 – Dissolution
 
 En cas de dissolution prononcée selon les modalités prévues par l'assemblée générale extraordinaire, un ou plusieurs liquidateurs sont nommés.  
 L'actif net, s'il existe, sera dévolu à un organisme poursuivant un but non lucratif ou à une association aux objectifs similaires, selon la décision de l'assemblée générale extraordinaire.  
 Il est expressément interdit que l'actif net soit attribué, même partiellement, à un membre de l'association.
 
-### Article 19 - Libéralités
+### Article 19 – Libéralités
 
 L'association s'engage à présenter ses registres et pièces comptables à toute autorité administrative compétente en ce qui concerne l'emploi des libéralités perçues.  
 Les locaux et établissements de l'association peuvent être visités par les représentants des autorités, qui recevront toutes les explications nécessaires sur leur gestion.  
@@ -180,5 +178,16 @@ Les locaux et établissements de l'association peuvent être visités par les re
 *Les présents statuts ont été adoptés en assemblée générale à Genas, le 17 avril 2025.*
 
 Le Président  
+Geoffrey Petri
+
 Le Secrétaire  
-Le Trésorier
+Cyrille Protière
+
+Le Trésorier  
+Dragos Mocanu
+
+---
+
+artsmartiauxgenas.fr  
+Arts Martiaux Genas – Association loi 1901 déclarée en Préfecture du Rhône le 26 novembre 1993  
+RNA W691055588 – Siret : 414 756 668 00037
