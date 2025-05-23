@@ -10,6 +10,8 @@ layout: layouts/page.vto
 # Saison 2025-2026
 [Arts Martiaux Genas](/)
 
+[Saisons](../)
+
 ## Administration
 
 - [Statuts de l'association Arts Martiaux Genas (2025)](/statuts/2025/)
