@@ -12,8 +12,8 @@ layout: layouts/page.vto
 
 ## Administration
 
-- Statuts : [2025-statuts](/statuts/2025/)
-- Règlement intérieur : [2025-reglement-interieur](/docs/years/2025-2026/2025-reglement-interieur/)
+- [Statuts de l'association Arts Martiaux Genas (2025)](/statuts/2025/)
+- [Règlement intérieur de l'association Arts Martiaux Genas (2025)](/docs/years/2025-2026/2025-reglement-interieur/)
 
 - PV AG : [TODO]()
 
