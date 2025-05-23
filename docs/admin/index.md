@@ -11,7 +11,7 @@ layout: layouts/page.vto
 
 ## Statuts
 
-- [Statuts 2025](2025-statuts/)
+- [Statuts 2025](/statuts/2025)
 
 ## Publications au Journal Officiel
 
