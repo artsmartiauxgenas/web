@@ -2,7 +2,7 @@
 title: Saison 2024-2025
 tags: 
   - documentation
-  - 2024-2024
+  - 2024-2025
 date: 2025-05-10
 layout: layouts/page.vto
 ---
@@ -14,10 +14,10 @@ layout: layouts/page.vto
 
 ## Administration
 
-- Statuts : [TODO]()
-- Règlement intérieur : [TODO]()
-- Assemblée Générale : [CR AG du 15 avril 2025](events/2025-04-17-ag/2025-04-17_CR_AG_02.pdf)
-- Assemblée Générale Extraordinaire : [CR AGE du 15 avril 2025](events/2025-04-17-age/2025-04-17_CR_AG-E_02.pdf)
+- [Statuts]()
+- [Règlement intérieur]()
+- [PV Assemblée Générale (17 avril 2025)](events/2025-04-17-ag/2025-04-17_CR_AG_02.pdf)
+- [PV Assemblée Générale Extraordinaire (17 avril 2025)](events/2025-04-17-age/2025-04-17_CR_AG-E_01.pdf)
 
 ## Conseil d'administration et bureau
 
@@ -30,8 +30,8 @@ layout: layouts/page.vto
 
 ## Comptabilité
 
-- Budget : [TODO]()
-- Bilan : [TODO]()
+- [Budget]()
+- [Bilan]()
 
 ## Réunions du CA et bureau
 

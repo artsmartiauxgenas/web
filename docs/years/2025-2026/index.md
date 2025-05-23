@@ -14,8 +14,7 @@ layout: layouts/page.vto
 
 - [Statuts de l'association Arts Martiaux Genas (2025)](/statuts/2025/)
 - [Règlement intérieur de l'association Arts Martiaux Genas (2025)](/docs/years/2025-2026/2025-reglement-interieur/)
-
-- PV AG : [TODO]()
+- PV Assemblée Générale (date à définir)
 
 ## Conseil d'administration et bureau
 
@@ -25,8 +24,8 @@ layout: layouts/page.vto
 
 ## Comptabilité
 
-- Budget : [TODO]()
-- Bilan : [TODO]()
+- Budget
+- Bilan
 
 ## Réunions du CA
 
@@ -36,9 +35,7 @@ layout: layouts/page.vto
 
 ## Cours
 
-TODO
-
-- Calendriers : TODO
+- Calendriers
 
 ## Evénements
 
