@@ -1,8 +1,10 @@
 import lume from "lume/mod.ts";
+import redirects from "lume/plugins/redirects.ts";
 
 const site = lume();
 site.add("/assets");
-site.add("/docs/admin/2025-statuts Arts Martiaux Genas.pdf");
+site.add("/docs");
 
+site.use(redirects());
 
 export default site;
