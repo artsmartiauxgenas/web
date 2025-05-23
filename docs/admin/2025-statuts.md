@@ -1,13 +1,13 @@
 ---
-title: Statuts
+title: Statuts de l'association Arts Martiaux Genas - 2025
 tags: 
   - statuts
   - documentation
 date: 2025-05-15
 url: /docs/admin/statuts/2025/
 oldUrl:
-  - /statuts/latest
-  - /statuts/2025
+  - /statuts/latest/
+  - /statuts/2025/
 layout: layouts/page.vto
 ---
 # Statuts de l'association Arts Martiaux Genas
