@@ -37,13 +37,13 @@ layout: layouts/page.vto
 
 ## Cours
 
-| Sessions        |         Lundi         |        Mardi         |              Mercredi               |        Jeudi         |                      Vendredi                       |               Samedi               |
-| --------------- | :-------------------: | :------------------: | :---------------------------------: | :------------------: | :-------------------------------------------------: | :--------------------------------: |
-| **Karaté**      |                       |                      |                                     |                      |                                                     |                                    |
-| 5-7 ans         |                       |                      |         17h30-18h30<br>Dojo         |                      |               17h30-18h30<br>Salle 4                |   9h-10h<br>Compétiteurs<br>Dojo   |
-| 8-13 ans        |                       |                      |         18h30-19h30<br>Dojo         |                      |               18h30-19h30<br>Salle 4                |   9h-10h<br>Compétiteurs<br>Dojo   |
-| 14+/Adultes     |    20h-21h<br>Dojo    |                      |         19h30-20h30<br>Dojo         |                      | 19h45-20h45<br>Dojo<br>20h45-21h30<br>Grade<br>Dojo |          11h-12h<br>Dojo           |
-| **Body Karaté** | 19-20h<br>40+<br>Dojo | 19h30-21h<br>Salle 1 | 20h30-21h30<br>Self-défense<br>Dojo | 19h30-21h<br>Salle 1 |                                                     | 10h-11h<br>Cardio-training<br>Dojo |
+| Sessions        |     Lundi<br>Dojo     | Mardi<br>Salle 1 |          Mercredi<br>Dojo           |     Jeudi<br>Salle 1     |                  Vendredi<br>Dojo                   |                               Samedi<br>Dojo                                | Dimanche |
+| --------------- | :-------------------: | :--------------: | :---------------------------------: | :----------------------: | :-------------------------------------------------: | :-------------------------------------------------------------------------: | -------- |
+| **Karaté**      |                       |                  |                                     |                          |                                                     |                                                                             |          |
+| 5-7 ans         |                       |                  |           **17h30-18h30**           |                          |             **17h30-18h30**<br>Salle 4              |                       **9h-10h**<br>**Compétiteurs**                        |          |
+| 8-13 ans        |                       |                  |           **18h30-19h30**           |                          |             **18h30-19h30**<br>Salle 4              |                         **9h-10h<br>Compétiteurs**                          |          |
+| 14+/Adultes     |      **20h-21h**      |                  |           **20h30-21h30**           |                          | 1**9h45-20h45**<br><br>**20h45-21h30**<br>**Grade** | **10h-11h**<br>**Cardio-training**<br><br>**11h-12h**<br>**Karaté Défense** |          |
+| **Body Karaté** | **19-20h**<br>**40+** |  **19h30-21h**   | **19h30-20h30**<br>**Self-défense** | **19h30-21h**<br>**MMA** |                                                     | **10h-11h**<br>**Cardio-training**<br><br>**11h-12h**<br>**Karaté Défense** |          |
 
 
 - Calendriers
