@@ -1,4 +1,0 @@
-- blog/
-	- index.md
-	- 2024-05-stage-printemps.md
-	- 2024-03-nouveaux-horaires.md

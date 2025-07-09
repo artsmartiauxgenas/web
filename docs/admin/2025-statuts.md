@@ -1,21 +1,11 @@
 ---
-title: Statuts de l'association Arts Martiaux Genas (2025)
-tags: 
-  - statuts
-  - documentation
-date: 2025-05-15
-url: /docs/admin/statuts/2025/
-oldUrl:
-  - /statuts/latest/
-  - /statuts/2025/
-layout: layouts/page.vto
+outline: deep
 ---
 # Statuts de l'association Arts Martiaux Genas
 17 avril 2025
 
-> <a href="/docs/admin/2025-statuts_Arts_Martiaux_Genas-signed.pdf">Version PDF signée</a>
-
----
+> [!INFO]
+> [Version PDF signée](/docs/admin/2025-statuts_Arts_Martiaux_Genas-signed.pdf)
 
 ## Titre I – Identification de l'Association
 
@@ -43,8 +33,6 @@ Toute modification de cette adresse est décidée par le Conseil d'administratio
 
 La durée de l'association est illimitée.  
 
----
-
 ## Titre II – Membres de l'Association
 
 ### Article 5 – Admission
@@ -71,8 +59,6 @@ La qualité de membre se perd par :
 * Le décès ;  
 * Le non-paiement de la cotisation ou du droit d'entrée pour la période en cours ;  
 * La radiation prononcée par le Conseil d'administration pour motif grave, après que l'intéressé a été invité à fournir des explications, soit lors d'une réunion du Bureau, soit par écrit.
-
----
 
 ## Titre III – Instances Dirigeantes
 
@@ -124,8 +110,6 @@ En règle générale :
 * Les membres intervenant régulièrement en tant qu’enseignant ou animateur, qu’ils soient bénévoles ou rémunérés, ne peuvent siéger au Bureau ;  
 * Toute personne en situation de conflit d’intérêt doit se retirer des délibérations et s’abstenir de participer au vote lorsqu’une décision la concerne directement ou indirectement.
 
----
-
 ## Titre IV – Fonctionnement de l'Association
 
 ### Article 13 – Affiliation
@@ -175,7 +159,7 @@ Il est expressément interdit que l'actif net soit attribué, même partiellemen
 ### Article 19 – Libéralités
 
 L'association s'engage à présenter ses registres et pièces comptables à toute autorité administrative compétente en ce qui concerne l'emploi des libéralités perçues.  
-Les locaux et établissements de l'association peuvent être visités par les représentants des autorités, qui recevront toutes les explications nécessaires sur leur gestion.  
+Les locaux et établissements de l'association peuvent être visités par les représentants des autorités, qui recevront toutes les explications nécessaires sur leur gestion.
 
 ---
 
@@ -190,8 +174,7 @@ Cyrille Protière
 Le Trésorier  
 Dragos Mocanu
 
----
-
-artsmartiauxgenas.fr  
-Arts Martiaux Genas – Association loi 1901 déclarée en Préfecture du Rhône le 26 novembre 1993  
-RNA W691055588 – Siret : 414 756 668 00037
+> [!INFO]
+> artsmartiauxgenas.fr  
+> Arts Martiaux Genas – Association loi 1901 déclarée en Préfecture du Rhône le 26 novembre 1993  
+> RNA W691055588 – Siret : 414 756 668 00037

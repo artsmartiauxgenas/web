@@ -1,21 +1,11 @@
----
-title: Saison 2025-2026
-tags: 
-  - documentation
-  - 2025-2026
-date: 2025-05-15
-layout: layouts/page.vto
----
-
-# Saison 2025-2026
-[Arts Martiaux Genas](/)
+# Saison 2025-26
 
 [Saisons](../)
 
 ## Administration
 
-- [Statuts de l'association Arts Martiaux Genas (2025)](/statuts/2025/)
-- [Règlement intérieur de l'association Arts Martiaux Genas (2025)](/docs/years/2025-2026/2025-reglement-interieur/)
+- [Statuts de l'association Arts Martiaux Genas (2025)](/docs/admin/2025-statuts)
+- [Règlement intérieur de l'association Arts Martiaux Genas (2025)](/docs/years/2025-26/reglement-interieur/)
 - PV Assemblée Générale (date à définir)
 
 ## Conseil d'administration et bureau

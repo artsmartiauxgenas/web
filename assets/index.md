@@ -1,6 +1,0 @@
-- assets/
-	- logo.svg
-	- affiches/
-		- README.md
-	- documents-originaux/
-		- README.md
