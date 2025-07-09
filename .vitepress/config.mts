@@ -7,6 +7,7 @@ export default defineConfig({
   description: "Arts Martiaux à Genas",
   cleanUrls: true,
   head: [['link', { rel: 'icon', href: '/logo.svg' }]],
+  lastUpdated: true,
   themeConfig: {
     logo: '/logo.svg',
     // https://vitepress.dev/reference/default-theme-config
@@ -64,11 +65,21 @@ export default defineConfig({
           text: '2025',
           collapsed: false,
           items: [
-            { text: 'Nouveau site', link: '/blog/2025-07-17-nouveau-site' },
-            { text: 'Ouverture des inscriptions', link: '/blog/2025-07-17-ouverture-inscriptions' },
+            { text: 'Nouveau nom', link: '/blog/2025-07-09-nouveau-nom' },
+          //  { text: 'Ouverture des inscriptions', link: '/blog/2025-07-17-ouverture-inscriptions' },
+          //  { text: 'Forum des associations', link: '/blog/2025-08-15-forum-associations' },
           ]
         }
       ]
+    },
+
+    lastUpdated: {
+      text: 'Last updated',
+      formatOptions: {
+        dateStyle: 'short',
+        timeStyle: 'short',
+        forceLocale: true
+      }
     },
 
     search: {
