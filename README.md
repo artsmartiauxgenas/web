@@ -1,6 +1,6 @@
 # Arts Martiaux Genas — Site et documentation
 
-Ce dépôt contient l’ensemble du site statique du club Arts Martiaux Genas, généré avec [Lume](https://lume.land/) et organisé pour centraliser :
+Ce dépôt contient l’ensemble du site statique du club Arts Martiaux Genas, et organisé pour centraliser :
 
 - la **vitrine publique** du club,
 - le **blog**,
@@ -15,7 +15,6 @@ Ce dépôt contient l’ensemble du site statique du club Arts Martiaux Genas, g
 ```
 /
 ├── index.md             → Page d'accueil publique
-├── faq.md               → Questions pratiques et courantes
 ├── club/                → Présentation du club (valeurs, disciplines, équipe)
 ├── blog/                → Actualités et annonces (articles datés)
 ├── docs/                → Documentation interne structurée
@@ -23,12 +22,9 @@ Ce dépôt contient l’ensemble du site statique du club Arts Martiaux Genas, g
 │   ├── meta/            → Charte documentaire, fonctionnement, structure
 │   ├── guides/          → Tutoriels pour les membres du bureau ou les enseignants
 │   ├── years/           → Dossiers par saison (ex : 2024-25)
-│   └── onboarding/      → Ressources pour accueillir un nouveau membre du bureau
-├── assets/              → Logos, fichiers statiques
-├── _data/club.yaml      → Données administratives officielles (RNA, SIRET, etc.)
-├── _includes/           → Layouts et blocs HTML pour le rendu (Lume + Vento)
-├── _components/         → Composants UI (facultatif)
-└── _config.ts           → Configuration du site Lume
+│   ├── onboarding/      → Ressources pour accueillir un nouveau membre du bureau
+│   └── faq.md           → Questions pratiques et courantes
+├── public/              → Logos, fichiers statiques
 ```
 
 ---
@@ -60,7 +56,7 @@ Les documents confidentiels (RIB, contrats, liste des adhérents, comptabilité 
 
 ## ✅ Bonnes pratiques à respecter
 
-1. Une seule source de vérité par information (ex : `club.yaml` pour les infos administratives).
+1. Une seule source de vérité par information.
 2. Chaque document est lié à une saison ou à une fonction précise.
 3. Aucun fichier isolé hors du dépôt ou d’un dossier structuré.
 4. Tous les documents doivent être datés, lisibles, et identifiables.
@@ -71,28 +67,18 @@ Les documents confidentiels (RIB, contrats, liste des adhérents, comptabilité 
 
 ### Prérequis
 
-- [Deno](https://deno.land) (version récente)
+- Node
 - Git
+- Vitepress
 
 ### Installation locale
 
 ```bash
-deno task serve
+npx vitepress dev .
 ```
 
 Le site sera disponible en local sur :  
-[http://localhost:3000](http://localhost:3000)
-
-### Commandes utiles
-
-- `deno task build` → génère le site statique dans `_site/`
-
-### Structure Lume
-
-Ce site utilise :
-- **Lume** comme générateur statique
-- **Vento** pour les layouts et composants
-- Un fichier `_config.ts` pour configurer les chemins, plugins, exclusions (`private/`, `.env`, etc.)
+[http://localhost:5173](http://localhost:5173)
 
 ---
 
