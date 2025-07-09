@@ -77,9 +77,6 @@ Les documents confidentiels (RIB, contrats, liste des adhérents, comptabilité 
 npx vitepress dev .
 ```
 
-Le site sera disponible en local sur :  
-[http://localhost:5173](http://localhost:5173)
-
 ---
 
 ## 🤝 Contact
