@@ -3,7 +3,7 @@
 [Saison 2025-26](/docs/years/2025-26/)
 
 > [!WARNING] TODO
-> [Version PDF signée]()
+> Version PDF signée
 
 ## Article 1 - Adhésion à l'association
 
