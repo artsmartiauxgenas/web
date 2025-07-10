@@ -18,11 +18,17 @@ hero:
     alt: AMGenas
 
 features:
-  - title: Valeur A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Valeur B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Valeur C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - icon: 🥋
+    title: Une école de vie
+    details: enracinée dans la tradition martiale
+  - icon: 📐
+    title: Un cadre rigoureux et exigeant
+    details: mais accessible à tous pour amener au dépassement
+  - icon: 🧘
+    title: Un chemin vers la confiance en soi
+    details: par la maîtrise du corps et de l'esprit
+  - icon: 🤝
+    title: Un esprit de club familial
+    details: avec des parcours et des pratiques adaptés
 ---
 
