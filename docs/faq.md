@@ -18,7 +18,7 @@
 
 ## Combien coûtent les cours ?
 
-> Nos tarifs sont indiqués sur la page \[Inscriptions]. Ils varient selon l’âge et la discipline.
+> Nos tarifs sont indiqués sur la page [Inscriptions](/docs/legal/inscription). Ils varient selon l’âge et la discipline.
 
 ## Puis-je m'inscrire en cours d'année ?
 
@@ -34,7 +34,7 @@
 
 ## Qui encadre les cours ?
 
-> Des professeurs diplômés, passionnés et expérimentés. Vous pouvez les découvrir sur la page [Notre équipe](/team).
+> Des professeurs diplômés, passionnés et expérimentés. Vous pouvez les découvrir sur la page [Notre équipe](/club/).
 
 ## Que se passe-t-il en cas d’absence ou de blessure ?
 
