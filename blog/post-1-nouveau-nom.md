@@ -1,10 +1,13 @@
 ---
 title: Nouveau nom, nouveau site — même esprit
-date: 2025-07-09
+id: post-1
+tags:
+  - post
+date: 2025-07-10
 status: published
 ---
 # Nouveau nom, nouveau site — même esprit
-2025-07-09
+`post-1` 2025-07-10
 
 Depuis des années, notre club est un lieu d’apprentissage, de dépassement de soi et de transmission. Aujourd’hui, nous faisons évoluer notre image pour mieux refléter qui nous sommes devenus, et vers où nous allons.
 
@@ -12,7 +15,7 @@ Depuis des années, notre club est un lieu d’apprentissage, de dépassement de
 
 Nous sommes heureux de vous annoncer que notre club porte désormais un nouveau nom : **Arts Martiaux Genas**.
 
-Ce nom s’inscrit dans la continuité de notre histoire. Il affirme nos racines locales, tout en rassemblant les disciplines que nous pratiquons avec passion. C’est un nom simple, clair, fidèle à notre esprit.
+Un nouveau nom comme un retour aux sources pour s'inscrire dans la continuité de notre histoire. Il affirme nos racines locales, tout en rassemblant les disciplines que nous pratiquons avec passion. C’est un nom simple, clair, fidèle à notre esprit.
 
 ## Un nouveau site
 

@@ -66,7 +66,7 @@ export default defineConfig({
           text: '2025',
           collapsed: false,
           items: [
-            { text: 'Nouveau nom', link: '/blog/2025-07-09-nouveau-nom' },
+            { text: 'Nouveau nom', link: '/blog/post-1-nouveau-nom' },
           //  { text: 'Ouverture des inscriptions', link: '/blog/2025-07-17-ouverture-inscriptions' },
           //  { text: 'Forum des associations', link: '/blog/2025-08-15-forum-associations' },
           ]
