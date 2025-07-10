@@ -54,6 +54,10 @@ export default defineConfig({
           link: '/docs/guides',
           collapsed: true,
           items: [
+            {
+              text: 'Plan comptable',
+              link: '/docs/guides/pcg-pca',
+            },
           ]
         },
         {
