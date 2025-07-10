@@ -6,63 +6,46 @@ sidebar: false
 import {
   VPTeamPage,
   VPTeamPageTitle,
-  VPTeamMembers
+  VPTeamMembers,
+  VPTeamPageSection
 } from 'vitepress/theme'
 
 const members = [
   {
     avatar: 'https://www.github.com/yyx990803.png',
-    name: 'Evan You',
+    name: 'Ayoub Otmani',
     title: 'Entraîneur et directeur technique',
     links: [
-      { icon: 'github', link: 'https://github.com/yyx990803' },
       { icon: 'twitter', link: 'https://twitter.com/youyuxi' }
     ]
   },
   {
     avatar: 'https://www.github.com/yyx990803.png',
-    name: 'Evan You',
+    name: 'Bernardo Dupont',
     title: 'Entraîneur et directeur technique',
     links: [
-      { icon: 'github', link: 'https://github.com/yyx990803' },
       { icon: 'twitter', link: 'https://twitter.com/youyuxi' }
     ]
   },
   {
     avatar: 'https://www.github.com/yyx990803.png',
-    name: 'Evan You',
+    name: 'Geoffrey Petri',
     title: 'Président',
-    links: [
-      { icon: 'github', link: 'https://github.com/yyx990803' },
-      { icon: 'twitter', link: 'https://twitter.com/youyuxi' }
-    ]
   },
   {
     avatar: 'https://www.github.com/yyx990803.png',
-    name: 'Evan You',
+    name: 'Cyrille Protière',
     title: 'Secrétaire',
-    links: [
-      { icon: 'github', link: 'https://github.com/yyx990803' },
-      { icon: 'twitter', link: 'https://twitter.com/youyuxi' }
-    ]
   },
   {
     avatar: 'https://www.github.com/yyx990803.png',
-    name: 'Evan You',
+    name: 'Dragos Mocanu',
     title: 'Trésorier',
-    links: [
-      { icon: 'github', link: 'https://github.com/yyx990803' },
-      { icon: 'twitter', link: 'https://twitter.com/youyuxi' }
-    ]
   },
   {
     avatar: 'https://www.github.com/yyx990803.png',
-    name: 'Evan You',
+    name: 'Laurent Galin',
     title: 'Membre CA',
-    links: [
-      { icon: 'github', link: 'https://github.com/yyx990803' },
-      { icon: 'twitter', link: 'https://twitter.com/youyuxi' }
-    ]
   },
 ]
 </script>
@@ -79,4 +62,10 @@ const members = [
     </template>
   </VPTeamPageTitle>
   <VPTeamMembers :members />
+    <VPTeamPageSection>
+    <template #title>Informations du club</template>
+    <template #lead>...</template>
+    <template #members>
+    </template>
+  </VPTeamPageSection>
 </VPTeamPage>

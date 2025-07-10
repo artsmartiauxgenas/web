@@ -12,7 +12,7 @@ export default defineConfig({
     logo: '/logo.svg',
     // https://vitepress.dev/reference/default-theme-config
     nav: [
-      { text: 'Equipe', link: '/team', activeMatch: '/team' },
+      { text: 'Equipe', link: '/club', activeMatch: '/club' },
       { text: 'FAQ', link: '/docs/faq', activeMatch: '/faq' },
       { text: 'Docs', link: '/docs', activeMatch: '/docs' },
       { text: 'Blog', link: '/blog', activeMatch: '/blog' },
@@ -92,8 +92,8 @@ export default defineConfig({
     ],
 
     footer: {
-      message: '',
-      copyright: 'Copyright © 1993-present <a href="https://github.com/artsmartiauxgenas">Arts Martiaux Genas</a>'
+      message: 'Association loi 1901 soutenue par la <a href="https://genas.fr" target="_blank">Ville de Genas</a> et la <a href="https://www.ffkarate.fr/" target="_blank">Fédération Française de Karaté</a>',
+      copyright: 'Copyright © 1993-present <a href="https://github.com/artsmartiauxgenas" target="_blank">Arts Martiaux Genas</a>'
     }
   },
 
