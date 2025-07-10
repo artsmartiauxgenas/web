@@ -6,7 +6,7 @@ export default defineConfig({
   title: "Arts Martiaux Genas",
   description: "Arts Martiaux à Genas",
   cleanUrls: true,
-  head: [['link', { rel: 'icon', href: '/logo.svg' }]],
+  head: [['link', { rel: 'icon', href: '/favicon.ico' }]],
   lastUpdated: true,
   themeConfig: {
     logo: '/logo.svg',
