@@ -4,7 +4,7 @@ layout: home
 
 hero:
   name: "Arts Martiaux Genas"
-  text: "Karaté et autres"
+  text: "Karaté pour tous"
   tagline: Cours d'arts martiaux à Genas
   actions:
     - theme: brand
