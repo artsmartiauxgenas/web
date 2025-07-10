@@ -22,10 +22,11 @@ export default defineConfig({
       '/docs/': [
         {
           text: 'Administration',
-          link: '/docs/admin',
+          link: '/docs/legal',
           collapsed: true,
           items: [
-            { text: 'Statuts', link: '/docs/admin/2025-statuts' },
+            { text: 'Décisions', link: '/docs/legal/rfc' },
+            { text: 'Publications JO', link: '/docs/legal/publications-jo' },
           ]
         },
         {

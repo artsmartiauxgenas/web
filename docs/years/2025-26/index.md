@@ -4,7 +4,7 @@
 
 ## Administration
 
-- [Statuts de l'association Arts Martiaux Genas (2025)](/docs/admin/2025-statuts)
+- [Statuts de l'association Arts Martiaux Genas (2025)](/docs/legal/rfc-7-statuts-arts-martiaux-genas)
 - [Règlement intérieur de l'association Arts Martiaux Genas (2025)](/docs/years/2025-26/reglement-interieur)
 - PV Assemblée Générale (date à définir)
 
