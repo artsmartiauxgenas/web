@@ -6,7 +6,7 @@ Ce dépôt contient l’ensemble du site statique du club Arts Martiaux Genas, e
 - le **blog**,
 - la **documentation interne et institutionnelle**,
 - les **documents saisonniers** (cours, AG, budget...),
-- ainsi qu’un **système de gouvernance documentaire clair et durable**.
+- un **système de gouvernance documentaire clair et durable**.
 
 ---
 

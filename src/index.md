@@ -3,9 +3,9 @@
 layout: home
 
 hero:
-  name: "Arts Martiaux Genas"
-  text: "Karaté pour tous"
-  tagline: Cours d'arts martiaux à Genas
+  name: Arts Martiaux Genas
+  text: Karaté, Self-défense, Body Fight
+  tagline: Enfants, adultes, seniors – ça bouge à Genas !
   actions:
     - theme: brand
       text: Inscriptions
