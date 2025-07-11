@@ -16,7 +16,7 @@ outline: deep
 `rfc-4` 29 mai 2013
 
 > [!WARNING] Statuts obsolètes
-> Remplacés par [RFC-6 ARTS MARTIAUX DE GENAS KWON TE ZEN - STATUTS OFFICIELS](/docs/legal/rfc-6-arts-martiaux-de-genas-kwon-te-zen-statuts-officiels)
+> Remplacés par [RFC-6 ARTS MARTIAUX DE GENAS KWON TE ZEN - STATUTS OFFICIELS](rfc-6-arts-martiaux-de-genas-kwon-te-zen-statuts-officiels)
 
 ## DENOMINATION
 

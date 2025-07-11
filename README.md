@@ -82,3 +82,82 @@ npx vitepress dev .
 ## 🤝 Contact
 
 Pour toute contribution, question ou reprise du site, merci de contacter le président ou le secrétaire du club.
+
+Migration vers
+
+```
+
+/                         # Racine
+├── legal/
+│   ├── statuts.md
+│   ├── projet-associatif.md
+│   ├── reglement.md
+│   ├── assurances/**     # Attestations de RC annuelle
+│   ├── encadrants/**     # Déclarations, diplômes, casiers (si requis)
+│   ├── depots/**         # Dépôts de statuts en préfecture
+│   ├── rfc/
+│   │   └── ...
+│   └── ag/index.md
+├── seasons/2025-26/
+│   ├── ag/2026-06-30/
+│   ├── reglement.md
+│   ├── bilan-financier.md
+│   ├── subventions/**    # Dossiers de subvention + justificatifs
+│   └── ...
+
+
+/                         # Racine
+├── legal/                # Textes fondateurs et gouvernance longue durée
+│   ├── statuts.md
+│   ├── projet-associatif.md
+│   ├── reglement-type.md
+│   ├── rfc/
+│   │   ├── rfc-001-statuts-initiaux.md
+│   │   ├── rfc-002-projet-associatif-2024-2028.md
+│   │   ├── rfc-003-statuts-modifiés.md
+│   │   └── ...
+│   ├── ag/              # Assemblées générales (non saisonnières)
+│   │   ├── 2023-06-30-ag-extraordinaire/
+│   │   │   ├── convocation.pdf
+│   │   │   ├── pv.md
+│   │   │   └── feuille-presence.pdf
+│   │   └── 2024-09-15-ag-ordinaire/
+│   │       ├── ...
+│   └── assurances/      # Certificats d'assurance responsabilité civile etc.
+├── seasons/             # Une saison = une archive complète
+│   ├── 2025-26/
+│   │   ├── context.md         # RFC applicables, projet en vigueur, etc.
+│   │   ├── reglement.md
+│   │   ├── planning.md
+│   │   ├── fiche-inscription.pdf
+│   │   ├── bilan-financier.md
+│   │   ├── rfc/
+│   │   │   ├── rfc-004-reglement-2025-26.md
+│   │   │   ├── rfc-005-modification-horaires.md
+│   │   │   └── ...
+│   │   ├── evenements/        # Tous les événements de la saison
+│   │   │   ├── stage-octobre/
+│   │   │   │   ├── description.md
+│   │   │   │   ├── bilan-financier.md
+│   │   │   │   └── affiches/
+│   │   │   └── fête-club/
+│   │   ├── ag/                # AG de fin de saison (doublon autorisé avec `legal/ag/`)
+│   │   │   └── 2026-06-30/
+│   │   │       ├── convocation.pdf
+│   │   │       ├── pv.md
+│   │   │       └── liste-signatures.pdf
+│   │   └── communications/
+│   │       └── plaquette-parents.pdf
+├── public/               # Documents à publier ou transmettre
+│   ├── reglement-simplifie.pdf
+│   └── planning-public.md
+├── templates/            # Modèles vierges pour l’équipe
+│   ├── fiche-inscription-template.odt
+│   ├── pv-ag-template.md
+│   ├── bilan-financier-event-template.md
+│   └── convocation-ag-template.odt
+├── meta/                 # Documentation interne
+│   ├── conventions.md    # Règles de nommage, formats, workflow documentaire
+│   ├── index-rfc.md      # Index global de toutes les RFC (lien vers fichiers)
+│   └── roadmap.md        # Idées d’évolution pour la structure
+```

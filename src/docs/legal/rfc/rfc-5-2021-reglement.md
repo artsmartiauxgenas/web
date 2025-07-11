@@ -14,4 +14,4 @@ outline: deep
 `rfc-5` 26 novembre 2021
 
 > [!WARNING] Document manquant
-> Remplacé par [RFC-8 Règlement intérieur](/docs/legal/rfc-8-2025-reglement-interieur)
+> Remplacé par [RFC-8 Règlement intérieur](rfc-8-2025-reglement)

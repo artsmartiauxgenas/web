@@ -17,7 +17,7 @@ outline: deep
 `rfc-6` 26 novembre 2021
 
 > [!WARNING] Statuts obsolètes
-> Remplacés par [RFC-7 Statuts de l'association Arts Martiaux Genas](/docs/legal/rfc-7-statuts-arts-martiaux-genas)
+> Remplacés par [RFC-7 Statuts de l'association Arts Martiaux Genas](rfc-7-statuts-arts-martiaux-genas)
 
 ## DENOMINATION
 

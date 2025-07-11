@@ -26,21 +26,17 @@ export default defineConfig({
           collapsed: true,
           items: [
             { text: 'Décisions', link: '/docs/legal/rfc' },
-            { text: 'Publications JO', link: '/docs/legal/publications-jo' },
+            { text: 'Publications JO', link: '/docs/legal/depots' },
           ]
         },
         {
           text: 'Saison 2025-26',
-          link: '/docs/years/2025-26',
+          link: '/docs/ssn/2025-26',
           collapsed: false,
           items: [
-            { text: 'Règlement intérieur', link: '/docs/years/2025-26/reglement-interieur' },
-            {
-              text: 'Budget',
-              collapsed: true,
-              items: [
-              ]
-            },
+            { text: 'Règlement intérieur', link: '/docs/ssn/2025-26/reglement' },
+            { text: 'Cours', link: '/docs/ssn/2025-26/planning' },
+            { text: 'Bilan financier', link: '/docs/ssn/2025-26/bilan' },
             {
               text: 'Evénements',
               collapsed: true,
