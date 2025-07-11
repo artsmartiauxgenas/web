@@ -1,30 +1,26 @@
 ---
 title: Procès-verbal CA
-date: 2025-07-17
+date: YYYY-MM-DD
 location: Lieu de la réunion
 status: draft
 tags:
   - pv
   - ca
-  - kickoff
 ---
 
 # Procès-verbal – Réunion du Conseil d’Administration
 
-**Date** : 2025-07-17  
+**Date** : YYYY-MM-DD  
 **Lieu** : [lieu]  
 **Présents** : [liste des membres présents]  
 **Excusé(s)** : [le cas échéant]
 
 ## Ordre du jour
 
-1. Clôture comptes 2024-25
-2. Organisation des sections et des horaires
-3. Conventions et rémunérations
-4. Définition des cotisations
-5. Lancement saison 2025-26 et ouverture inscriptions
-6. Participation au Forum des Associations
-7. Questions diverses
+1. Sujet 1
+2. Sujet 2
+3. Sujet 3
+4. Questions diverses
 
 ## Déroulé
 
@@ -43,6 +39,8 @@ Préparation de tel événement ou décision à venir.
 ### 4. Questions diverses
 
 Divers points abordés hors ordre du jour principal.
+
+---
 
 ## Prochain CA
 
