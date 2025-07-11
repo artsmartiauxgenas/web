@@ -1,9 +1,9 @@
 # Historique des mandats
 
-| Mandat        | Président(e)        | Trésorier(e)        | Secrétaire       | Autres rôles              | Élu lors de         |
+| Mandat        | Président(e)         | Trésorier(e)         | Secrétaire        | Autres rôles               | Élu lors de          |
 |---------------|----------------------|----------------------|-------------------|----------------------------|----------------------|
 | 2022–2024     | Alice Durand         | Marc Lefèvre         | Julie Brun        |                            | AG 2022-06-30        |
-| 2024–2026     | Geoffrey Petri       | Nathalie Lemoine     | Thomas Renaud     | Resp. com : Sarah Lemaitre| AG 2024-06-29        |
+| 2024–2026     | Geoffrey Petri       | Nathalie Lemoine     | Thomas Renaud     | Resp. com : Sarah Lemaitre | AG 2024-06-29        |
 
 
 # Mandat 2024–2026

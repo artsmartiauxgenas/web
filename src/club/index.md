@@ -61,7 +61,7 @@ const members = [
       faîtes connaissance avec notre équipe.
     </template>
   </VPTeamPageTitle>
-  <VPTeamMembers :members />
+  <VPTeamMembers size="medium" :members />
   <VPTeamPageSection>
     <template #title>Informations du club</template>
     <template #lead>Voir les <a href="/docs/legal/">informations administratives</a></template>

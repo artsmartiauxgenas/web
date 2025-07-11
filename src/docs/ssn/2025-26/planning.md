@@ -4,6 +4,11 @@ Saison 2025-26
 > [!INFO]
 > Les cours réguliers peuvent être annulés en cas d’indisponibilité des installations ou des encadrants. Dans ce cas, les cours ne seront pas systématiquement remplacés et ne donneront lieu à aucun remboursement de cotisation.
 
+Les cours ont lieu au Pôle de Loisirs de la Fraternité de Genas : [2 Rue de la Fraternité, 69740 Genas](https://www.google.com/maps/place/P%C3%B4le+de+Loisirs+de+la+Fraternit%C3%A9/@45.7280396,5.010286,646m/data=!3m2!1e3!4b1!4m6!3m5!1s0x47f4c7f54e4f4d95:0xee39a0c574e71577!8m2!3d45.7280396!4d5.0128609!16s%2Fg%2F11vx69y8tw?entry=ttu&g_ep=EgoyMDI1MDcwOC4wIKXMDSoASAFQAw%3D%3D)  
+Dojo : Halle des Sports Jacques Vabre, 2ème étage  
+Salle 1 : Salle Paul Pervangher - entrée, à gauche  
+Salle 4 : Salle Paul Pervangher - au fond du gymnase  
+
 ## Karaté traditionnel
 
 ### Cours 5-7 ans

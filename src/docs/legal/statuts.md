@@ -3,8 +3,8 @@ title: Redirecting...
 head:
   - - meta
     - http-equiv: refresh
-      content: '0; URL=/docs/legal/rfc-7-statuts-arts-martiaux-genas'
+      content: '0; URL=rfc/rfc-7-statuts-arts-martiaux-genas'
   - - link
     - rel: canonical
-      href: /docs/legal/rfc-7-statuts-arts-martiaux-genas
+      href: rfc/rfc-7-statuts-arts-martiaux-genas
 ---

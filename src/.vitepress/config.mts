@@ -7,7 +7,6 @@ export default defineConfig({
   description: "Arts Martiaux à Genas",
   cleanUrls: true,
   head: [['link', { rel: 'icon', href: '/favicon.ico' }]],
-  lastUpdated: true,
   themeConfig: {
     logo: '/logo.svg',
     // https://vitepress.dev/reference/default-theme-config
@@ -27,6 +26,7 @@ export default defineConfig({
           items: [
             { text: 'Décisions', link: '/docs/legal/rfc' },
             { text: 'Publications JO', link: '/docs/legal/depots' },
+            { text: 'Mandats', link: '/docs/legal/mandats' },
           ]
         },
         {

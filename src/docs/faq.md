@@ -6,7 +6,7 @@
 
 ## Faut-il un certificat médical ?
 
-> Oui, un certificat de non contre-indication à la pratique des arts martiaux est obligatoire à l'inscription.
+> Non, un certificat médical n'est pas obligatoire. Il pourra cependant être demandé pour la participation à des compétitions.
 
 ## Peut-on faire un cours d’essai ?
 
@@ -18,7 +18,7 @@
 
 ## Combien coûtent les cours ?
 
-> Nos tarifs sont indiqués sur la page [Inscriptions](/docs/legal/inscription). Ils varient selon l’âge et la discipline.
+> Nos tarifs sont indiqués dans le [Règlement intérieur](legal/reglement). Ils varient selon l’âge et la discipline.
 
 ## Puis-je m'inscrire en cours d'année ?
 
@@ -26,11 +26,11 @@
 
 ## Où ont lieu les cours ?
 
-> Tous nos cours ont lieu au pôle Fraternité. Voir la section "Où nous trouver" pour les détails.
+> Tous nos cours ont lieu au pôle Fraternité. Voir la section "Cours" pour les détails.
 
 ## L’association propose-t-elle des stages ou événements ?
 
-> Oui, nous organisons régulièrement des stages, passages de grades et démonstrations. Toutes les infos sont communiquées par mail et affichées au dojo.
+> Oui, nous organisons régulièrement des stages, passages de grades et démonstrations. Toutes les infos sont communiquées par mail et affichées au Dojo.
 
 ## Qui encadre les cours ?
 

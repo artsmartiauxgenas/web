@@ -9,10 +9,10 @@ hero:
   actions:
     - theme: brand
       text: Inscriptions
-      link: docs/years/2025-26/
+      link: docs/legal/inscription
     - theme: alt
-      text: Documentation
-      link: docs
+      text: Infos 2025-26
+      link: docs/ssn/now
   image:
     src: /panda.png
     alt: AMGenas
@@ -31,4 +31,3 @@ features:
     title: Un esprit de club familial
     details: avec des parcours et des pratiques adaptés
 ---
-

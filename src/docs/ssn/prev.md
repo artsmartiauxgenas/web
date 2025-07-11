@@ -3,8 +3,8 @@ title: Redirecting...
 head:
   - - meta
     - http-equiv: refresh
-      content: '0; URL=2026-27'
+      content: '0; URL=2024-25'
   - - link
     - rel: canonical
-      href: 2026-27
+      href: 2024-25
 ---
