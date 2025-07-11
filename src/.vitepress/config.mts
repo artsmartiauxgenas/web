@@ -50,10 +50,16 @@ export default defineConfig({
           link: '/docs/guides',
           collapsed: true,
           items: [
-            {
-              text: 'Plan comptable',
-              link: '/docs/guides/pcg-pca',
-            },
+            { text: 'Charte pédagogique', link: '/docs/guides/charte-pedagogique' },
+            { text: 'Accueil adhérents', link: '/docs/guides/adherents' },
+            { text: 'Accueil bénévoles', link: '/docs/guides/benevoles' },
+            { text: 'Licences', link: '/docs/guides/licences' },
+            { text: 'Evénement', link: '/docs/guides/event' },
+            { text: 'Communication', link: '/docs/guides/communication' },
+            { text: 'Préparation AG', link: '/docs/guides/ag' },
+            { text: 'Plan comptable', link: '/docs/guides/pca' },
+            { text: 'RGPD', link: '/docs/guides/rgpd' },
+            { text: 'Passation', link: '/docs/guides/handover' },
           ]
         },
         {

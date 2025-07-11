@@ -2,8 +2,9 @@
 
 ## 2025
 
-- [Dépôt des nouveaux statuts]() relatif à [RFC-7](../rfc/rfc-7-statuts-arts-martiaux-genas.md) <Badge type="warning" text="todo" />
+- [Dépôt des nouveaux statuts]() relatif à [RFC-7](../rfc/rfc-7-statuts-arts-martiaux-genas.md) <Badge type="warning" text="en cours" />
   - Changement de nom
+  - Démarche en cours depuis le 23 mai 2025
 
 ## 2021
 

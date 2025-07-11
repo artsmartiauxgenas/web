@@ -19,7 +19,6 @@ Ce dépôt contient l’ensemble du site statique du club Arts Martiaux Genas, e
 │   ├── guides/          → Tutoriels pour les membres du bureau ou les enseignants
 │   ├── legal/           → Statuts, règlements, documents institutionnels
 │   ├── ssn/             → Dossiers par saison (ex : 2025-26)
-│   ├── legal/           → Statuts, règlements, documents institutionnels
 │   └── faq.md           → Questions pratiques et courantes
 ├── public/              → Logos, fichiers statiques
 ```
