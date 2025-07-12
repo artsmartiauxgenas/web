@@ -20,7 +20,7 @@
 
 | Date       | Notes |
 | ---------- | ----- |
-| 2025-07-17 | [Réunion 1]() : décisions |
+| 2025-07-17 | [Réunion 1](ca/2025-07-17/pv) : décisions |
 
 ## Evénements
 

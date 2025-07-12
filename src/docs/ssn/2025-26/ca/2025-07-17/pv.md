@@ -11,20 +11,22 @@ tags:
 
 # Procès-verbal – Réunion du Conseil d’Administration
 
-**Date** : 2025-07-17  
+**Date** : {{ new Date( $frontmatter.date ).toLocaleDateString("fr") }}  
 **Lieu** : [lieu]  
 **Présents** : [liste des membres présents]  
 **Excusé(s)** : [le cas échéant]
+**Prochaine réunion** : [à définir]
 
 ## Ordre du jour
 
 1. Clôture comptes 2024-25
 2. Organisation des sections et des horaires
-3. Conventions et rémunérations
-4. Définition des cotisations
-5. Lancement saison 2025-26 et ouverture inscriptions
-6. Participation au Forum des Associations
-7. Questions diverses
+3. Conventions et rémunérations des professeurs
+4. Cotisations
+5. Calendrier des événements (club, stages, etc.)
+6. Lancement saison 2025-26 et ouverture inscriptions
+7. Participation au Forum des Associations
+8. Questions diverses
 
 ## Déroulé
 
@@ -43,7 +45,3 @@ Préparation de tel événement ou décision à venir.
 ### 4. Questions diverses
 
 Divers points abordés hors ordre du jour principal.
-
-## Prochain CA
-
-**Date proposée** : [date éventuelle de la prochaine réunion]
