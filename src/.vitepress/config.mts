@@ -73,6 +73,7 @@ export default defineConfig({
           collapsed: false,
           items: [
             { text: 'Nouveau nom', link: '/blog/post-1-nouveau-nom' },
+            { text: 'Bal des pompiers', link: '/blog/post-2-2025-bal-pompiers' },
           //  { text: 'Ouverture des inscriptions', link: '/blog/2025-07-17-ouverture-inscriptions' },
           //  { text: 'Forum des associations', link: '/blog/2025-08-15-forum-associations' },
           ]
@@ -103,4 +104,10 @@ export default defineConfig({
     }
   },
 
+  markdown: {
+    image: {
+      // image lazy loading is disabled by default
+      lazyLoading: true
+    }
+  }
 })
