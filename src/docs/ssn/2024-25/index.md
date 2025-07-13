@@ -4,3 +4,8 @@
 
 > [!WARNING] Saison terminée !
 > Voir [saison en cours](../now)
+
+## Administration
+
+- [PV Assemblée Générale](ag/pv)
+- [Bilan financier](bilan)

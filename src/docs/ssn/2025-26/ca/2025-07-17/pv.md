@@ -33,7 +33,7 @@ tags:
 
 ### 1. Clôture comptes 2024-25
 
-> _En cours_
+Voir [Bilan financier 2024-25](/docs/ssn/2024-25/bilan).
 
 ### 2. Organisation des sections et des horaires
 

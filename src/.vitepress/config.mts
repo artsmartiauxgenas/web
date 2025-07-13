@@ -36,7 +36,6 @@ export default defineConfig({
           items: [
             { text: 'Règlement intérieur', link: '/docs/ssn/2025-26/reglement' },
             { text: 'Cours', link: '/docs/ssn/2025-26/planning' },
-            { text: 'Bilan financier', link: '/docs/ssn/2025-26/bilan' },
             {
               text: 'Evénements',
               collapsed: true,
@@ -44,6 +43,10 @@ export default defineConfig({
               ]
             },
           ]
+        },
+        {
+          text: 'Saison 2024-25',
+          link: '/docs/ssn/2024-25'
         },
         {
           text: 'Guides',
