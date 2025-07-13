@@ -19,15 +19,15 @@ tags:
 
 ## Ordre du jour
 
-1. [Clôture comptes 2024-25](#1-clôture-comptes-2024-25)
-2. [Organisation des sections et des horaires](#2-organisation-des-sections-et-des-horaires)
-3. [Conventions et rémunérations des professeurs](#3-conventions-et-rémunérations-des-professeurs)
-4. [Cotisations](#4-cotisations)
-5. [Calendrier des événements (club, stages, etc.)](#5-calendrier-des-événements-club-stages-etc)
-6. [Achat de matériel et communication](#6-achat-de-matériel--communication)
-7. [Lancement saison 2025-26 et ouverture inscriptions](#7-lancement-saison-2025-26-et-ouverture-inscriptions)
-8. [Participation au Forum des Associations](#8-participation-au-forum-des-associations)
-9. [Questions diverses](#9-questions-diverses)
+1. [Clôture comptes 2024-25](#_1-cloture-comptes-2024-25)
+2. [Organisation des sections et des horaires](#_2-organisation-des-sections-et-des-horaires)
+3. [Conventions et rémunérations des professeurs](#_3-conventions-et-rémunérations-des-professeurs)
+4. [Cotisations](#_4-cotisations)
+5. [Calendrier des événements (club, stages, etc.)](#_5-calendrier-des-événements-club-stages-etc)
+6. [Achat de matériel et communication](#_6-achat-de-matériel--communication)
+7. [Lancement saison 2025-26 et ouverture inscriptions](#_7-lancement-saison-2025-26-et-ouverture-inscriptions)
+8. [Participation au Forum des Associations](#_8-participation-au-forum-des-associations)
+9. [Questions diverses](#_9-questions-diverses)
 
 ## Déroulé
 

@@ -59,3 +59,75 @@
 ---
 
 ✅ *Bilan présenté en Assemblée Générale du [à compléter]*  
+
+
+# 📊 Bilan financier – Saison 2024–2025  
+*Association Arts Martiaux Genas*  
+*Exercice clôturé au 30 juin 2025*
+
+## 🔹 Résumé global
+
+| Poste                            | Montant (€)  |
+|----------------------------------|--------------|
+| **Total des recettes**           | +6 540,00 €  |
+| **Total des dépenses**           | –5 225,00 €  |
+| **Résultat de l’exercice**       | **+1 315,00 €**  |
+
+---
+
+## 🔹 Détail des recettes
+
+| Poste                    | Compte | Montant (€) |
+|--------------------------|--------|-------------|
+| Cotisations adhérents    | 706    | 4 500,00 €  |
+| Subventions publiques    | 74     | 1 200,00 €  |
+| Dons et mécénat          | 754    |   300,00 €  |
+| Recettes événements      | 708    |   540,00 €  |
+| **Total recettes**       |        | **6 540,00 €** |
+
+---
+
+## 🔹 Détail des dépenses
+
+| Poste                        | Compte | Montant (€) |
+|------------------------------|--------|-------------|
+| Location de salles           | 613    | 1 800,00 €  |
+| Rémunération des intervenants| 621    | 1 500,00 €  |
+| Achats de matériel           | 601    |   975,00 €  |
+| Assurance                    | 616    |   350,00 €  |
+| Frais administratifs         | 626    |   120,00 €  |
+| Communication & impression   | 623    |   230,00 €  |
+| **Total dépenses**           |        | **5 225,00 €** |
+
+---
+
+## 🔹 Résultat net
+
+> **Excédent d’exploitation** de **+1 315,00 €** sur l’exercice 2024–2025.  
+> Cet excédent sera réinvesti dans l’achat de matériel pédagogique et l’organisation de stages internes pour la saison 2025–2026.
+
+---
+
+## 🔹 Évolution sur 3 ans
+
+| Exercice       | Recettes | Dépenses | Résultat |
+|----------------|----------|----------|----------|
+| 2022–2023      | 5 780 €  | 5 250 €  | +530 €   |
+| 2023–2024      | 6 120 €  | 5 920 €  | +200 €   |
+| **2024–2025**  | 6 540 €  | 5 225 €  | **+1 315 €** |
+
+---
+
+## 🔹 Observations
+
+- Le club bénéficie d’une **meilleure fréquentation** cette saison.
+- Les **dépenses maîtrisées** ont permis un excédent utile pour l’avenir.
+- La **transparence** est une valeur essentielle pour le fonctionnement de notre association.
+
+> 📎 Documents complémentaires :
+> - [Télécharger le bilan comptable détaillé (PDF)](/documents/bilan-2024-2025.pdf)
+> - [Voir la synthèse AG précédente](/documents/pv-ag-2024.pdf)
+
+---
+
+*Dernière mise à jour : juillet 2025 – approuvé par le bureau de l’association.*
