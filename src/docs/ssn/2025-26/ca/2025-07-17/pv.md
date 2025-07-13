@@ -24,24 +24,63 @@ tags:
 3. Conventions et rémunérations des professeurs
 4. Cotisations
 5. Calendrier des événements (club, stages, etc.)
-6. Lancement saison 2025-26 et ouverture inscriptions
-7. Participation au Forum des Associations
-8. Questions diverses
+6. Achat de matériel
+7. Lancement saison 2025-26 et ouverture inscriptions
+8. Participation au Forum des Associations
+9. Questions diverses
 
 ## Déroulé
 
-### 1. Sujet 1
+### 1. Clôture comptes 2024-25
 
-Résumé de la discussion, points évoqués, arguments, etc.
+> _En cours_
 
-### 2. Sujet 2
+### 2. Organisation des sections et des horaires
 
-Décision envisagée ou prise, orientation retenue, etc.
+> _Voir section [Cours](../../planning)
 
-### 3. Sujet 3
+On aurait 3 sections (les noms peuvent évoluer) :
+- Karaté traditionnel
+- Karaté remise en forme + défense
+- Combat fitness
 
-Préparation de tel événement ou décision à venir.
+Voir également la question des dispos des profs + licences par section.
 
-### 4. Questions diverses
+### 3. Conventions et rémunérations des professeurs
 
-Divers points abordés hors ordre du jour principal.
+> Discussions sur les conventions avec les professeurs, le niveau et le mode de rémunération.
+
+### 4. Cotisations
+
+> Cotisations par sections à revoir
+
+Proposition :
+
+- Karaté traditionnel
+  - enfants : 
+  - adultes : 
+- Karaté remise en forme + défense
+  - adultes : 
+- Combat fitness
+  - adultes : 
+
+### 5. Calendrier des événements (club, stages, etc.)
+
+> A définir
+
+Il faut 1 stage par trimestre pour le karaté.
+
+### 6. Achat de matériel + communication
+
+> A définir : on avait parlé de protections et cordes
+> Communication : t-shirts, gobelets, casquettes/bob
+
+### 7. Lancement saison 2025-26 et ouverture inscriptions
+
+> Inscriptions à lancer quand on aura les horaires + cotisations
+
+### 8. Participation au Forum des Associations
+
+> Qui sera dispo ?
+
+### 9. Questions diverses
