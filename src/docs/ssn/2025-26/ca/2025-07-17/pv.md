@@ -37,7 +37,7 @@ tags:
 
 ### 2. Organisation des sections et des horaires
 
-> _Voir section [Cours](../../planning)
+> _Voir section [Cours](../../planning)_
 
 On aurait 3 sections (les noms peuvent évoluer) :
 - Karaté traditionnel
