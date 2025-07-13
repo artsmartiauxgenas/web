@@ -16,15 +16,15 @@ const members = [
     name: 'Ayoub Otmani',
     title: 'Entraîneur et directeur technique',
     links: [
-      { icon: 'twitter', link: 'https://twitter.com/youyuxi' }
+      { icon: 'twitter', link: '' }
     ]
   },
   {
-    avatar: 'https://www.github.com/yyx990803.png',
+    avatar: '8a3a9e8f.jpg',
     name: 'Bernardo Dupont',
     title: 'Entraîneur et directeur technique',
     links: [
-      { icon: 'twitter', link: 'https://twitter.com/youyuxi' }
+      { icon: 'twitter', link: '' }
     ]
   },
   {
@@ -43,7 +43,7 @@ const members = [
     title: 'Trésorier',
   },
   {
-    avatar: 'https://www.github.com/yyx990803.png',
+    avatar: 'd2e20ad1.jpg',
     name: 'Laurent Galin',
     title: 'Membre CA',
   },
