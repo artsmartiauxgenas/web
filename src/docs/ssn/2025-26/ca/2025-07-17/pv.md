@@ -19,15 +19,15 @@ tags:
 
 ## Ordre du jour
 
-1. Clôture comptes 2024-25
-2. Organisation des sections et des horaires
-3. Conventions et rémunérations des professeurs
-4. Cotisations
-5. Calendrier des événements (club, stages, etc.)
-6. Achat de matériel
-7. Lancement saison 2025-26 et ouverture inscriptions
-8. Participation au Forum des Associations
-9. Questions diverses
+1. [Clôture comptes 2024-25](#1-clôture-comptes-2024-25)
+2. [Organisation des sections et des horaires](#2-organisation-des-sections-et-des-horaires)
+3. [Conventions et rémunérations des professeurs](#3-conventions-et-rémunérations-des-professeurs)
+4. [Cotisations](#4-cotisations)
+5. [Calendrier des événements (club, stages, etc.)](#5-calendrier-des-événements-club-stages-etc)
+6. [Achat de matériel et communication](#6-achat-de-matériel--communication)
+7. [Lancement saison 2025-26 et ouverture inscriptions](#7-lancement-saison-2025-26-et-ouverture-inscriptions)
+8. [Participation au Forum des Associations](#8-participation-au-forum-des-associations)
+9. [Questions diverses](#9-questions-diverses)
 
 ## Déroulé
 
@@ -70,7 +70,7 @@ Proposition :
 
 Il faut 1 stage par trimestre pour le karaté.
 
-### 6. Achat de matériel + communication
+### 6. Achat de matériel et communication
 
 > A définir : on avait parlé de protections et cordes
 > Communication : t-shirts, gobelets, casquettes/bob
