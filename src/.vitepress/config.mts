@@ -46,7 +46,10 @@ export default defineConfig({
         },
         {
           text: 'Saison 2024-25',
-          link: '/docs/ssn/2024-25'
+          link: '/docs/ssn/2024-25',
+          collapsed: true,
+          items: [
+          ]
         },
         {
           text: 'Guides',

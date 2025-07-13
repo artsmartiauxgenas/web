@@ -5,7 +5,7 @@ layout: home
 hero:
   name: Arts Martiaux Genas
   text: Karaté, Self-défense, Body Fight
-  tagline: Enfants, adultes, seniors – ça bouge à Genas !
+  tagline: Tradition, exigence, progression — pour tous les âges
   actions:
     - theme: brand
       text: Inscriptions
