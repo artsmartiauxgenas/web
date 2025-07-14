@@ -42,3 +42,11 @@ date_created: 2025-07-11
 ## Commentaire
 
 La saison 2025–2026 a respecté les prévisions budgétaires présentées en AG. Les recettes ont légèrement dépassé les attentes grâce à une forte participation aux activités. Les dépenses sont restées maîtrisées. L’excédent de 660 € sera conservé comme fonds de réserve pour la saison suivante.
+
+> 📎 Documents complémentaires :
+> - [Télécharger le bilan comptable détaillé (PDF)](/documents/bilan-2024-2025.pdf)
+> - [Voir la synthèse AG précédente](/documents/pv-ag-2024.pdf)
+
+---
+
+*Dernière mise à jour : juillet 2025 – approuvé par le bureau de l’association.*
