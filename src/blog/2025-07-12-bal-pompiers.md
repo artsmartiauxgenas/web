@@ -1,5 +1,5 @@
 ---
-title: Bal des pompiers 2025
+title: Bal des pompiers et feu d'artifice 2025
 description: Venez célébrer la Fête nationale avec le bal des pompiers et le feu d’artifice offert par la municipalité.
 id: post-2
 tags:
@@ -12,7 +12,7 @@ authors:
   - name: Equipe AMGenas
 status: published
 ---
-# Bal des pompiers 2025
+# Bal des pompiers et feu d'artifice 2025
 `{{ $frontmatter.id }}` 2025-07-12 · {{ $frontmatter.authors[0].name }}
 
 🎇 **Le traditionnel bal des pompiers, accompagné d’un feu d’artifice offert par la municipalité**, revient à Genas ce dimanche 13 juillet 2025 !

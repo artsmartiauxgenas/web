@@ -35,7 +35,7 @@ export default defineConfig({
           collapsed: false,
           items: [
             { text: 'Règlement intérieur', link: '/docs/ssn/2025-26/reglement' },
-            { text: 'Cours', link: '/docs/ssn/2025-26/planning' },
+            { text: 'Cours et horaires', link: '/docs/ssn/2025-26/horaires' },
             {
               text: 'Evénements',
               collapsed: true,
@@ -106,7 +106,7 @@ export default defineConfig({
 
     footer: {
       message: 'Association loi 1901 soutenue par la <a href="https://genas.fr" target="_blank">Ville de Genas</a> et la <a href="https://www.ffkarate.fr/" target="_blank">Fédération Française de Karaté</a>',
-      copyright: 'Copyright © 1993-present <a href="https://github.com/artsmartiauxgenas" target="_blank">Arts Martiaux Genas</a>'
+      copyright: 'Copyright © 1993-present <a href="https://github.com/artsmartiauxgenas" target="_blank">Arts Martiaux Genas</a> · RNA : W691055588 · SIRET : 414 756 668 00037 · <a href="mailto:info@amgenas.fr">info@amgenas.fr</a>'
     }
   },
 

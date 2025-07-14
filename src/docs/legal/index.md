@@ -34,7 +34,6 @@
 - Assureur : MACIF
 - Numéro de sociétaire : 6293108
 
-
 ## Accès aux documents
 
 - [Statuts](/docs/legal/statuts)

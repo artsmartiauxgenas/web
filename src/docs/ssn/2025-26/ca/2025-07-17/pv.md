@@ -37,12 +37,12 @@ Voir [Bilan financier 2024-25](/docs/ssn/2024-25/bilan).
 
 ### 2. Organisation des sections et des horaires
 
-> _Voir section [Cours](../../planning)_
+> _Voir section [Cours](../../horaires)_
 
 On aurait 3 sections (les noms peuvent évoluer) :
 - Karaté traditionnel
 - Karaté remise en forme + défense
-- Combat fitness
+- Combat & Fitness
 
 Voir également la question des dispos des profs + licences par section.
 
