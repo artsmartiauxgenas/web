@@ -10,8 +10,8 @@
 ## Statut juridique
 
 - Association loi 1901 à but non lucratif
-- Date de création : [26 novembre 1993](rfc/rfc-1-karate-genas-esga)
-- Dernière modification des statuts : [17 avril 2025](rfc/rfc-7-statuts-arts-martiaux-genas)
+- Date de création : [26 novembre 1993](/docs/legal/rfc/rfc-1-karate-genas-esga)
+- Dernière modification des statuts : [17 avril 2025](/docs/legal/rfc/rfc-7-statuts-arts-martiaux-genas)
 
 ## Équipe dirigeante
 

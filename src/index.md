@@ -32,9 +32,9 @@ features:
 
 - 🕓 [Horaires et lieux de pratique](/docs/ssn/2025-26/horaires)
 - 📄 [Documents & règlement](/docs/ssn/2025-26/)
-- ✍️ [S’inscrire](/inscription)
+- ✍️ [S’inscrire](/)
 - ✉️ [Nous contacter](mailto:info@artsmartiauxgenas.fr)  
-- 📰 [Lire le blog](/blog)
+- 📰 [Lire le blog](/blog/)
 
 ## 🥇 Qui sommes-nous ?
 
@@ -75,4 +75,4 @@ Nous accueillons les **enfants dès 5 ans**, les **adultes débutants ou confirm
 - [12 juillet – Bal des pompiers et feu d'artifice 2025](/blog/2025-07-12-bal-pompiers)
 - [10 juillet - Nouveau nom, nouveau site — même esprit](/blog/2025-07-10-nouveau-nom)
 
-👉 [Voir tous les articles](/blog)
+👉 [Voir tous les articles](/blog/)
