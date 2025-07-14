@@ -24,12 +24,12 @@
 - Bernardo Dupont + diplôme + grade
 - Ayoub Otmani + diplôme + grade
 
-## Affiliation
+## Affiliation et agréments
 
 - L’association est affiliée à la [Fédération Française de Karaté et Disciplines Associées (FFKDA)](https://www.ffkarate.fr).
 - Numéro d'affiliation : 0690128
 
-## Assurance et agréments
+## Assurance
 
 - Assureur : MACIF
 - Numéro de sociétaire : 6293108
@@ -45,6 +45,7 @@
 
 - [Horaires des cours](horaires) <Badge type="info" text="2025" /> <Badge type="warning" text="en cours" />
 - [PV Assemblée Générale](ag/pv) <Badge type="warning" text="en cours" />
+- [Budget prévisionnel](budget) <Badge type="warning" text="en cours" />
 - [Bilan financier](bilan) <Badge type="warning" text="en cours" />
 
 ## Réunions du CA
