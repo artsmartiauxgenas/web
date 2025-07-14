@@ -11,3 +11,10 @@ Retrouvez ici nos actualités, événements, et moments de vie du club.
 ## 📚 Archives
 
 - [Tous les articles de 2024–25](index)
+
+::: info
+- 🎆 Evénements
+- 🥋 Stages
+- 🧾 Vie associative
+- 📣 Annonces officielles
+:::
