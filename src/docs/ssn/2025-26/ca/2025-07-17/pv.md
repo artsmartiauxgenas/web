@@ -51,7 +51,7 @@ Voir également la question des dispos des profs + licences par section.
 
 > **Proposition**  
 > [Convention Ayoub](convention-karate)  
-> [Convention Bernardo](convention-karate)  
+> [Convention Bernardo](convention-body)  
 
 ### 4. Cotisations
 
