@@ -1,4 +1,9 @@
-# 💪 Combat & Fitness
+---
+title: Fitness & Combat
+description: MMA Fit & Fun et Body Karaté.
+outline: false
+---
+# 💪 Fitness & Combat
 
 [MMA Fit & Fun](#mma) - [Body Karaté](#body)
 
@@ -43,3 +48,5 @@ Sur des sons modernes et rythmés, tu te dépasses sans t’en rendre compte.
 Résultat : tu ressors avec le sourire, vidé du stress et reboosté pour la semaine !
 
 💥 Tu veux bouger, transpirer et garder la pêche ? Ces cours sont faits pour toi.
+
+> 🗓️ [Voir les horaires des cours](/docs/ssn/2025-26/horaires.md)

@@ -20,7 +20,7 @@ const members = [
     ]
   },
   {
-    avatar: '8a3a9e8f.jpg',
+    avatar: '/club/8a3a9e8f.jpg',
     name: 'Bernardo Dupont',
     title: 'Entraîneur et directeur technique',
     links: [
@@ -43,7 +43,7 @@ const members = [
     title: 'Trésorier',
   },
   {
-    avatar: 'd2e20ad1.jpg',
+    avatar: '/club/d2e20ad1.jpg',
     name: 'Laurent Galin',
     title: 'Membre CA',
   },

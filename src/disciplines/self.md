@@ -1,6 +1,7 @@
 ---
 title: Self-défense & remise en forme
 description: Un entraînement bienveillant et utile, du karaté santé pour adolescents, adultes et seniors.
+outline: false
 ---
 
 # 🛡️ Self-défense, bien-être et remise en forme
@@ -28,4 +29,4 @@ Les séances sont conçues pour respecter le rythme et les capacités de chacun�
 - Aucun contact dur
 - Chacun progresse à son rythme
 
-> 🗓️ [Voir les horaires des cours](../horaires)
+> 🗓️ [Voir les horaires des cours](/docs/ssn/2025-26/horaires.md)

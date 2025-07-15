@@ -13,8 +13,15 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: 'Equipe', link: '/club', activeMatch: '/club' },
-      { text: 'FAQ', link: '/docs/faq', activeMatch: '/faq' },
-      { text: 'Docs', link: '/docs', activeMatch: '/docs' },
+      { text: 'Disciplines',
+        items: [
+          { text: 'Karaté traditionnel', link: '/disciplines/karate' },
+          { text: 'Self-défense', link: '/disciplines/self' },
+          { text: 'Fitness & Combat', link: '/disciplines/fitness' },
+        ]
+      },
+      { text: 'FAQ', link: '/faq', activeMatch: '/faq' },
+      { text: 'Docs', link: '/docs/ssn/now', activeMatch: '/docs' },
       { text: 'Blog', link: '/blog', activeMatch: '/blog' },
     ],
 
@@ -68,10 +75,6 @@ export default defineConfig({
             { text: 'RGPD', link: '/docs/guides/rgpd' },
             { text: 'Passation', link: '/docs/guides/handover' },
           ]
-        },
-        {
-          text: 'FAQ',
-          link: '/docs/faq',
         },
       ],
       '/blog/': [

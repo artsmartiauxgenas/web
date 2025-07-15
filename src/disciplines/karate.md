@@ -1,8 +1,8 @@
 ---
 title: Karaté Shotokan traditionnel
 description: Une pratique rigoureuse, complète et progressive pour enfants, ados et adultes.
+outline: false
 ---
-
 # 🥋 Karaté Shotokan traditionnel
 
 Le karaté Shotokan est un **art martial japonais**, à la fois exigeant et accessible.  
@@ -38,4 +38,4 @@ Le cours ado/adulte permet à chacun de progresser selon ses objectifs :
 
 Que vous soyez débutant ou avancé, la progression est personnalisée et structurée.
 
-> 🗓️ [Voir les horaires des cours](../horaires)
+> 🗓️ [Voir les horaires des cours](/docs/ssn/2025-26/horaires.md)

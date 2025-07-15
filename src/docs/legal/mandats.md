@@ -1,15 +1,7 @@
-# Historique des mandats
+# Mandats par saison
 
-| Mandat        | Président(e)         | Trésorier(e)         | Secrétaire        | Autres rôles               | Élu lors de          |
-|---------------|----------------------|----------------------|-------------------|----------------------------|----------------------|
-| 2022–2024     | Alice Durand         | Marc Lefèvre         | Julie Brun        |                            | AG 2022-06-30        |
-| 2024–2026     | Geoffrey Petri       | Nathalie Lemoine     | Thomas Renaud     | Resp. com : Sarah Lemaitre | AG 2024-06-29        |
+### Saison 2025–26
 
-
-# Mandat 2024–2026
-
-- **Président** : Geoffrey Petri
-- **Trésorière** : Nathalie Lemoine
-- **Secrétaire** : Thomas Renaud
-- **Responsable communication** : Sarah Lemaitre
-- **Élu lors de** : AG du 29 juin 2024
+- Président : Geoffrey Petri (2023–2026)
+- Secrétaire : Cyrille Protiere(2025–2028)
+- Trésorier : Dragos Mocanu (2025–2028)

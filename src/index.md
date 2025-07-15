@@ -32,8 +32,8 @@ features:
 
 - 🕓 [Horaires et lieux de pratique](/docs/ssn/2025-26/horaires)
 - 📄 [Documents & règlement](/docs/ssn/2025-26/)
-- ✍️ [S’inscrire](/)
-- ✉️ [Nous contacter](mailto:info@artsmartiauxgenas.fr)  
+- ✍️ [S’inscrire](/inscription)
+- ✉️ [Nous contacter](mailto:info@amgenas.fr)  
 - 📰 [Lire le blog](/blog/)
 
 ## 🥇 Qui sommes-nous ?
@@ -45,18 +45,18 @@ Nos valeurs : **discipline**, **progression**, **respect** et **esprit de club**
 
 Nous proposons trois pratiques complémentaires, adaptées à tous les publics :
 
-### 🥋 [Karaté Shotokan](docs/ssn/2025-26/disciplines/karate-traditionnel)
+### 🥋 [Karaté Shotokan](/disciplines/karate)
 
 Art martial traditionnel japonais, fondé sur la rigueur, la technique et le respect.  
 Accessible dès 5 ans, avec une progression structurée pour enfants, ados et adultes.
 
-### 🛡️ [Self-défense, bien-être et remise en forme](docs/ssn/2025-26/disciplines/self-defense)
+### 🛡️ [Self-défense, bien-être et remise en forme](/disciplines/self)
 
 Un karaté santé, accessible dès l’adolescence jusqu’aux seniors.  
 On y apprend à se protéger tout en renforçant équilibre, mobilité et coordination.  
 Un entraînement doux et progressif, pour entretenir sa forme dans une ambiance bienveillante.
 
-### 💪 [Fitness & Combat](docs/ssn/2025-26/disciplines/fitness-combat)
+### 💪 [Fitness & Combat](/disciplines/fitness)
 
 Deux disciplines toniques, accessibles à tous, pour se défouler et retrouver la forme — sans contact, sans pression.
 

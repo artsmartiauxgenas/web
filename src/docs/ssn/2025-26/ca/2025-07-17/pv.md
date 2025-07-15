@@ -39,9 +39,9 @@ Voir [Bilan financier 2024-25](/docs/ssn/2024-25/bilan).
 
 > **Proposition**  
 > _Voir section [Cours](../../horaires)_  
-> [Karaté traditionnel](../../disciplines/karate-traditionnel)  
-> [Self-défense et Santé](../../disciplines/self-defense.md)  
-> [Fitness & Combat](../../disciplines/fitness-combat.md)
+> [Karaté traditionnel](/disciplines/karate)  
+> [Self-défense et Santé](/disciplines/self.md)  
+> [Fitness & Combat](/disciplines/fitness.md)
 
 Voir également la question des dispos des profs + licences par section.
 

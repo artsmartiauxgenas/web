@@ -1,3 +1,9 @@
+---
+title: 
+description: 
+sidebar: false
+outline: false
+---
 # 💡 Questions fréquentes
 
 ## À partir de quel âge peut-on commencer ?
@@ -18,7 +24,7 @@
 
 ## Combien coûtent les cours ?
 
-> Nos tarifs sont indiqués dans le [Règlement intérieur](legal/reglement). Ils varient selon l’âge et la discipline.
+> Nos tarifs sont indiqués dans le [Règlement intérieur](/docs/legal/reglement). Ils varient selon l’âge et la discipline.
 
 ## Puis-je m'inscrire en cours d'année ?
 
