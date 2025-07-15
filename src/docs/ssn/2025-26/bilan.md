@@ -4,7 +4,8 @@ season: 2025-2026
 status: draft
 date_created: 2025-07-11
 ---
-# Bilan financier – Saison 2025–2026
+# Bilan financier
+**Arts Martiaux Genas** · Saison 2025–26
 
 > [!WARNING]
 > Cette page est un brouillon.

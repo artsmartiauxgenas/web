@@ -1,20 +1,20 @@
 ---
 title: Procès-verbal CA
 date: 2025-07-17
-location: Lieu de la réunion
 status: draft
 tags:
   - pv
   - ca
   - kickoff
+outline: deep
 ---
-
 # Procès-verbal – Réunion du Conseil d’Administration
+**Arts Martiaux Genas** · Saison 2025–26
 
 **Date** : {{ new Date( $frontmatter.date ).toLocaleDateString("fr") }}  
 **Lieu** : [lieu]  
 **Présents** : [liste des membres présents]  
-**Excusé(s)** : [le cas échéant]
+**Excusé(s)** : [le cas échéant]  
 **Prochaine réunion** : [à définir]
 
 ## Ordre du jour
@@ -37,12 +37,11 @@ Voir [Bilan financier 2024-25](/docs/ssn/2024-25/bilan).
 
 ### 2. Organisation des sections et des horaires
 
-> _Voir section [Cours](../../horaires)_
-
-On aurait 3 sections (les noms peuvent évoluer) :
-- Karaté traditionnel
-- Karaté remise en forme + défense
-- Combat & Fitness
+> **Proposition**  
+> _Voir section [Cours](../../horaires)_  
+> [Karaté traditionnel](../../disciplines/karate-traditionnel)  
+> [Self-défense et Santé](../../disciplines/self-defense.md)  
+> [Fitness & Combat](../../disciplines/fitness-combat.md)
 
 Voir également la question des dispos des profs + licences par section.
 
@@ -50,25 +49,24 @@ Voir également la question des dispos des profs + licences par section.
 
 > Discussions sur les conventions avec les professeurs, le niveau et le mode de rémunération.
 
+> **Proposition**  
+> [Convention Ayoub](convention-karate)  
+> [Convention Bernardo](convention-karate)  
+
 ### 4. Cotisations
 
-> Cotisations par sections à revoir
+> **Proposition**  
+> Cotisations enfants : 200 €  
+> Cotisations adultes : 250 €
 
-Proposition :
-
-- Karaté traditionnel
-  - enfants : 
-  - adultes : 
-- Karaté remise en forme + défense
-  - adultes : 
-- Combat fitness
-  - adultes : 
+Voir [RFC-8 Règlement intérieur et cotisations 2025](/docs/legal/rfc/rfc-8-2025-reglement) et [Budget prévisionnel](/docs/ssn/2025-26/budget).
 
 ### 5. Calendrier des événements (club, stages, etc.)
 
-> A définir
-
-Il faut 1 stage par trimestre pour le karaté.
+> **Proposition - à définir**  
+> Noël  
+> Fin d'année
+> Il faut 1 stage par trimestre pour le karaté.
 
 ### 6. Achat de matériel et communication
 

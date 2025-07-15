@@ -180,16 +180,19 @@ Les locaux et établissements de l'association peuvent être visités par les re
 
 *Les présents statuts ont été adoptés en assemblée générale à Genas, le 17 avril 2025.*
 
-Le Président  
-Geoffrey Petri
+> [!INFO] Le Président
+> Petri Geoffrey  
+> <br/>
 
-Le Secrétaire  
-Cyrille Protière
+> [!INFO] Le Secrétaire
+> Protiere Cyrille  
+> <br/>
 
-Le Trésorier  
-Dragos Mocanu
+> [!INFO] Le Trésorier
+> Mocanu Dragos  
+> <br/>
 
-> [!INFO]
-> artsmartiauxgenas.fr  
-> Arts Martiaux Genas – Association loi 1901 déclarée en Préfecture du Rhône le 26 novembre 1993  
-> RNA W691055588 – Siret : 414 756 668 00037
+> **Arts Martiaux Genas**  
+> Association loi 1901 déclarée en Préfecture du Rhône le 26 novembre 1993  
+> RNA W691055588 – Siret : 414 756 668 00037  
+> artsmartiauxgenas.fr

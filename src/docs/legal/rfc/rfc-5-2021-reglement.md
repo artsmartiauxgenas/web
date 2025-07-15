@@ -2,7 +2,7 @@
 title: Règlement intérieur
 id: rfc-5
 tags: 
-  - reglement intérieur
+  - reglement
   - rfc
 authors:
 date: 2021-11-26

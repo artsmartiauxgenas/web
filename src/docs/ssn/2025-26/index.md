@@ -1,4 +1,4 @@
-# Saison 2025-26
+# Saison 2025–26 · Arts Martiaux Genas
 
 ## Identité administrative
 
@@ -15,9 +15,9 @@
 
 ## Équipe dirigeante
 
-- Président : Geoffrey Petri (2023-2026)
-- Secrétaire : Cyrille Protière (2025-2028)
-- Trésorier : Dragos Mocanu (2025-2028)
+- Président : Geoffrey Petri (2023-26)
+- Secrétaire : Cyrille Protière (2025-28)
+- Trésorier : Dragos Mocanu (2025-28)
 
 **Equipe pédagogique**
 
@@ -50,7 +50,7 @@
 
 ## Réunions du CA
 
-> Les réunions du conseil d'administration sont ouvertes à tous les membres souhaitant participer. Merci de vous manifester en amont.
+> Les réunions du conseil d'administration sont ouvertes à tous les membres souhaitant participer. Merci de vous manifester si vous êtes intéressé.
 
 | Date       | Notes |
 | ---------- | ----- |

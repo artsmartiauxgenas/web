@@ -1,5 +1,7 @@
 # 🗓️ Cours et horaires
-**Saison 2025-26**
+**Arts Martiaux Genas** · Saison 2025–26
+
+**Cours du 1er septembre 2025 au 21 juin 2026**
 
 Découvrez nos cours adaptés à tous les âges et tous les niveaux : du karaté traditionnel à la self-défense, en passant par des séances de cardio et de renforcement physique. Que vous cherchiez à apprendre un art martial, à vous perfectionner, à vous remettre en forme, ou à vous défouler en toute sécurité, nous avons un créneau pour vous !
 

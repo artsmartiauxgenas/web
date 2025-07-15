@@ -1,14 +1,16 @@
 # Règlement intérieur
+**Arts Martiaux Genas** · Saison 2025–26
 
 > [!INFO]
 > Ce règlement est en vigueur pour la saison 2025-26.
 > Il est issu de la [RFC-8](/docs/legal/rfc/rfc-8-2025-reglement), adoptée le 17 juillet 2025.  
 > Version PDF signée
 
+> [!WARNING] DRAFT
+
 ## Article 1 – Adhésion à l'association
 
 L’adhésion à l’association est ouverte à toute personne âgée de 5 ans et plus, sans distinction de sexe ou de niveau.
-
 Toute personne souhaitant rejoindre l’association doit remplir le formulaire d’inscription.
 
 L’adhésion est validée après le paiement de la cotisation annuelle.
@@ -21,16 +23,16 @@ Le montant de la cotisation annuelle est fixé chaque année par le Conseil d'ad
 
 La cotisation permet de couvrir les frais de fonctionnement de l’association, y compris les indemnités aux entraîneurs, les assurances, le matériel nécessaire à la pratique du sport proposé, ainsi que l’accès aux installations mises à disposition.
 
+La cotisation donne accès à toutes les sections proposées par l'association.
+
 Toute cotisation versée est définitive.
 
-Cotisation pour la saison 2026 (période septembre 2025 – juin 2026)
+**Cotisations pour la saison 2026** (période septembre 2025 – juin 2026)
 
-| Discipline                  | Septembre-Juin | Janvier-Juin | Avril-Juin |
-| :-------------------------- | :------------: | :----------: | :--------: |
-| Body Fight + MMA           |    [todo]    |   [todo]   |  [todo]  |
-| Karaté                      |    [todo]    |   [todo]   |  [todo]  |
-| Karaté + Body Fight + MMA |    [todo]    |   [todo]   |  [todo]  |
-| Droit d'entrée              |    [todo]    |   [todo]   |  [todo]  |
+| Discipline                 | Septembre – juin | Janvier – juin | Avril – juin |
+| :------------------------- | :--------------: | :------------: | :----------: |
+| Enfants et ados (< 18 ans) |      200 €       |     150 €      |    100 €     |
+| Adultes (> 18 ans)         |      250 €       |     200 €      |    150 €     |
 
 ## Article 3 – Affiliation de l'association
 
@@ -74,15 +76,14 @@ Il est interdit de fumer, vapoter, manger ou boire dans les salles de pratique, 
 
 ## Article 8 – Composition des instances dirigeantes
 
-Composition du Conseil d’administration
+- Président : Geoffrey Petri (2023-2026)
+- Secrétaire : Cyrille Protière (2025-2028)
+- Trésorier : Dragos Mocanu (2025-2028)
 
-- Direction Technique Karaté : Ayoub Otmani
+**Equipe pédagogique**
 
-Composition du Bureau
-
-- Président : Geoffrey Petri  
-- Secrétaire : Cyrille Protiere   
-- Trésorier : Dragos Mocanu
+- Bernardo Dupont
+- Ayoub Otmani
 
 ## Article 9 – Sanctions disciplinaires
 
@@ -110,18 +111,21 @@ Toute modification sera communiquée aux adhérents par affichage ou par courrie
 
 ---
 
-Fait à Genas, le 17 avril 2025
+_Approuvé à Genas, le 16 juillet 2025._
 
-Le Président  
-Geoffrey Petri
+> [!INFO] Le Président
+> Petri Geoffrey  
+> <br/>
 
-Le Secrétaire  
-Cyrille Protière
+> [!INFO] Le Secrétaire
+> Protiere Cyrille  
+> <br/>
 
-Le Trésorier  
-Dragos Mocanu
+> [!INFO] Le Trésorier
+> Mocanu Dragos  
+> <br/>
 
-> [!INFO]
-> artsmartiauxgenas.fr  
-> Arts Martiaux Genas – Association loi 1901 déclarée en Préfecture du Rhône le 26 novembre 1993  
-> RNA W691055588 – Siret : 414 756 668 00037
+> **Arts Martiaux Genas**  
+> Association loi 1901 déclarée en Préfecture du Rhône le 26 novembre 1993  
+> RNA W691055588 – Siret : 414 756 668 00037  
+> artsmartiauxgenas.fr
