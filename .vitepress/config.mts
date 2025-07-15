@@ -7,6 +7,7 @@ export default defineConfig({
   description: "Arts Martiaux à Genas",
   cleanUrls: true,
   head: [['link', { rel: 'icon', href: '/favicon.ico' }]],
+  srcDir: './src',
   themeConfig: {
     logo: '/logo.svg',
     // https://vitepress.dev/reference/default-theme-config
