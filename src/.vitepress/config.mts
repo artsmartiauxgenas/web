@@ -114,5 +114,9 @@ export default defineConfig({
     image: {
       lazyLoading: true
     }
+  },
+  
+  sitemap: {
+    hostname: 'https://artsmartiauxgenas.fr'
   }
 })
