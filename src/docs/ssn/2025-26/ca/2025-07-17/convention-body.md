@@ -4,7 +4,7 @@
 L’association **Arts Martiaux Genas**, déclarée en préfecture sous le n° W691055588, dont le siège social est situé 22 rue du Docteur Amédée Bonnet 69740 Genas, représentée par son président Petri Geoffrey, ci-après désignée "l’Association",  
 
 **Et :**  
-L’association **[Nom de l'association prestataire]**, dont le siège est situé à [adresse], déclarée en préfecture sous le n° WXXXXXXXX, représentée par Dupont Bernardo, ci-après désignée "l’Intervenant".
+L’association **AITO SELF DEFENSE LYON**, dont le siège est situé à 42 rue Nationale 69420 Condrieu, déclarée en préfecture sous le n° W691070175, représentée par Dupont Bernardo, ci-après désignée "l’Intervenant".
 
 ## Article 1 – Objet  
 La présente convention a pour objet de fixer les conditions d’intervention de l’Intervenant dans le cadre des activités proposées par l’Association.
