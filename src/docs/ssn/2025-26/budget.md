@@ -13,11 +13,11 @@ description: Estimation des recettes et dépenses prévues pour la saison
 | Élément                 | Hypothèse retenue                      |
 |-------------------------|---------------------------------------:|
 | Nombre d’adhérents      | 100                                    |
-| - dont mineurs          | - 60                                   |
-| - dont majeurs          | - 40                                   |
+| - dont mineurs          | 60                                     |
+| - dont majeurs          | 40                                     |
 | Cotisation annuelle     |                                        |
-| - mineurs               | - 200 €                                |
-| - majeurs               | - 250 €                                |
+| - mineurs               | 200 €                                  |
+| - majeurs               | 250 €                                  |
 | Subventions             | Aucune                                 |
 | Charges principales     | Rémunération des professeurs, licences |
 
