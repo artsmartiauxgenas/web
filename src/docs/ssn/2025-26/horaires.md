@@ -21,13 +21,12 @@ Découvrez nos cours adaptés à tous les âges et tous les niveaux : du karaté
 
 ## 🔎 Légende
 
-| Symbole | Public concerné             |
-|---------|-----------------------------|
-| 👶      | Enfants 5–7 ans             |
-| 🧒      | Enfants 8–13 ans            |
-| 🧑‍🦱      | Ados / Adultes (> 14 ans)   |
-| 👴      | Seniors / Remise en forme   |
-| 💪      | Tous niveaux (intensif)     |
+| Symbole | Public concerné           |
+|---------|---------------------------|
+| 👶      | Enfants 5–7 ans           |
+| 🧒      | Enfants 8–13 ans          |
+| 🧑‍🦱      | Ados / Adultes (> 14 ans) |
+| 👴      | Seniors                   |
 
 ## 🥋 Karaté Traditionnel {#karate}
 
@@ -70,6 +69,8 @@ Découvrez nos cours adaptés à tous les âges et tous les niveaux : du karaté
 | Samedi     | 11h - 12h     | Dojo    | Karaté défense Training |
 
 ## 💪 Body Fight & MMA Fit+Fun {#fitness-combat}
+
+### 🧑‍🦱 👴 Ados / Adultes / Seniors
 
 Deux approches complémentaires pour bouger, transpirer et se dépasser dans une ambiance dynamique :
 

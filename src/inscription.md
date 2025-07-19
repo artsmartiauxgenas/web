@@ -10,25 +10,36 @@ Les inscriptions au club **Arts Martiaux Genas** pour la saison 2025–26 seront
 
 ## 🥋 Qui peut s’inscrire ?
 
-- 👶 Enfants dès 5 ans
-- 🧑 Adolescents et adultes
+- 👶 Enfants dès 5 ans : Karaté traditionnel
+- 🧑 Adolescents et adultes : Karaté Défense Training & Santé, Body Fight & MMA Fit+Fun
 - 👵 Seniors souhaitant pratiquer en douceur
 
 ## 💻 Comment s’inscrire ?
 
 Les inscriptions se font **en ligne** via notre partenaire :
 
-👉 [Accéder au formulaire d’inscription]()  
+👉 [Accéder au formulaire d’inscription](https://www.payasso.fr/artsmartiauxgenas/inscriptions-2025-26)  
 
 ## 💰 Tarifs
 
-| Public               | Cotisation annuelle |
-|----------------------|---------------------|
-| Enfant (< 18 ans)    | 200 €               |
-| Adulte (> 18 ans)    | 250 €               |
-
 > **Inscriptions éligibles au Pass'Sport !**  
 > Plus d'infos : [Le Pass’Sport évolue pour la saison 2025-2026 (service-public.fr)](https://www.service-public.fr/particuliers/actualites/A15850)
+
+### Karaté traditionnel
+
+- 5-7 ans : 200 €
+- 8-13 ans : 250 €
+- Ados/adultes (14 ans +) : 250 €
+
+### Karaté Défense Training & Santé
+
+- Karaté Défense Training : 250 €
+- Karaté Santé : 250 €
+
+### Body Fight & MMA Fit+Fun
+
+- Body Fight : 200 €
+- MMA Fit+Fun : 200 €
 
 ## 📍 Permanences inscriptions
 
@@ -39,7 +50,7 @@ Nous serons présents lors de :
 
 ## ❓ Une question ?
 
-📬 Contactez-nous par email : [info@amgenas.fr](mailto:info@amgenas.fr)
+📬 [Contactez-nous](/contact) (ou par email : [info@amgenas.fr](mailto:info@amgenas.fr))
 
 ---
 

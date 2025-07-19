@@ -10,26 +10,28 @@ description: Estimation des recettes et dépenses prévues pour la saison
 
 ## 📌 Hypothèses de base
 
-| Élément                 | Hypothèse retenue                      |
-|-------------------------|---------------------------------------:|
-| Nombre d’adhérents      | 100                                    |
-| - dont mineurs          | 60                                     |
-| - dont majeurs          | 40                                     |
-| Cotisation annuelle     |                                        |
-| - mineurs               | 200 €                                  |
-| - majeurs               | 250 €                                  |
-| Subventions             | Aucune                                 |
-| Charges principales     | Rémunération des professeurs, licences |
+| Élément                   | Hypothèse retenue                      |
+|---------------------------|---------------------------------------:|
+| Nombre d’adhérents        | 110                                    |
+| Cotisation annuelle       | 23 750                                 |
+| - 5-7 ans (20 * 200)      |  4 000                                 |
+| - 8-13 ans (30 * 250)     |  7 500                                 |
+| - Ados/adultes (10 * 250) |  2 500                                 |
+| - KDT + Santé (20 * 250)  |  5 000                                 |
+| - Body Fight (15 * 200)   |  3 000                                 |
+| - MMA (15 * 200)          |  3 000                                 |
+| Subventions               | Aucune                                 |
+| Charges principales       | Rémunération des professeurs, licences |
 
 ## 🟢 Recettes estimées
 
 | Compte | Poste                       | Montant estimé (€) |
 |:------:|-----------------------------|-------------------:|
-| 706    | Cotisations des adhérents   |   22 000           |
-| 707    | Stages, événements          |    1 000           |
+| 706    | Cotisations des adhérents   |   23 750           |
+| 707    | Stages, événements          |        0           |
 | 740    | Subventions                 |        0           |
 | 754    | Partenariats / mécénat      |        0           |
-|        | **Total recettes**          | **23 000**         |
+|        | **Total recettes**          | **23 750**         |
 
 ## 🔴 Dépenses estimées
 
@@ -38,12 +40,12 @@ description: Estimation des recettes et dépenses prévues pour la saison
 | 621    | Rémunération intervenants extérieurs     |    7 000           |
 | 6181   | Formations enseignants bénévoles         |    5 000           |
 | 6188   | Rémunérations exceptionnelles de membres |    2 000           |
-| 601    | Achats de matériel sportif               |    1 000           |
-| 623    | Publicité, impression, flyers            |    1 000           |
+| 601    | Achats de matériel sportif               |    1 800           |
+| 623    | Publicité, impression, flyers            |    1 750           |
 | 6257   | Réceptions, repas, pots                  |    1 800           |
 | 616    | Assurances                               |    1 200           |
-| 647    | Licences fédérales                       |    4 000           |
-|        | **Total dépenses**                       | **23 000**         |
+| 647    | Licences fédérales                       |    3 200           |
+|        | **Total dépenses**                       | **23 750**         |
 
 ## 📈 Résultat prévisionnel
 
@@ -56,6 +58,7 @@ description: Estimation des recettes et dépenses prévues pour la saison
 ## 🧾 Remarques
 
 - Ce budget ne tient pas compte d'éventuelles subventions (dossiers à venir).
+- Ce budget ne prévoit pas de bénéfice sur les stages (événements).
 - La rémunération des professeurs est calculée sur 10 mois.
 
 ---
