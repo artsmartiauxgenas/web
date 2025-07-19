@@ -13,7 +13,7 @@ description: Estimation des recettes et dépenses prévues pour la saison
 | Élément                   | Hypothèse retenue                      |
 |---------------------------|---------------------------------------:|
 | Nombre d’adhérents        | 110                                    |
-| Cotisation annuelle       | 23 750                                 |
+| Cotisation annuelle       | 24 450                                 |
 | - 5-7 ans (20 * 200)      |  4 000                                 |
 | - 8-13 ans (30 * 250)     |  7 500                                 |
 | - Ados/adultes (10 * 250) |  2 500                                 |
@@ -27,11 +27,11 @@ description: Estimation des recettes et dépenses prévues pour la saison
 
 | Compte | Poste                       | Montant estimé (€) |
 |:------:|-----------------------------|-------------------:|
-| 706    | Cotisations des adhérents   |   23 750           |
+| 706    | Cotisations des adhérents   |   24 450           |
 | 707    | Stages, événements          |        0           |
 | 740    | Subventions                 |        0           |
 | 754    | Partenariats / mécénat      |        0           |
-|        | **Total recettes**          | **23 750**         |
+|        | **Total recettes**          | **24 450**         |
 
 ## 🔴 Dépenses estimées
 
@@ -40,12 +40,12 @@ description: Estimation des recettes et dépenses prévues pour la saison
 | 621    | Rémunération intervenants extérieurs     |    7 000           |
 | 6181   | Formations enseignants bénévoles         |    5 000           |
 | 6188   | Rémunérations exceptionnelles de membres |    2 000           |
-| 601    | Achats de matériel sportif               |    1 800           |
+| 601    | Achats de matériel sportif               |    2 550           |
 | 623    | Publicité, impression, flyers            |    1 750           |
 | 6257   | Réceptions, repas, pots                  |    1 800           |
 | 616    | Assurances                               |    1 200           |
 | 647    | Licences fédérales                       |    3 200           |
-|        | **Total dépenses**                       | **23 750**         |
+|        | **Total dépenses**                       | **24 450**         |
 
 ## 📈 Résultat prévisionnel
 
