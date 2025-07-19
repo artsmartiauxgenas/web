@@ -2,15 +2,15 @@
 title: Statuts de l'association Arts Martiaux Genas
 id: rfc-7
 tags:
-  - statuts
-  - rfc
+- statuts
+- rfc
 authors:
-  - name: Geoffrey Petri
-    email: gpetri@amgenas.fr
-  - name: Cyrille Protière
-    email: cprotiere@amgenas.fr
-  - name: Dragos Mocanu
-    email: dmocanu@amgenas.fr
+- name: Geoffrey Petri
+  email: gpetri@amgenas.fr
+- name: Cyrille Protière
+  email: cprotiere@amgenas.fr
+- name: Dragos Mocanu
+  email: dmocanu@amgenas.fr
 date: 2025-04-17
 status: accepted
 supersedes: rfc-6

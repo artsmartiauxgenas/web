@@ -2,8 +2,8 @@
 title: ARTS MARTIAUX DE GENAS KWON TE ZEN
 id: rfc-3
 tags: 
-  - statuts
-  - rfc
+- statuts
+- rfc
 authors:
 date: 2012-05-31
 status: obsolete

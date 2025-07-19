@@ -40,7 +40,7 @@ description: Estimation des recettes et dépenses prévues pour la saison
 | 6188   | Rémunérations exceptionnelles de membres |    2 000           |
 | 601    | Achats de matériel sportif               |    1 000           |
 | 623    | Publicité, impression, flyers            |    1 000           |
-| 6256   | Réceptions, repas, pots                  |    1 800           |
+| 6257   | Réceptions, repas, pots                  |    1 800           |
 | 616    | Assurances                               |    1 200           |
 | 647    | Licences fédérales                       |    4 000           |
 |        | **Total dépenses**                       | **23 000**         |

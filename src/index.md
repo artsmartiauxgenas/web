@@ -50,18 +50,18 @@ Nous proposons trois pratiques complémentaires, adaptées à tous les publics :
 Art martial traditionnel japonais, fondé sur la rigueur, la technique et le respect.  
 Accessible dès 5 ans, avec une progression structurée pour enfants, ados et adultes.
 
-### 🛡️ [Self-défense, bien-être et remise en forme](/disciplines/self)
+### 🛡️ [Karaté Défense Training & Santé](/disciplines/self)
 
 Un karaté santé, accessible dès l’adolescence jusqu’aux seniors.  
 On y apprend à se protéger tout en renforçant équilibre, mobilité et coordination.  
 Un entraînement doux et progressif, pour entretenir sa forme dans une ambiance bienveillante.
 
-### 💪 [Fitness & Combat](/disciplines/fitness)
+### 💪 [Body Fight & MMA Fit+Fun](/disciplines/fitness)
 
 Deux disciplines toniques, accessibles à tous, pour se défouler et retrouver la forme — sans contact, sans pression.
 
-- **MMA Fit & Fun** : la version loisir du MMA. Cardio, renforcement, techniques inspirées des arts martiaux. Aucun niveau requis.
-- **Body Karaté** : fitness chorégraphié sur musique, avec mouvements martiaux. Fun, énergisant et ouvert à tous.
+- **Body Fight** : fitness chorégraphié sur musique, avec mouvements martiaux. Fun, énergisant et ouvert à tous.
+- **MMA Fit+Fun** : la version loisir du MMA. Cardio, renforcement, techniques inspirées des arts martiaux. Aucun niveau requis.
 
 ## 📍 Où et quand pratiquer ?
 

@@ -11,7 +11,10 @@ Ce document unifie les règles de gestion comptable de l’association. Il sert 
 > [!INFO]
 > [Recueil des normes comptables françaises applicables au secteur non lucratif – édition 2025](https://www.anc.gouv.fr/files/anc/files/1_Normes_fran%C3%A7aises/Reglements/Recueils/Recueil_Secteur-non-lucratif/2025/Recueil-non-lucratif-2025.pdf)  
 > Version en vigueur au 1er janvier 2025  
-> Règlement n°2018-06 relatif aux comptes annuels des personnes morales de droit privé à but non lucratif 
+> Règlement n°2018-06 relatif aux comptes annuels des personnes morales de droit privé à but non lucratif  
+> [Plan Comptable Général– édition 2025](https://www.anc.gouv.fr/files/anc/files/1_Normes_fran%C3%A7aises/Plans%20comptables/PCG--1er-janvier-2025.pdf)  
+> Version consolidée au 1er janvier 2025  
+> Règlement ANC N° 2014-03 relatif au plan comptable général
 
 > [!IMPORTANT]
 > Pour toute question : s’adresser au trésorier ou au président de l’association.
@@ -46,12 +49,12 @@ Ce document unifie les règles de gestion comptable de l’association. Il sert 
 | 613    | Locations                                     | Salles, dojos, véhicules                     |
 | 616    | Assurances                                    | Assurance responsabilité civile              |
 | 618    | Services extérieurs divers                    | Site internet, hébergement, outils numériques |
-| 6181   | Formations enseignants bénévoles              | Stages, recyclages, diplômes fédéraux        |
-| 6188   | Rémunérations exceptionnelles de membres      | Missions, organisation de stages             |
+| 6185   | Formations enseignants bénévoles              | Stages, recyclages, diplômes fédéraux        |
+| 6188   | Rémunérations exceptionnelles de membres      | Missions, organisation de stages             | X
 | 621    | Rémunérations intervenants extérieurs         | Professeurs auto-entrepreneurs               |
 | 623    | Publicité, communication                      | Flyers, réseaux sociaux, affiches            |
-| 6251   | Déplacements et missions                      | Frais de route pour stages, événements       |
-| 6256   | Missions et réceptions                        | Restauration, repas associations, pots       |
+| 6251   | Déplacements et missions                      | Frais de route pour stages, événements       | X
+| 6257   | Missions et réceptions                        | Restauration, repas associations, pots       |
 | 627    | Frais bancaires                               | Frais banque, prélèvements HelloAsso, etc.   |
 | 628    | Autres charges de gestion courante            | Dépenses diverses non classées               |
 | 647    | Cotisations aux organismes                    | Licences fédérales, affiliations             |

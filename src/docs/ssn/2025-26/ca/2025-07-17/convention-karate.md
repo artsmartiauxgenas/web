@@ -4,7 +4,7 @@
 L’association **Arts Martiaux Genas**, déclarée en préfecture sous le n° W691055588, dont le siège social est situé 22 rue du Docteur Amédée Bonnet 69740 Genas, représentée par son président Petri Geoffrey, ci-après désignée "l’Association",  
 
 **Et :**  
-Monsieur **Otmani Ayoub**, né le [date] à [lieu], domicilié(e) à [adresse], ci-après désigné(e) "l’Intervenant".
+Monsieur **Otmani Ayoub**, né le 8 juillet 2003 à 69120 Vaulx-en-Velin, domicilié à [adresse], ci-après désigné(e) "l’Intervenant".
 
 ## Article 1 – Objet  
 La présente convention a pour objet de formaliser la collaboration entre l’Intervenant et l’Association dans le cadre de l’enseignement bénévole du Karaté, ainsi que les modalités de prise en charge de certaines dépenses liées à cette activité.

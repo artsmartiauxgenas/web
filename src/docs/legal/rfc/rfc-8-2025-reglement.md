@@ -4,13 +4,16 @@ id: rfc-8
 tags:
   - rfc
   - reglement
-authors: Geoffrey Petri
+authors:
+- name: Geoffrey Petri
+  email: gpetri@amgenas.fr
 date: 2025-07-16
 status: draft
 supersedes: rfc-5
 outline: deep
 ---
 # Règlement intérieur 2025 | Arts Martiaux Genas
+**Arts Martiaux Genas** · Saison 2025–26  
 `rfc-8` 17 juillet 2025
 
 > [!WARNING] DRAFT

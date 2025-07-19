@@ -2,8 +2,8 @@
 title: SHOGUN DES ARTS MARTIAUX DU LYONNAIS
 id: rfc-2
 tags: 
-  - statuts
-  - rfc
+- statuts
+- rfc
 authors:
 date: 2003-04-08
 status: obsolete

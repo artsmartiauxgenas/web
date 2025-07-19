@@ -16,13 +16,14 @@ export default defineConfig({
       { text: 'Disciplines',
         items: [
           { text: 'Karaté traditionnel', link: '/disciplines/karate' },
-          { text: 'Self-défense', link: '/disciplines/self' },
-          { text: 'Fitness & Combat', link: '/disciplines/fitness' },
+          { text: 'Karaté Défense Training', link: '/disciplines/self' },
+          { text: 'Body Fight & MMA Fit+Fun', link: '/disciplines/fitness' },
         ]
       },
       { text: 'FAQ', link: '/faq', activeMatch: '/faq' },
       { text: 'Docs', link: '/docs/ssn/now', activeMatch: '/docs' },
       { text: 'Blog', link: '/blog', activeMatch: '/blog' },
+      { text: 'Contact', link: '/contact', activeMatch: '/contact' },
     ],
 
     sidebar: {
@@ -105,12 +106,13 @@ export default defineConfig({
     },
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/artsmartiauxgenas/web' }
+      // You can add any icon from simple-icons (https://simpleicons.org/):
+      { icon: 'github', link: 'https://github.com/artsmartiauxgenas/web' },
     ],
 
     footer: {
       message: 'Association loi 1901 soutenue par la <a href="https://genas.fr" target="_blank">Ville de Genas</a> et la <a href="https://www.ffkarate.fr/" target="_blank">Fédération Française de Karaté</a>',
-      copyright: 'Copyright © 1993-present <a href="https://github.com/artsmartiauxgenas" target="_blank">Arts Martiaux Genas</a> · RNA : W691055588 · SIRET : 414 756 668 00037 · <a href="mailto:info@amgenas.fr">info@amgenas.fr</a>'
+      copyright: 'Copyright © 1993-present <a href="https://github.com/artsmartiauxgenas" target="_blank">Arts Martiaux Genas</a> · RNA W691055588 · SIRET 414 756 668 00037 · <a href="mailto:info@amgenas.fr">info@amgenas.fr</a>'
     }
   },
 

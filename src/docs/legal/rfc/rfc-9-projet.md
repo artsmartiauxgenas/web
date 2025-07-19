@@ -3,16 +3,18 @@ title: Projet associatif
 description: Les engagements et objectifs du club Arts Martiaux Genas
 id: rfc-9
 tags: 
-  - projet
-  - rfc
+- projet
+- rfc
 authors:
+- name: Geoffrey Petri
+  email: gpetri@amgenas.fr
 date: 2025-10-16
 status: draft
 supersedes: 
 outline: deep
 ---
 # 🥋 Projet associatif
-_Arts Martiaux Genas – Saison 2025–26_
+**Arts Martiaux Genas** · Saison 2025–26  
 `rfc-9` 2025-10-16
 
 > [!WARNING] DRAFT

@@ -2,8 +2,8 @@
 title: KARATE GENAS (E.S.G.A.)
 id: rfc-1
 tags: 
-  - statuts
-  - rfc
+- statuts
+- rfc
 authors:
 date: 1993-11-26
 status: obsolete

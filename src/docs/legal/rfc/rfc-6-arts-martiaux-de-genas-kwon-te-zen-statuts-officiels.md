@@ -2,12 +2,12 @@
 title: ARTS MARTIAUX DE GENAS KWON TE ZEN - STATUTS OFFICIELS
 id: rfc-6
 tags: 
-  - statuts
-  - rfc
+- statuts
+- rfc
 authors:
-  - name: Eric Massot
-  - name: Valérie Gester
-  - name: Yoan Acosta
+- name: Eric Massot
+- name: Valérie Gester
+- name: Yoan Acosta
 date: 2021-11-26
 status: obsolete
 supersedes: rfc-4

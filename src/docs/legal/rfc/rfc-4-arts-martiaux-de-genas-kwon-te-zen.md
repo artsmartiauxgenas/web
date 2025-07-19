@@ -2,11 +2,11 @@
 title: ARTS MARTIAUX DE GENAS KWON TE ZEN
 id: rfc-4
 tags: 
-  - statuts
-  - rfc
+- statuts
+- rfc
 authors:
-  - name: Annick Eloy
-  - name: Florence Lietaer
+- name: Annick Eloy
+- name: Florence Lietaer
 date: 2013-05-29
 status: obsolete
 supersedes: rfc-3

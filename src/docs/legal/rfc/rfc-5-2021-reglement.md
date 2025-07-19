@@ -2,8 +2,8 @@
 title: Règlement intérieur
 id: rfc-5
 tags: 
-  - reglement
-  - rfc
+- reglement
+- rfc
 authors:
 date: 2021-11-26
 status: obsolete
