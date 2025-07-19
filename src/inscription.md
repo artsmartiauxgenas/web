@@ -6,7 +6,7 @@ outline: false
 # 📝 Inscriptions 2025–26
 
 _Bienvenue !_  
-Les inscriptions au club **Arts Martiaux Genas** pour la saison 2025–26 seront **bientôt ouvertes**.
+Les inscriptions au club **Arts Martiaux Genas** pour la saison 2025–26 sont **ouvertes**.
 
 ## 🥋 Qui peut s’inscrire ?
 

@@ -31,8 +31,12 @@ Toute cotisation versée est définitive.
 
 | Discipline                 | Septembre – juin | Janvier – juin | Avril – juin |
 | :------------------------- | :--------------: | :------------: | :----------: |
-| Enfants et ados (< 18 ans) |      200 €       |     150 €      |    100 €     |
-| Adultes (> 18 ans)         |      250 €       |     200 €      |    150 €     |
+| Karaté Shotokan 5-7 ans    |      200 €       |     150 €      |    100 €     |
+| Karaté Shotokan 8-13 ans   |      250 €       |     200 €      |    150 €     |
+| Karaté Shotokan 14+ ans    |      250 €       |     200 €      |    150 €     |
+| Karaté Défense Training    |      250 €       |     200 €      |    150 €     |
+| Karaté Santé               |      250 €       |     200 €      |    150 €     |
+| Body Fight & MMA Fit+Fun   |      200 €       |     150 €      |    100 €     |
 
 ## Article 3 – Affiliation de l'association
 
