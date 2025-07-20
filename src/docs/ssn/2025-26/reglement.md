@@ -3,10 +3,8 @@
 
 > [!INFO]
 > Ce règlement est en vigueur pour la saison 2025-26.
-> Il est issu de la [RFC-8](/docs/legal/rfc/rfc-8-2025-reglement), adoptée le 17 juillet 2025.  
+> Il est issu de la [RFC-8](/docs/legal/rfc/rfc-8-2025-reglement), adoptée le 16 juillet 2025.  
 > Version PDF signée
-
-> [!WARNING] DRAFT
 
 ## Article 1 – Adhésion à l'association
 
@@ -129,7 +127,9 @@ _Approuvé à Genas, le 16 juillet 2025._
 > Mocanu Dragos  
 > <br/>
 
-> **Arts Martiaux Genas**  
-> Association loi 1901 déclarée en Préfecture du Rhône le 26 novembre 1993  
-> RNA W691055588 – Siret : 414 756 668 00037  
-> artsmartiauxgenas.fr
+---
+
+**Arts Martiaux Genas**  
+Association loi 1901 déclarée en Préfecture du Rhône le 26 novembre 1993  
+RNA W691055588 · Siret 414 756 668 00037  
+[artsmartiauxgenas.fr](https://artsmartiauxgenas.fr)

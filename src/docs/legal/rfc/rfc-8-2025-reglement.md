@@ -8,7 +8,7 @@ authors:
 - name: Geoffrey Petri
   email: gpetri@amgenas.fr
 date: 2025-07-16
-status: draft
+status: accepted
 supersedes: rfc-5
 outline: deep
 ---
@@ -137,7 +137,9 @@ _Approuvé à Genas, le 16 juillet 2025._
 > Mocanu Dragos  
 > <br/>
 
-> **Arts Martiaux Genas**  
-> Association loi 1901 déclarée en Préfecture du Rhône le 26 novembre 1993  
-> RNA W691055588 – Siret : 414 756 668 00037  
-> artsmartiauxgenas.fr
+---
+
+**Arts Martiaux Genas**  
+Association loi 1901 déclarée en Préfecture du Rhône le 26 novembre 1993  
+RNA W691055588 · Siret 414 756 668 00037  
+[artsmartiauxgenas.fr](https://artsmartiauxgenas.fr)
