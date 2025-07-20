@@ -54,7 +54,7 @@
 
 | Date       | Notes |
 | ---------- | ----- |
-| 2025-07-17 | [Réunion 1](ca/2025-07-17/pv) : décisions |
+| 2025-07-16 | [Réunion 1 · Lancement saison](ca/2025-07-16/pv) |
 
 ## Evénements
 
@@ -62,4 +62,4 @@
 | ---------- |------ |
 | 2025-09-08 | [Démarrage de la saison]() |
 | 2025-09-06 | [Forum des Associations de Genas]() |
-| 2026-06-28 | [Fin de la saison]() |
+| 2026-06-21 | [Fin de la saison]() |

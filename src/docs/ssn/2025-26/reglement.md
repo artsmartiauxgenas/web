@@ -27,7 +27,7 @@ La cotisation donne accès à toutes les sections proposées par l'association.
 
 Toute cotisation versée est définitive.
 
-**Cotisations pour la saison 2026** (période septembre 2025 – juin 2026)
+**Cotisations pour la saison 2025-26** (période 8 septembre 2025 – 21 juin 2026)
 
 | Discipline                 | Septembre – juin | Janvier – juin | Avril – juin |
 | :------------------------- | :--------------: | :------------: | :----------: |
@@ -86,8 +86,8 @@ Il est interdit de fumer, vapoter, manger ou boire dans les salles de pratique, 
 
 **Equipe pédagogique**
 
-- Bernardo Dupont
-- Ayoub Otmani
+- Bernardo Dupont : CN 4ème DAN FFK, Référent AITO Rhône-Alpes FFK
+- Ayoub Otmani : CN 3ème DAN FFK, Directeur technique Karaté
 
 ## Article 9 – Sanctions disciplinaires
 

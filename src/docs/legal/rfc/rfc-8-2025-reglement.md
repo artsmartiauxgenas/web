@@ -14,9 +14,7 @@ outline: deep
 ---
 # Règlement intérieur 2025 | Arts Martiaux Genas
 **Arts Martiaux Genas** · Saison 2025–26  
-`rfc-8` 17 juillet 2025
-
-> [!WARNING] DRAFT
+`rfc-8` 16 juillet 2025
 
 ## Article 1 – Adhésion à l'association
 
@@ -37,12 +35,16 @@ La cotisation donne accès à toutes les sections proposées par l'association.
 
 Toute cotisation versée est définitive.
 
-**Cotisations pour la saison 2026** (période septembre 2025 – juin 2026)
+**Cotisations pour la saison 2025-26** (période 8 septembre 2025 – 21 juin 2026)
 
 | Discipline                 | Septembre – juin | Janvier – juin | Avril – juin |
 | :------------------------- | :--------------: | :------------: | :----------: |
-| Enfants et ados (< 18 ans) |      200 €       |     150 €      |    100 €     |
-| Adultes (> 18 ans)         |      250 €       |     200 €      |    150 €     |
+| Karaté Shotokan 5-7 ans    |      200 €       |     150 €      |    100 €     |
+| Karaté Shotokan 8-13 ans   |      250 €       |     200 €      |    150 €     |
+| Karaté Shotokan 14+ ans    |      250 €       |     200 €      |    150 €     |
+| Karaté Défense Training    |      250 €       |     200 €      |    150 €     |
+| Karaté Santé               |      250 €       |     200 €      |    150 €     |
+| Body Fight & MMA Fit+Fun   |      200 €       |     150 €      |    100 €     |
 
 ## Article 3 – Affiliation de l'association
 
@@ -92,8 +94,8 @@ Il est interdit de fumer, vapoter, manger ou boire dans les salles de pratique, 
 
 **Equipe pédagogique**
 
-- Bernardo Dupont
-- Ayoub Otmani
+- Bernardo Dupont : CN 4ème DAN FFK, Référent AITO Rhône-Alpes FFK
+- Ayoub Otmani : CN 3ème DAN FFK, Directeur technique Karaté
 
 ## Article 9 – Sanctions disciplinaires
 

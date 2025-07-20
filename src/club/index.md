@@ -14,7 +14,7 @@ const members = [
   {
     avatar: 'https://www.github.com/yyx990803.png',
     name: 'Ayoub Otmani',
-    title: 'Entraîneur et directeur technique',
+    title: 'Entraîneur, 3ème DAN, Directeur technique Karaté',
     links: [
       { icon: 'twitter', link: '' }
     ]
@@ -22,7 +22,15 @@ const members = [
   {
     avatar: '/club/8a3a9e8f.jpg',
     name: 'Bernardo Dupont',
-    title: 'Entraîneur et directeur technique',
+    title: 'Entraîneur, 4ème DAN, Référent AITO Rhône-Alpes FFK',
+    links: [
+      { icon: 'twitter', link: '' }
+    ]
+  },
+  {
+    avatar: 'https://www.github.com/yyx990803.png',
+    name: 'Thibaud Roux',
+    title: 'Entraîneur en formation',
     links: [
       { icon: 'twitter', link: '' }
     ]
