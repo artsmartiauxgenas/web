@@ -54,10 +54,16 @@ Les documents confidentiels (RIB, contrats, liste des adhérents, comptabilité 
 - Git
 - Vitepress
 
-### Installation locale
+### Exécution locale
 
 ```bash
-npx vitepress dev src
+npm run docs:dev
+```
+
+### Build local
+
+```bash
+npm run docs:build
 ```
 
 ## 🤝 Contact
