@@ -44,7 +44,7 @@ Voir section [Cours](../../horaires).
 
 Les sections sont renommées : 
 - Karaté Shotokan traditionnel
-- Karaté Défene Training & Santé
+- Karaté Défense Training & Santé
 - Body Fight & MMA Fit+Fun
 
 Pas de licence FFK pour la section _Body Fight & MMA Fit+Fun_.
