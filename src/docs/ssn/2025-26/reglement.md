@@ -21,8 +21,6 @@ Le montant de la cotisation annuelle est fixé chaque année par le Conseil d'ad
 
 La cotisation permet de couvrir les frais de fonctionnement de l’association, y compris les indemnités aux entraîneurs, les assurances, le matériel nécessaire à la pratique du sport proposé, ainsi que l’accès aux installations mises à disposition.
 
-La cotisation donne accès à toutes les sections proposées par l'association.
-
 Toute cotisation versée est définitive.
 
 **Cotisations pour la saison 2025-26** (période 8 septembre 2025 – 21 juin 2026)
