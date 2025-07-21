@@ -9,7 +9,7 @@ export default defineConfig({
   head: [['link', { rel: 'icon', href: '/favicon.ico' }]],
   srcDir: './src',
   themeConfig: {
-    logo: '/logo.svg',
+    logo: '/logo-enso.svg',
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: 'Equipe', link: '/club', activeMatch: '/club' },
