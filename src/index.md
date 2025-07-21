@@ -14,7 +14,8 @@ hero:
       text: Voir les horaires
       link: /docs/ssn/2025-26/horaires
   image:
-    src: /img/logo-full.svg
+    light: /img/logo-full-light.svg
+    dark: /img/logo-full-dark.svg
     alt: AMGenas
 features:
   - icon: 🌱
