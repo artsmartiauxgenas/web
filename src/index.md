@@ -11,8 +11,11 @@ hero:
       text: Rejoindre le club
       link: /inscription
     - theme: alt
-      text: Voir les horaires
-      link: /docs/ssn/2025-26/horaires
+      text: Disciplines & horaires
+      link: /horaires
+    - theme: alt
+      text: Contact
+      link: /contact
   image:
     light: /img/logo-full-light.svg
     dark: /img/logo-full-dark.svg
@@ -31,10 +34,10 @@ features:
 
 ## 📌 Accès rapide
 
-- 🕓 [Horaires et lieux de pratique](/docs/ssn/2025-26/horaires)
-- 📄 [Documents & règlement](/docs/ssn/2025-26/)
+- 🕓 [Horaires et lieux de pratique](/horaires)
+- 📄 [Documents & règlement](/docs/)
 - ✍️ [S’inscrire](/inscription)
-- ✉️ [Nous contacter](mailto:info@amgenas.fr)  
+- ✉️ [Nous contacter](/contact)  
 - 📰 [Lire le blog](/blog/)
 
 ## 🥇 Qui sommes-nous ?
@@ -46,18 +49,18 @@ Nos valeurs : **discipline**, **progression**, **respect** et **esprit de club**
 
 Nous proposons trois pratiques complémentaires, adaptées à tous les publics :
 
-### 🥋 [Karaté Shotokan](/disciplines/karate)
+### 🥋 [Karaté Shotokan](/docs/disciplines/karate-shotokan)
 
 Art martial traditionnel japonais, fondé sur la rigueur, la technique et le respect.  
 Accessible dès 5 ans, avec une progression structurée pour enfants, ados et adultes.
 
-### 🛡️ [Karaté Défense Training & Santé](/disciplines/self)
+### 🛡️ [Karaté Défense Training & Santé](/docs/disciplines/karate-defense-training-sante)
 
 Un karaté santé, accessible dès l’adolescence jusqu’aux seniors.  
 On y apprend à se protéger tout en renforçant équilibre, mobilité et coordination.  
 Un entraînement doux et progressif, pour entretenir sa forme dans une ambiance bienveillante.
 
-### 💪 [Body Fight & MMA Fit+Fun](/disciplines/fitness)
+### 💪 [Body Fight & MMA Fit+Fun](/docs/disciplines/body-fight-mma)
 
 Deux disciplines toniques, accessibles à tous, pour se défouler et retrouver la forme — sans contact, sans pression.
 
@@ -69,11 +72,8 @@ Deux disciplines toniques, accessibles à tous, pour se défouler et retrouver l
 Les cours ont lieu dans les équipements municipaux de la ville de Genas, du lundi au samedi.  
 Nous accueillons les **enfants dès 5 ans**, les **adultes débutants ou confirmés**, et **en reprise d’activité**.
 
-👉 [Voir le planning complet](/docs/ssn/2025-26/horaires)
+👉 [Voir le planning complet](/horaires)
 
 ## 📰 Derniers articles
-
-- [12 juillet – Bal des pompiers et feu d'artifice 2025](/blog/2025-07-12-bal-pompiers)
-- [10 juillet - Nouveau nom, nouveau site — même esprit](/blog/2025-07-10-nouveau-nom)
 
 👉 [Voir tous les articles](/blog/)

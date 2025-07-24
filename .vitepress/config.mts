@@ -12,75 +12,90 @@ export default defineConfig({
     logo: '/logo-enso.svg',
     // https://vitepress.dev/reference/default-theme-config
     nav: [
-      { text: 'Equipe', link: '/club', activeMatch: '/club' },
-      { text: 'Disciplines',
-        items: [
-          { text: 'Karaté traditionnel', link: '/disciplines/karate' },
-          { text: 'Karaté Défense Training', link: '/disciplines/self' },
-          { text: 'Body Fight & MMA Fit+Fun', link: '/disciplines/fitness' },
-        ]
-      },
+      { text: 'Le club', link: '/club', activeMatch: '/club' },
+      { text: 'Docs', link: '/docs/', activeMatch: '/docs' },
       { text: 'FAQ', link: '/faq', activeMatch: '/faq' },
-      { text: 'Docs', link: '/docs/ssn/now', activeMatch: '/docs' },
       { text: 'Blog', link: '/blog', activeMatch: '/blog' },
       { text: 'Contact', link: '/contact', activeMatch: '/contact' },
     ],
 
     sidebar: {
       '/docs/': [
+        { text: 'Bienvenue', link: '/docs/' },
         {
-          text: 'Administration',
-          link: '/docs/legal',
-          collapsed: true,
+          text: 'Disciplines',
+          collapsed: false,
           items: [
-            { text: 'Décisions', link: '/docs/legal/rfc' },
-            { text: 'Publications JO', link: '/docs/legal/depots' },
-            { text: 'Mandats', link: '/docs/legal/mandats' },
+            { text: 'Karaté Shotokan', link: '/docs/disciplines/karate-shotokan' },
+            { text: 'Karaté Défense Training & Santé', link: '/docs/disciplines/karate-defense-training-sante' },
+            { text: 'Body Fight & MMA Fit+Fun', link: '/docs/disciplines/body-fight-mma' },
           ]
         },
         {
-          text: 'Saison 2025-26',
-          link: '/docs/ssn/2025-26',
+          text: 'Infos pratiques',
           collapsed: false,
           items: [
-            { text: 'Règlement intérieur', link: '/docs/ssn/2025-26/reglement' },
-            { text: 'Cours et horaires', link: '/docs/ssn/2025-26/horaires' },
+            { text: 'Saison en cours', link: '/docs/saisons/latest' },
+            { text: 'Cours & horairess', link: '/docs/horaires' },
+            { text: 'Tarifs & Inscriptions', link: '/docs/inscription' },
+            { text: 'Statuts', link: '/docs/legal/statuts/latest' },
+            { text: 'Règlement intérieur', link: '/docs/legal/reglements/latest' },
+          ]
+        },
+        {
+          text: 'Vie associative',
+          collapsed: false,
+          items: [
+            { text: 'Comment s\'inscrire', link: '/docs/guides/sinscrire' },
+            { text: 'Contribuer', link: '/docs/guides/contribuer' },
+            { text: 'Rejoindre le CA', link: '/docs/guides/rejoindre-ca' },
             {
-              text: 'Evénements',
+              text: 'Guides',
               collapsed: true,
               items: [
+                { text: 'Charte pédagogique', link: '/docs/guides/charte-pedagogique' },
+                { text: 'Accueil adhérents', link: '/docs/guides/adherents' },
+                { text: 'Accueil bénévoles', link: '/docs/guides/benevoles' },
+                { text: 'Licences', link: '/docs/guides/licences' },
+                { text: 'Evénement', link: '/docs/guides/event' },
+                { text: 'Communication', link: '/docs/guides/communication' },
+                { text: 'Préparation AG', link: '/docs/guides/ag' },
+                { text: 'Plan comptable', link: '/docs/guides/pca' },
+                { text: 'RGPD', link: '/docs/guides/rgpd' },
+                { text: 'Passation', link: '/docs/guides/handover' },
               ]
             },
           ]
         },
         {
-          text: 'Saison 2024-25',
-          link: '/docs/ssn/2024-25',
+          text: 'Gouvernance',
           collapsed: true,
           items: [
+            { text: 'Statuts', link: '/docs/legal/statuts/' },
+            { text: 'Publications', link: '/docs/legal/journal-officiel/' },
+            { text: 'Assemblées générales', link: '/docs/legal/assemblees/' },
+            { text: 'Budgets', link: '/docs/legal/budgets/' },
+            { text: 'Mandats', link: '/docs/legal/mandats' },
+            { text: 'Conseil d\'adminitration', link: '/docs/legal/conseils/' },
+            { text: 'Décisions', link: '/docs/rfc/' },
+            { text: 'Saisons sportives', link: '/docs/saisons/' },
+            { text: 'Règlements intérieurs', link: '/docs/legal/reglements/' },
+            { text: 'Manifeste', link: '/docs/manifeste' },
           ]
         },
         {
-          text: 'Guides',
-          link: '/docs/guides',
+          text: 'Partenaires',
           collapsed: true,
           items: [
-            { text: 'Charte pédagogique', link: '/docs/guides/charte-pedagogique' },
-            { text: 'Accueil adhérents', link: '/docs/guides/adherents' },
-            { text: 'Accueil bénévoles', link: '/docs/guides/benevoles' },
-            { text: 'Licences', link: '/docs/guides/licences' },
-            { text: 'Evénement', link: '/docs/guides/event' },
-            { text: 'Communication', link: '/docs/guides/communication' },
-            { text: 'Préparation AG', link: '/docs/guides/ag' },
-            { text: 'Plan comptable', link: '/docs/guides/pca' },
-            { text: 'RGPD', link: '/docs/guides/rgpd' },
-            { text: 'Passation', link: '/docs/guides/handover' },
+            { text: 'Vile de Genas', link: 'https://genas.fr' },
+            { text: 'FFKaraté', link: 'https://www.ffkarate.fr' },
+            { text: 'Crédit Mutuel', link: 'https://www.creditmutuel.com' },
           ]
         },
       ],
       '/blog/': [
         {
-          text: '2025',
+          text: '2025-26',
           collapsed: false,
           items: [
             { text: 'Inscriptions ouvertes', link: '/blog/2025-07-19-ouverture-inscriptions' },
@@ -113,7 +128,7 @@ export default defineConfig({
 
     footer: {
       message: 'Association loi 1901 soutenue par la <a href="https://genas.fr" target="_blank">Ville de Genas</a> et la <a href="https://www.ffkarate.fr/" target="_blank">Fédération Française de Karaté</a>',
-      copyright: 'Copyright © 1993-present <a href="https://github.com/artsmartiauxgenas" target="_blank">Arts Martiaux Genas</a> · RNA W691055588 · SIRET 414 756 668 00037 · <a href="mailto:info@amgenas.fr">info@amgenas.fr</a>'
+      copyright: 'Copyright © 1993-present <a href="https://github.com/artsmartiauxgenas" target="_blank">Arts Martiaux Genas</a> ·  <a href="/mentions-legales">mentions légales</a> · <a href="/contact">contact</a>'
     }
   },
 

@@ -1,0 +1,1 @@
+<!-- @include: 2025-statuts.md -->

@@ -2,13 +2,12 @@
 title: 
 description: 
 sidebar: false
-outline: false
 ---
 # 💡 Questions fréquentes
 
 ## À partir de quel âge peut-on commencer ?
 
-> Nos cours sont accessibles dès 5 ans, selon la discipline. N'hésitez pas à consulter la section "Cours" pour les horaires par tranche d’âge.
+> Nos cours sont accessibles dès 5 ans, selon la discipline. N'hésitez pas à consulter la section [Cours](/horaires) pour les horaires par tranche d’âge.
 
 ## Faut-il un certificat médical ?
 
@@ -24,15 +23,15 @@ outline: false
 
 ## Combien coûtent les cours ?
 
-> Nos tarifs sont indiqués dans le [Règlement intérieur](/docs/legal/reglement). Ils varient selon l’âge et la discipline.
+> Nos tarifs sont indiqués dans le [Règlement intérieur](/docs/legal/reglements/latest). Ils varient selon l’âge et la discipline.
 
 ## Puis-je m'inscrire en cours d'année ?
 
-> Oui, c’est possible selon les places disponibles. Le tarif est ajusté par trimestre.
+> Oui, c’est possible selon les places disponibles. Le tarif est ajusté tous les trimestres.
 
 ## Où ont lieu les cours ?
 
-> Tous nos cours ont lieu au pôle Fraternité. Voir la section "Cours" pour les détails.
+> Tous nos cours ont lieu au pôle Fraternité. Voir la section [Cours](/horaires) pour les détails.
 
 ## L’association propose-t-elle des stages ou événements ?
 
@@ -40,7 +39,7 @@ outline: false
 
 ## Qui encadre les cours ?
 
-> Des professeurs diplômés, passionnés et expérimentés. Vous pouvez les découvrir sur la page [Notre équipe](/club/).
+> Des professeurs diplômés, passionnés et expérimentés. Vous pouvez les découvrir sur la page [Notre équipe](/club).
 
 ## Que se passe-t-il en cas d’absence ou de blessure ?
 
@@ -52,4 +51,6 @@ outline: false
 
 ## Puis-je m’impliquer dans l’association sans être pratiquant ?
 
-> Absolument ! L’association vit grâce à ses bénévoles. Si vous avez un peu de temps (ou beaucoup d’énergie), rejoignez-nous.
+> Absolument ! L’association vit grâce à ses bénévoles.  
+> Parents d'enfant licencié, si vous avez un peu de temps, de l'énergie, ou juste des idées, rejoignez-nous !  
+> [Contribuer](/docs/guides/contribuer) et [Rejoindre le CA](/docs/guides/rejoindre-ca)

@@ -1,3 +1,7 @@
+---
+title: Gouvernance
+description: Liste des liens utiles pour la gouvernance
+---
 # Documents institutionnels
 
 ## Identité administrative
@@ -10,8 +14,8 @@
 ## Statut juridique
 
 - Association loi 1901 à but non lucratif
-- Date de création : [26 novembre 1993](rfc/rfc-1-karate-genas-esga)
-- Dernière modification des statuts : [17 avril 2025](rfc/rfc-7-statuts-arts-martiaux-genas)
+- Date de création : [26 novembre 1993](/docs/rfc/rfc-1-karate-genas-esga)
+- Dernière modification des statuts : [17 avril 2025](/docs/rfc/rfc-7-statuts-arts-martiaux-genas)
 
 ## Équipe dirigeante
 
@@ -36,7 +40,7 @@
 
 ## Accès aux documents
 
-- [Statuts](/docs/legal/statuts)
-- [Règlement intérieur](/docs/legal/reglement)
-- [Fiche d'inscription](/docs/legal/inscription)
-- [Projet associatif](/docs/legal/projet)
+- [Statuts](/docs/legal/statuts/)
+- [Règlement intérieur](/docs/legal/reglements/)
+- [Fiche d'inscription](/inscription)
+- [Projet associatif]()

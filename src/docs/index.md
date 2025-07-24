@@ -1,9 +1,7 @@
-# Documentation
+---
+title: Bienvenue
+decription: Introduction à la documentation
+---
+# Bienvenue
 
-### Administration
-
-### Saison 2025-26 <Badge type="info" text="next" />
-
-### Guides
-
-### FAQ
+> Page en construction, mais n'hésitez pas à naviguer avec la barre sur le côté !

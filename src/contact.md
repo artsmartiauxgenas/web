@@ -1,5 +1,6 @@
 ---
 title: Contact
+description: Page de contact
 lastUpdated: false
 ---
 
@@ -18,6 +19,8 @@ form textarea {
 </style>
 
 <div data-v-6c4a3ffe="" data-v-98ddab3d="" class="NotFound"><p data-v-6c4a3ffe="" class="code">Nous contacter</p></div>
+
+<p>Vous pouvez nous contacter via ce formulaire, ou à l'adresse <a href="mailto:info@amgenas.fr">info@amgenas.fr</a>.</p>
 
 <form action="https://api.web3forms.com/submit" method="POST">
 

@@ -1,0 +1,1 @@
+<!-- @include: 2025-reglement.md -->

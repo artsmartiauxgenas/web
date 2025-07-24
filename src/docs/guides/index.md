@@ -1,5 +1,10 @@
+---
+title: Guides
+description: Liste des guides
+---
 # Guides
 
+---
 ## Préparer l'année suivante
 
 - réunion de lancement

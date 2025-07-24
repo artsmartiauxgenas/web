@@ -1,17 +1,15 @@
-# Actualités
+# Le Journal du Club
 
-Bienvenue sur le blog de l’association.  
+_Bienvenue !_  
 Retrouvez ici nos actualités, événements, et moments de vie du club.
 
 ## 📅 Derniers articles
 
-- [19 juillet · Les inscriptions sont ouvertes pour la nouvelle saison !](2025-07-19-ouverture-inscriptions)
-- [12 juillet · Bal des pompiers et feu d'artifice 2025](2025-07-12-bal-pompiers)
-- [10 juillet · Nouveau nom, nouveau site — même esprit](2025-07-10-nouveau-nom)
+<!--@include: 2025-26/index.md{7,}-->
 
 ## 📚 Archives
 
-- [Tous les articles de 2024–25](index)
+- [Tous les articles de 2024–25]()
 
 ::: info
 - 🎆 Evénements
