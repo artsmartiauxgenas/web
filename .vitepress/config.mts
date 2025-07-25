@@ -76,7 +76,7 @@ export default defineConfig({
             { text: 'Assemblées générales', link: '/docs/legal/assemblees/' },
             { text: 'Budgets', link: '/docs/legal/budgets/' },
             { text: 'Mandats', link: '/docs/legal/mandats' },
-            { text: 'Conseil d\'adminitration', link: '/docs/legal/conseils/' },
+            { text: 'Conseil d\'administration', link: '/docs/legal/conseils/' },
             { text: 'Décisions', link: '/docs/rfc/' },
             { text: 'Saisons sportives', link: '/docs/saisons/' },
             { text: 'Règlements intérieurs', link: '/docs/legal/reglements/' },
