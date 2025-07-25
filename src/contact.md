@@ -18,9 +18,9 @@ form textarea {
 }
 </style>
 
-<div data-v-6c4a3ffe="" data-v-98ddab3d="" class="NotFound"><p data-v-6c4a3ffe="" class="code">Nous contacter</p></div>
+# Nous contacter
 
-<p>Vous pouvez nous contacter via ce formulaire, ou à l'adresse <a href="mailto:info@amgenas.fr">info@amgenas.fr</a>.</p>
+> [!TIP] Vous pouvez nous contacter via ce formulaire, ou à l'adresse : <a href="mailto:info@amgenas.fr">info@amgenas.fr</a>
 
 <form action="https://api.web3forms.com/submit" method="POST">
 
