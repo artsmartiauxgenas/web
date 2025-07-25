@@ -13,8 +13,8 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: 'Le club', link: '/club', activeMatch: '/club' },
-      { text: 'Docs', link: '/docs/', activeMatch: '/docs' },
       { text: 'FAQ', link: '/faq', activeMatch: '/faq' },
+      { text: 'Docs', link: '/docs/', activeMatch: '/docs' },
       { text: 'Blog', link: '/blog', activeMatch: '/blog' },
       { text: 'Contact', link: '/contact', activeMatch: '/contact' },
     ],
