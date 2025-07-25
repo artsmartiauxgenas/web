@@ -5,9 +5,9 @@
 
 Découvrez nos cours adaptés à tous les âges et tous les niveaux : du karaté traditionnel à la self-défense, en passant par des séances de cardio et de renforcement physique. Que vous cherchiez à apprendre un art martial, à vous perfectionner, à vous remettre en forme, ou à vous défouler en toute sécurité, nous avons un créneau pour vous !
 
-- [Karaté traditionnnel](#karate) : [5-7 ans](#karate-5-7) - [8-13 ans](#karate-8-13) - [Ados et adultes](#karate-adultes)
-- [Karaté Défense Training & Santé](#self)
-- [Body Fight & MMA Fit+Fun](#fitness-combat)
+- 🥋 [Karaté traditionnnel](#karate) : [5-7 ans](#karate-5-7) - [8-13 ans](#karate-8-13) - [Ados et adultes](#karate-adultes)
+- 🛡️ [Karaté Défense Training & Santé](#self)
+- 💪 [Body Fight & MMA Fit+Fun](#fitness-combat)
 
 ::: info Les cours ont lieu au [Pôle de Loisirs de la Fraternité - 2 rue de la Fraternité 69740 Genas](https://maps.app.goo.gl/rW2HG1AiGbyPNULA9)
 - Dojo : Halle des Sports Jacques Vabre, 2ème étage  
@@ -15,9 +15,9 @@ Découvrez nos cours adaptés à tous les âges et tous les niveaux : du karaté
 - Salle 4 : Salle Paul Pervangher - au fond du gymnase  
 :::
 
-> _Les cours réguliers peuvent exceptionnellement être annulés en cas d’indisponibilité des installations ou des encadrants. Dans ce cas, les cours ne seront pas systématiquement remplacés et ne donneront lieu à aucun remboursement de cotisation._
+> [!IMPORTANT] ✍️ <a href="/inscription">S’inscrire</a>
 
-- ✍️ [S’inscrire](/inscription)
+> _Les cours réguliers peuvent exceptionnellement être annulés en cas d’indisponibilité des installations ou des encadrants. Dans ce cas, les cours ne seront pas systématiquement remplacés et ne donneront lieu à aucun remboursement de cotisation._
 
 ## 🔎 Légende
 

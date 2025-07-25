@@ -98,11 +98,11 @@ export default defineConfig({
           text: '2025-26',
           collapsed: false,
           items: [
-            { text: 'Inscriptions ouvertes', link: '/blog/2025-07-19-ouverture-inscriptions' },
-            { text: 'Bal des pompiers', link: '/blog/2025-07-12-bal-pompiers' },
-            { text: 'Nouveau nom', link: '/blog/2025-07-10-nouveau-nom' },
-          //  { text: 'Ouverture des inscriptions', link: '/blog/2025-07-17-ouverture-inscriptions' },
-          //  { text: 'Forum des associations', link: '/blog/2025-08-15-forum-associations' },
+            { text: 'Inscriptions ouvertes', link: '/blog/2025-26/2025-07-19-ouverture-inscriptions' },
+            { text: 'Bal des pompiers', link: '/blog/2025-26/2025-07-12-bal-pompiers' },
+            { text: 'Nouveau nom', link: '/blog/2025-26/2025-07-10-nouveau-nom' },
+            //  { text: 'Ouverture des inscriptions', link: '/blog/2025-07-17-ouverture-inscriptions' },
+            //  { text: 'Forum des associations', link: '/blog/2025-08-15-forum-associations' },
           ]
         }
       ]
@@ -137,7 +137,7 @@ export default defineConfig({
       lazyLoading: true
     }
   },
-  
+
   sitemap: {
     hostname: 'https://artsmartiauxgenas.fr'
   }

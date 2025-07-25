@@ -4,4 +4,4 @@ decription: Introduction à la documentation
 ---
 # Bienvenue
 
-> [!TIP] Bienvenue dans votre nouveau club !
+> [!TIP] Bienvenue dans votre club !

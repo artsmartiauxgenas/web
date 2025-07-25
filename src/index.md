@@ -11,7 +11,7 @@ hero:
       text: Rejoindre le club
       link: /inscription
     - theme: alt
-      text: Disciplines & horaires
+      text: Cours & horaires
       link: /horaires
     - theme: alt
       text: Contact
