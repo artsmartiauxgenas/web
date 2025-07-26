@@ -8,7 +8,7 @@ tags:
 - tresorier
 ---
 
-# 📚 Plan comptable associatif – Arts Martiaux de Genas
+# 📚 Plan comptable associatif (PCA)
 **Arts Martiaux Genas**
 
 Ce plan comptable est utilisé pour enregistrer les opérations courantes de l'association, selon le **Plan Comptable Général (PCG 2025)**, avec des adaptations pour les besoins spécifiques des associations sportives sans salarié.
