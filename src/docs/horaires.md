@@ -3,7 +3,7 @@
 
 **Cours du 8 septembre 2025 au 21 juin 2026**
 
-Découvrez nos cours adaptés à tous les âges et tous les niveaux : du karaté traditionnel à la self-défense, en passant par des séances de cardio et de renforcement physique. Que vous cherchiez à apprendre un art martial, à vous perfectionner, à vous remettre en forme, ou à vous défouler en toute sécurité, nous avons un créneau pour vous !
+Découvrez nos cours adaptés à tous les âges et tous les niveaux : du karaté traditionnel à la self-défense et au MMA, en passant par des séances de cardio et de renforcement physique. Que vous cherchiez à apprendre un art martial, à vous perfectionner, à vous remettre en forme, ou à vous défouler en toute sécurité, nous avons un créneau pour vous !
 
 - 🥋 [Karaté traditionnnel](#karate) : [5-7 ans](#karate-5-7) - [8-13 ans](#karate-8-13) - [Ados et adultes](#karate-adultes)
 - 🛡️ [Karaté Défense Training & Santé](#self)
@@ -75,7 +75,7 @@ Découvrez nos cours adaptés à tous les âges et tous les niveaux : du karaté
 Deux approches complémentaires pour bouger, transpirer et se dépasser dans une ambiance dynamique :
 
 - **Body Fight** : des enchaînements techniques rythmés sur musique, pour travailler coordination, tonicité et énergie.
-- **MMA Fit+Fun** : une version loisir du MMA, sans contact ni opposition, qui mixe cardio, renforcement et mouvements inspirés des arts martiaux.
+- **MMA Fit+Fun** : une version loisir du MMA qui mixe cardio, renforcement et mouvements inspirés des arts martiaux.
 
 **Aucune expérience martiale requise** — juste l’envie de vous faire du bien en vous défoulant. 
 
