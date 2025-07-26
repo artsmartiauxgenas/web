@@ -60,7 +60,8 @@ export default defineConfig({
                 { text: 'Evénement', link: '/docs/guides/event' },
                 { text: 'Communication', link: '/docs/guides/communication' },
                 { text: 'Préparation AG', link: '/docs/guides/ag' },
-                { text: 'Plan comptable', link: '/docs/guides/pca' },
+                { text: 'Plan comptable', link: '/docs/guides/plan-comptable' },
+                { text: 'Guide du trésorier', link: '/docs/guides/conseils-tresorier' },
                 { text: 'RGPD', link: '/docs/guides/rgpd' },
                 { text: 'Passation', link: '/docs/guides/handover' },
               ]
