@@ -1,9 +1,9 @@
 ---
-title: Self-défense & remise en forme
+title: Karaté Defense Training & Santé
 description: Un entraînement bienveillant et utile, du karaté santé pour adolescents, adultes et seniors.
 ---
 
-# 🛡️ Self-défense, bien-être et remise en forme
+# 🛡️ Karaté Defense Training & Santé
 
 Une pratique **utile, accessible et complète**, mêlant **self-défense, karaté santé et entretien corporel**, adaptée dès l’adolescence et jusqu’aux seniors.
 
@@ -16,7 +16,7 @@ Une pratique **utile, accessible et complète**, mêlant **self-défense, karat�
 
 ## 👥 Un entraînement adapté
 
-Les séances sont conçues pour respecter le rythme et les capacités de chacun·e :
+Les séances sont conçues pour respecter le rythme et les capacités de chacun :
 
 - Echauffements doux et progressifs
 - Ateliers techniques simples (issus du karaté et de la self-défense)
