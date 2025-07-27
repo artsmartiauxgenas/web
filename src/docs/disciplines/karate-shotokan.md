@@ -37,4 +37,4 @@ Le cours ado/adulte permet à chacun de progresser selon ses objectifs :
 
 Que vous soyez débutant ou avancé, la progression est personnalisée et structurée.
 
-> 🗓️ [Voir les horaires des cours](/horaires)
+> 🗓️ [Voir les horaires des cours](/docs/horaires)

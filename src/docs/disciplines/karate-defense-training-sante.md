@@ -28,4 +28,4 @@ Les séances sont conçues pour respecter le rythme et les capacités de chacun 
 - Aucun contact dur
 - Chacun progresse à son rythme
 
-> 🗓️ [Voir les horaires des cours](/horaires)
+> 🗓️ [Voir les horaires des cours](/docs/horaires)
