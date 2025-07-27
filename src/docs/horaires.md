@@ -6,7 +6,7 @@
 Découvrez nos cours adaptés à tous les âges et tous les niveaux : du karaté traditionnel à la self-défense et au MMA, en passant par des séances de cardio et de renforcement physique. Que vous cherchiez à apprendre un art martial, à vous perfectionner, à vous remettre en forme, ou à vous défouler en toute sécurité, nous avons un créneau pour vous !
 
 - 🥋 [Karaté traditionnnel](#karate) : [5-7 ans](#karate-5-7) - [8-13 ans](#karate-8-13) - [Ados et adultes](#karate-adultes)
-- 🛡️ [Karaté Défense Training & Santé](#self)
+- 🛡️ [Karaté Defense Training & Santé](#kdt)
 - 💪 [Body Fight & MMA Fit+Fun](#fitness-combat)
 
 ::: info Les cours ont lieu au [Pôle de Loisirs de la Fraternité - 2 rue de la Fraternité 69740 Genas](https://maps.app.goo.gl/rW2HG1AiGbyPNULA9)
@@ -55,7 +55,7 @@ Découvrez nos cours adaptés à tous les âges et tous les niveaux : du karaté
 | Mercredi   | 20h30 - 21h30 | Dojo    |
 | Vendredi   | 19h45 - 21h30 | Dojo    |
 
-## 🛡️ Karaté Défense Training & Santé {#self}
+## 🛡️ Karaté Defense Training & Santé {#kdt}
 
 *Bouger, se renforcer, se protéger – à tout âge et tous niveaux.*
 
@@ -64,9 +64,9 @@ Découvrez nos cours adaptés à tous les âges et tous les niveaux : du karaté
 | Jour       | Heure         | Lieu    | Session                 |
 |------------|---------------|---------|-------------------------|
 | Lundi      | 19h - 20h     | Dojo    | Karaté Santé            |
-| Mercredi   | 19h30 - 20h30 | Dojo    | Karaté Défense Training |
+| Mercredi   | 19h30 - 20h30 | Dojo    | Karaté Defense Training |
 | Samedi     | 10h - 11h     | Dojo    | Cardio-training         |
-| Samedi     | 11h - 12h     | Dojo    | Karaté défense Training |
+| Samedi     | 11h - 12h     | Dojo    | Karaté Defense Training |
 
 ## 💪 Body Fight & MMA Fit+Fun {#fitness-combat}
 
