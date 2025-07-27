@@ -29,7 +29,7 @@ Résultat : tu ressors avec le sourire, vidé du stress et reboosté pour la sem
 
 💥 Tu veux bouger, transpirer et garder la pêche ? Ces cours sont faits pour toi.
 
-> 🗓️ [Voir les horaires des cours](/docs/horaires)
+> 🗓️ [Voir les horaires des cours](/docs/horaires#fitness-combat)
 
 ## 🛡️ MMA Fit+Fun - Le MMA version Loisir {#mma}
 
@@ -48,4 +48,4 @@ _Pas besoin d’être un pro pour se sentir fort 💪_
 🔹 Coaching bienveillant et dynamique  
 🔹 Mix de cardio, techniques et renfo
 
-> 🗓️ [Voir les horaires des cours](/docs/horaires)
+> 🗓️ [Voir les horaires des cours](/docs/horaires#fitness-combat)

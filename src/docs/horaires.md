@@ -5,7 +5,10 @@
 
 Découvrez nos cours adaptés à tous les âges et tous les niveaux : du karaté traditionnel à la self-défense et au MMA, en passant par des séances de cardio et de renforcement physique. Que vous cherchiez à apprendre un art martial, à vous perfectionner, à vous remettre en forme, ou à vous défouler en toute sécurité, nous avons un créneau pour vous !
 
-- 🥋 [Karaté traditionnnel](#karate) : [5-7 ans](#karate-5-7) - [8-13 ans](#karate-8-13) - [Ados et adultes](#karate-adultes)
+- 🥋 [Karaté traditionnnel](#karate)
+  - 👶 [5-7 ans](#karate-5-7)
+  - 🧒 [8-13 ans](#karate-8-13)
+  - 🧑‍🦱 [Ados et adultes](#karate-adultes)
 - 🛡️ [Karaté Defense Training & Santé](#kdt)
 - 💪 [Body Fight & MMA Fit+Fun](#fitness-combat)
 

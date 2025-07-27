@@ -17,6 +17,8 @@ Au sein du club, il est transmis dans le respect de la tradition, avec une **pro
 
 Une première approche du karaté dans un environnement bienveillant.
 
+> 🗓️ [Voir les horaires des cours](/docs/horaires#karate-5-7)
+
 ## 🧒 Enfants 8–13 ans : Apprendre et progresser
 
 Les jeunes pratiquants développent des compétences techniques et corporelles :
@@ -26,6 +28,8 @@ Les jeunes pratiquants développent des compétences techniques et corporelles :
 - Préparation aux passages de grade
 
 Le karaté devient un vrai levier de **confiance en soi et de construction personnelle**.
+
+> 🗓️ [Voir les horaires des cours](/docs/horaires#karate-8-13)
 
 ## 🧑 Adultes & ados : Approfondir la pratique
 
@@ -37,4 +41,4 @@ Le cours ado/adulte permet à chacun de progresser selon ses objectifs :
 
 Que vous soyez débutant ou avancé, la progression est personnalisée et structurée.
 
-> 🗓️ [Voir les horaires des cours](/docs/horaires)
+> 🗓️ [Voir les horaires des cours](/docs/horaires#karate-adultes)
