@@ -26,7 +26,7 @@ features:
     details: Dès 5 ans, chacun progresse à son rythme dans une ambiance bienveillante.
   - icon: 🥋
     title: Cours variés
-    details: Karaté Shotokan traditionnel, self-défense réaliste et body fight dynamique.
+    details: Karaté Shotokan traditionnel, self-défense réaliste, body fight dynamique, MMA Loisir.
   - icon: 🤝
     title: Un esprit de club
     details: Une équipe engagée, un encadrement structuré, une pratique accessible.
