@@ -56,9 +56,19 @@ Accessible dès 5 ans, avec une progression structurée pour enfants, ados et ad
 
 ### 🛡️ [Karaté Défense Training & Santé](/docs/disciplines/karate-defense-training-sante)
 
-Un karaté santé, accessible dès l’adolescence jusqu’aux seniors.  
-On y apprend à se protéger tout en renforçant équilibre, mobilité et coordination.  
-Un entraînement doux et progressif, pour entretenir sa forme dans une ambiance bienveillante.
+#### Karaté self-defense
+
+Une pratique accessible, fondée sur des mouvements simples inspirés du karaté et adaptés aux situations concrètes de la vie quotidienne.
+On y apprend à analyser rapidement une situation à risque, à gérer son stress, et à réagir avec des gestes efficaces pour se protéger.
+L’entraînement développe également les capacités physiques indispensables à la protection personnelle.
+Une approche réaliste, utile et ouverte à toutes et tous.
+
+#### Karaté Santé
+
+Un karaté adapté à celles et ceux qui reprennent une activité physique, après 40 ans ou après une longue pause.
+L’accent est mis sur la mobilité, la souplesse, l’équilibre, la coordination et la redécouverte du corps.
+Chacun pratique à son rythme, sans recherche de performance, dans un cadre bienveillant et sans pression.
+Une manière progressive et accessible de retrouver confiance en soi… en mouvement.
 
 ### 💪 [Body Fight & MMA Fit+Fun](/docs/disciplines/body-fight-mma)
 
