@@ -99,6 +99,7 @@ export default defineConfig({
           text: '2025-26',
           collapsed: false,
           items: [
+            { text: 'Rentrée 2025', link: '/blog/2025-26/2025-08-16-saison-2025' },
             { text: 'Inscriptions ouvertes', link: '/blog/2025-26/2025-07-19-ouverture-inscriptions' },
             { text: 'Bal des pompiers', link: '/blog/2025-26/2025-07-12-bal-pompiers' },
             { text: 'Nouveau nom', link: '/blog/2025-26/2025-07-10-nouveau-nom' },
