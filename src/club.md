@@ -71,6 +71,12 @@ const members = [
   </VPTeamPageTitle>
   <VPTeamMembers size="medium" :members />
   <VPTeamPageSection>
+    <template #title>Nos sponsors</template>
+    <template #lead>Voir les <a href="/sponsors/">organismes qui nous soutiennent</a></template>
+    <template #members>
+    </template>
+  </VPTeamPageSection>
+  <VPTeamPageSection>
     <template #title>Informations du club</template>
     <template #lead>Voir les <a href="/docs/legal/">informations administratives</a></template>
     <template #members>
