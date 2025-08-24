@@ -40,8 +40,8 @@ form textarea {
   <input type="hidden" name="ccemail" value="partner@example.com"> -->
 
   <!-- Optional: Default replyto will be "email" field (if available)
-       you may overwrite replyto with different email here -->
-  <input type="hidden" name="replyto" value="contact@amgenas.fr">
+       you may overwrite replyto with different email here
+  <input type="hidden" name="replyto" value="contact@amgenas.fr"> -->
 
   <!-- Optional: Custom Redirection or Thank you Page
        Make sure you add full URL including https:// -->
