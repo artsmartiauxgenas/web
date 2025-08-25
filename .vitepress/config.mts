@@ -6,7 +6,10 @@ export default defineConfig({
   title: "Arts Martiaux Genas",
   description: "Arts Martiaux à Genas",
   cleanUrls: true,
-  head: [['link', { rel: 'icon', href: '/favicon.ico' }]],
+  head: [
+    ['link', { rel: 'icon', href: '/favicon.ico' }],
+    ['link', { rel: 'manifest', href: '/app.webmanifest' }]
+  ],
   srcDir: './src',
   themeConfig: {
     logo: '/logo-enso.svg',

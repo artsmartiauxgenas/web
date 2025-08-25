@@ -1,0 +1,19 @@
+{
+  "name": "Arts Martiaux Genas",
+  "short_name": "AMGenas",
+  "lang": "fr",
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#b8272c",
+  "background_color": "#ffffff",
+  "description": "Arts Martiaux Genas",
+  "icons": [
+    {
+      "src": "logo-enso.svg",
+      "sizes": "1000x1000",
+      "type": "image/svg+xml",
+      "purpose": "maskable"
+    }
+  ],
+  "scope": "."
+}
