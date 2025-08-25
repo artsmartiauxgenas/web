@@ -8,7 +8,8 @@ export default defineConfig({
   cleanUrls: true,
   head: [
     ['link', { rel: 'icon', href: '/favicon.ico' }],
-    ['link', { rel: 'manifest', href: '/app.webmanifest' }]
+    ['link', { rel: 'manifest', href: '/app.webmanifest' }],
+    ['link', { rel: 'apple-touch-icon', href: '/loog-enso-192.png' }],
   ],
   srcDir: './src',
   themeConfig: {
