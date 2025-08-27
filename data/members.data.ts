@@ -8,23 +8,3 @@ export default {
     return members
   }
 }
-
-// [
-//   {
-//     'date': "2025-08-18",
-//     'section': "karaté-6-8",
-//     'sex': "M",
-//     'age': 43,
-//     'place': "Genas",
-//     'subscription': 240
-//   },
-//   {
-//     'date': "2025-08-18",
-//     'section': "karaté-6-8",
-//     'sex': "M",
-//     'age': 43,
-//     'place': "Genas",
-//     'subscription': 240
-//   },
-
-// ]
