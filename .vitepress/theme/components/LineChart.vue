@@ -15,6 +15,11 @@ import {
 } from "echarts/components";
 import { CanvasRenderer } from "echarts/renderers";
 
+import { useData } from 'vitepress'
+
+const { isDark } = useData()
+
+
 // Register required components
 echarts.use([CanvasRenderer, LineChart, TitleComponent, TooltipComponent, LegendComponent, GridComponent, ToolboxComponent]);
 
@@ -25,31 +30,41 @@ const props = defineProps({
   },
 });
 
-const chartRef = ref(null);
-let chartInstance = null;
+const chartRef = ref(null)
+let chartInstance = null
 
 onMounted(() => {
   if (chartRef.value) {
-    chartInstance = echarts.init(chartRef.value);
-    chartInstance.setOption(props.option);
+    chartInstance = echarts.init(chartRef.value, isDark._value ? 'dark' : 'default')
+    chartInstance.setOption(props.option)
   }
-});
+})
 
 watch(
   () => props.option,
   (newOption) => {
     if (chartInstance) {
-      chartInstance.setOption(newOption);
+      chartInstance.setOption(newOption)
     }
   },
   { deep: true }
-);
+)
+
+watch(isDark, (newVal) => {
+  console.log('Dark mode changed:', newVal)
+    if (chartInstance) {
+      chartInstance.setTheme(newVal ? 'dark' : 'default')
+      //chartInstance.dispose()
+      //chartInstance = echarts.init(chartRef.value, newVal ? 'dark' : 'light')
+      //chartInstance.setOption(props.option)
+    }
+})
 
 onBeforeUnmount(() => {
   if (chartInstance) {
-    chartInstance.dispose();
+    chartInstance.dispose()
   }
-});
+})
 </script>
 
 <style scoped>
