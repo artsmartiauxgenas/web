@@ -36,7 +36,7 @@ const members = [
     ]
   },
   {
-    avatar: 'https://www.github.com/yyx990803.png',
+    avatar: '/club/IMG_2034.jpeg',
     name: 'Geoffrey Petri',
     title: 'Président',
   },
