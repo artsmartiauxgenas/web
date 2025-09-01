@@ -19,7 +19,6 @@ import { useData } from 'vitepress'
 
 const { isDark } = useData()
 
-
 // Register required components
 echarts.use([CanvasRenderer, LineChart, TitleComponent, TooltipComponent, LegendComponent, GridComponent, ToolboxComponent]);
 
@@ -54,9 +53,6 @@ watch(isDark, (newVal) => {
   console.log('Dark mode changed:', newVal)
     if (chartInstance) {
       chartInstance.setTheme(newVal ? 'dark' : 'default')
-      //chartInstance.dispose()
-      //chartInstance = echarts.init(chartRef.value, newVal ? 'dark' : 'light')
-      //chartInstance.setOption(props.option)
     }
 })
 
