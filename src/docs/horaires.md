@@ -3,6 +3,11 @@
 
 **Cours du 8 septembre 2025 au 21 juin 2026**
 
+::: danger Démarrage de la saison
+- Body Fight & MMA Loisir : **8 septembre 2025**
+- Karaté : **15 septembre 2025**
+:::
+
 Découvrez nos cours adaptés à tous les âges et tous les niveaux : du karaté traditionnel à la self-défense et au MMA, en passant par des séances de cardio et de renforcement physique. Que vous cherchiez à apprendre un art martial, à vous perfectionner, à vous remettre en forme, ou à vous défouler en toute sécurité, nous avons un créneau pour vous !
 
 - 🥋 [Karaté traditionnnel](#karate)
