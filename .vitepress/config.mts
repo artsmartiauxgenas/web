@@ -40,7 +40,7 @@ export default defineConfig({
           collapsed: false,
           items: [
             { text: 'Saison en cours', link: '/docs/saisons/latest' },
-            { text: 'Cours & horairess', link: '/docs/horaires' },
+            { text: 'Cours & horaires', link: '/docs/horaires' },
             { text: 'Tarifs & Inscriptions', link: '/docs/inscription' },
             { text: 'Statuts', link: '/docs/legal/statuts/latest' },
             { text: 'Règlement intérieur', link: '/docs/legal/reglements/latest' },
