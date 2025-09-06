@@ -15,7 +15,7 @@ status: published
 
 Ce samedi matin, nous étions présents au **Forum des Associations de Genas** pour présenter nos disciplines et échanger avec les visiteurs.  
 
-👉 Vous avez été nombreux à venir nous voir, à poser des questions et à découvrir nos différentes sections : **Karaté Shotokan, Body Fight, Karaté Defense Training MMA Loisir, Karaté Santé**.
+👉 Vous avez été nombreux à venir nous voir, à poser des questions et à découvrir nos différentes sections : **Karaté Shotokan, Body Fight, Karaté Defense Training, MMA Loisir, Karaté Santé**.
 
 Une bonne ambiance, beaucoup de contacts et de bons échanges, et surtout l’occasion de partager notre **passion pour les arts martiaux**.  
 
