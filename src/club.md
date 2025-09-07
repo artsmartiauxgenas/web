@@ -71,7 +71,7 @@ const members = [
   </VPTeamPageTitle>
   <VPTeamMembers size="medium" :members />
   <VPTeamPageSection>
-    <template #title>Nos sponsors</template>
+    <template #title>Nos partenaires</template>
     <template #lead>Voir les <a href="/sponsors/">organismes qui nous soutiennent</a></template>
     <template #members>
     </template>
