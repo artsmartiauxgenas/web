@@ -36,17 +36,17 @@ const members = [
     ]
   },
   {
-    avatar: '/club/IMG_2034.jpeg',
+    avatar: '/club/IMG_2034.jpg',
     name: 'Geoffrey Petri',
     title: 'Président',
   },
   {
-    avatar: 'https://www.github.com/yyx990803.png',
+    avatar: '/club/IMG_1976.jpeg',
     name: 'Cyrille Protière',
     title: 'Secrétaire',
   },
   {
-    avatar: 'https://www.github.com/yyx990803.png',
+    avatar: '/club/IMG_1961.jpeg',
     name: 'Dragos Mocanu',
     title: 'Trésorier',
   },
