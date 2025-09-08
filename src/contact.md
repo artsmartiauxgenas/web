@@ -21,9 +21,10 @@ form textarea {
 }
 </style>
 
+# Contact
+
 > [!tip] Nous contacter
-> _Des questions, besoin d'information ? Des idées, des suggestions ?_
->
+> _Des questions, besoin d'information ? Des idées, des suggestions ?_  
 > N'hésitez pas à nous contacter via ce formulaire, ou à l'adresse : <a href="mailto:info@amgenas.fr">info@amgenas.fr</a>
 
 <Contact />
