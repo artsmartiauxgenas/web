@@ -43,8 +43,8 @@ Nous vous proposons également une consultation via une page web, avec les liens
 [karatedtics]:https://outlook.office365.com/owa/calendar/6eedabaf618e4ef6a45e4e038d0a9e97@amgenas.fr/a295c70af66d434a87b75174af00dade7988703965270291440/calendar.ics
 [karatedthtml]:https://outlook.office365.com/owa/calendar/6eedabaf618e4ef6a45e4e038d0a9e97@amgenas.fr/a295c70af66d434a87b75174af00dade7988703965270291440/calendar.html
 
-[bfmmaics]:https://
-[bfmmahtml]:https://
+[bfmmaics]:https://outlook.office365.com/owa/calendar/6eedabaf618e4ef6a45e4e038d0a9e97@amgenas.fr/519c0f4f878d4c6b9a9d7024eae91dc617225496874926021619/calendar.ics
+[bfmmahtml]:https://outlook.office365.com/owa/calendar/6eedabaf618e4ef6a45e4e038d0a9e97@amgenas.fr/519c0f4f878d4c6b9a9d7024eae91dc617225496874926021619/calendar.html
 
 > ✅ Fuseau horaire : Europe/Paris (CET/CEST).  
 > ✅ Les jours fériés / fermetures exceptionnelles seront indiqués sur ces calendriers.
