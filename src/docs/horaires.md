@@ -94,4 +94,4 @@ Deux approches complémentaires pour bouger, transpirer et se dépasser dans une
 
 ## 📅 Planning hebdomadaire {#planning}
 
-_à venir_
+![Planning 2025-26](planning-2025-26.jpg)

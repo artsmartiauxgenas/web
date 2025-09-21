@@ -16,20 +16,35 @@ status: published
 
 Vous pouvez consulter nos horaires de cours en ligne (HTML) ou vous abonner à un calendrier .ics pour voir automatiquement les mises à jour dans votre agenda.
 
-::: tip 💡 Conseil 
-L’abonnement (liens https://...ics) se met à jour automatiquement.  
-L’import d’un fichier .ics unique ne se met pas à jour.
+::: tip 💡 Remarques 
+Les liens _Abonnement (ICS)_ sont à privilégier pour que les calendriers se mettent à jour automatiquement. **Attention**, le calendrier importé après avoir été télécharté (fichier `*.ics`) ne se met pas à jour.  
+Nous vous proposons également une consultation via une page web, avec les liens _Vue web (HTML)_.
 :::
 
 ## Liens par discipline
 
-| Discipline | Vue web (HTML) | Abonnement (ICS) |
-|---|---|---|
-| Karaté 5-7 ans | [Karaté 5-7 ans (HTML)](https://outlook.office365.com/owa/calendar/6eedabaf618e4ef6a45e4e038d0a9e97@amgenas.fr/48db38ffee0741a3b779814155a7050a13098803987697822714/calendar.html) | [Karaté 5-7 ans (ICS)](https://outlook.office365.com/owa/calendar/6eedabaf618e4ef6a45e4e038d0a9e97@amgenas.fr/48db38ffee0741a3b779814155a7050a13098803987697822714/calendar.ics) |
-| Karaté 8-13 ans | [Karaté 8-13 ans (HTML)](https://outlook.office365.com/owa/calendar/6eedabaf618e4ef6a45e4e038d0a9e97@amgenas.fr/9bacee86bfc94c1484a39bfe4925b81a9377639791972220920/calendar.html) | [Karaté 8-13 ans (ICS)](https://outlook.office365.com/owa/calendar/6eedabaf618e4ef6a45e4e038d0a9e97@amgenas.fr/9bacee86bfc94c1484a39bfe4925b81a9377639791972220920/calendar.ics) |
-| Karaté ados/adultes | [Karaté ados/adultes (HTML)](https://outlook.office365.com/owa/calendar/6eedabaf618e4ef6a45e4e038d0a9e97@amgenas.fr/986cf9b806834a639d621f69050f50d511245757551790716943/calendar.html) | [Karaté ados/adultes (ICS)](https://outlook.office365.com/owa/calendar/6eedabaf618e4ef6a45e4e038d0a9e97@amgenas.fr/986cf9b806834a639d621f69050f50d511245757551790716943/calendar.ics) |
-| Karaté Défense Training | [Karaté Défense Training (HTML)](https://outlook.office365.com/owa/calendar/6eedabaf618e4ef6a45e4e038d0a9e97@amgenas.fr/a295c70af66d434a87b75174af00dade7988703965270291440/calendar.html) | [Karaté Défense Training (ICS)](https://outlook.office365.com/owa/calendar/6eedabaf618e4ef6a45e4e038d0a9e97@amgenas.fr/a295c70af66d434a87b75174af00dade7988703965270291440/calendar.ics) |
-| Body-Fight & MMA | [Body-Fight & MMA (HTML)](https://outlook.office365.com/owa/calendar/6eedabaf618e4ef6a45e4e038d0a9e97@amgenas.fr/5caa277397924e49bb3b42f33dd7abd014497268110205143228/calendar.html) | [Body-Fight & MMA (ICS)](https://outlook.office365.com/owa/calendar/6eedabaf618e4ef6a45e4e038d0a9e97@amgenas.fr/5caa277397924e49bb3b42f33dd7abd014497268110205143228/calendar.ics) |
+| Abonnement (ICS) | Vue web (HTML) |
+|---|---|
+| [Karaté 5-7 ans (ICS)][karate57ics] | [Karaté 5-7 ans (HTML)][karate57html] |
+| [Karaté 8-13 ans (ICS)][karate813ics] | [Karaté 8-13 ans (HTML)][karate813html] |
+| [Karaté ados/adultes (ICS)][karate14ics] | [Karaté ados/adultes (HTML)][karate14html] |
+| [Karaté Défense Training (ICS)][karatedtics] | [Karaté Défense Training (HTML)][karatedthtml] |
+| [Body-Fight & MMA (ICS)][bfmmaics] | [Body-Fight & MMA (HTML)][bfmmahtml] |
+
+[karate57ics]:https://outlook.office365.com/owa/calendar/6eedabaf618e4ef6a45e4e038d0a9e97@amgenas.fr/48db38ffee0741a3b779814155a7050a13098803987697822714/calendar.ics
+[karate57html]:https://outlook.office365.com/owa/calendar/6eedabaf618e4ef6a45e4e038d0a9e97@amgenas.fr/48db38ffee0741a3b779814155a7050a13098803987697822714/calendar.html
+
+[karate813ics]:https://outlook.office365.com/owa/calendar/6eedabaf618e4ef6a45e4e038d0a9e97@amgenas.fr/9bacee86bfc94c1484a39bfe4925b81a9377639791972220920/calendar.ics
+[karate813html]:https://outlook.office365.com/owa/calendar/6eedabaf618e4ef6a45e4e038d0a9e97@amgenas.fr/9bacee86bfc94c1484a39bfe4925b81a9377639791972220920/calendar.html
+
+[karate14ics]:https://outlook.office365.com/owa/calendar/6eedabaf618e4ef6a45e4e038d0a9e97@amgenas.fr/986cf9b806834a639d621f69050f50d511245757551790716943/calendar.ics
+[karate14html]:https://outlook.office365.com/owa/calendar/6eedabaf618e4ef6a45e4e038d0a9e97@amgenas.fr/986cf9b806834a639d621f69050f50d511245757551790716943/calendar.html
+
+[karatedtics]:https://outlook.office365.com/owa/calendar/6eedabaf618e4ef6a45e4e038d0a9e97@amgenas.fr/a295c70af66d434a87b75174af00dade7988703965270291440/calendar.ics
+[karatedthtml]:https://outlook.office365.com/owa/calendar/6eedabaf618e4ef6a45e4e038d0a9e97@amgenas.fr/a295c70af66d434a87b75174af00dade7988703965270291440/calendar.html
+
+[bfmmaics]:https://
+[bfmmahtml]:https://
 
 > ✅ Fuseau horaire : Europe/Paris (CET/CEST).  
 > ✅ Les jours fériés / fermetures exceptionnelles seront indiqués sur ces calendriers.
@@ -65,7 +80,7 @@ L’import d’un fichier .ics unique ne se met pas à jour.
 ### Outlook (application de bureau)
 
 1. **Fichier → Paramètres du compte → Abonnements Internet** (ou “Calendriers Internet” selon la version).
-2. **Nouveau…**, collez le lien `https://...ics`.
+2. **Nouveau…**, collez le lien `https://*.ics`.
 3. Donnez un nom, enregistrez.  
    > Outlook se synchronise périodiquement (délai variable selon version).
 
@@ -73,12 +88,9 @@ L’import d’un fichier .ics unique ne se met pas à jour.
 
 1. Ouvrez Outlook sur le web → **Calendrier**.
 2. **Ajouter un calendrier → S’abonner depuis le Web**.
-3. Collez l’URL `https://...ics`, nommez le calendrier, **Importer**.
+3. Collez l’URL `https://*.ics`, nommez le calendrier, **Importer**.
 
 ## Questions fréquentes
-
-**Puis-je tout avoir dans un seul agenda ?**  
-Oui : abonnez-vous à **“Tous les cours (global)”**.
 
 **Et si un cours change d’horaire ?**  
 Les agendas abonnés se mettent à jour automatiquement. Ouvrez l’app après quelques minutes si vous ne voyez pas encore la modification.
@@ -88,7 +100,7 @@ Téléchargez le `.ics` (lien abonnement) puis importez-le manuellement. Mais **
 
 ## Besoin d’aide ?
 
-Écrivez-nous : **contact@artsmartiauxgenas.fr** (ou via la page **Contact** du site).
+Écrivez-nous via la page [Contact](/contact) du site.
 
 À très bientôt sur le tatami ! 🥋  
 **L’équipe Arts Martiaux Genas**
