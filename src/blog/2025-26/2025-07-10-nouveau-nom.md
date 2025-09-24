@@ -8,7 +8,7 @@ authors:
   - name: Equipe AMGenas
 status: published
 ---
-# Nouveau nom, nouveau site — même esprit
+# 📢 Nouveau nom, nouveau site — même esprit
 `{{ $frontmatter.id }}` 2025-07-10 · {{ $frontmatter.authors[0].name }}
 
 Depuis des années, notre club est un lieu d’apprentissage, de dépassement de soi et de transmission. Aujourd’hui, nous faisons évoluer notre image pour mieux refléter qui nous sommes devenus, et vers où nous allons.

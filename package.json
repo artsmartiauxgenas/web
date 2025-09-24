@@ -8,6 +8,7 @@
     "docs:preview": "vitepress preview ."
   },
   "dependencies": {
-    "echarts": "^6.0.0"
+    "echarts": "^6.0.0",
+    "markdown-it-footnote": "^4.0.0"
   }
 }

@@ -15,5 +15,5 @@ Retrouvez ici nos actualités, événements, et moments de vie du club.
 - 🎆 Evénements
 - 🥋 Stages
 - 🧾 Vie associative
-- 📣 Annonces officielles
+- 📢 Annonces officielles
 :::
