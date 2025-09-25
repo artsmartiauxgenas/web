@@ -18,7 +18,8 @@ Nous avons le plaisir de convier l’ensemble de nos adhérents à :
 ::: info Assemblée Générale de l’association Arts Martiaux Genas
 📅 **Jeudi 6 novembre 2025**  
 🕣 **20h30**  
-📍 Salle Le Genêt — 2 Rue de la République 69740 Genas
+📍 Salle Le Genêt — 2 Rue de la République 69740 Genas  
+📜 [PV Assemblée Générale 2025-26](/docs/legal/assemblees/2025-11-06-pv-assemblee-generale)
 :::
 
 ## Pourquoi venir ?
