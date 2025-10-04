@@ -4,7 +4,7 @@ title: Arts Martiaux Genas
 description: Karaté, self-défense et body fight à Genas. Un club familial et rigoureux, ouvert à tous.
 hero:
   name: Arts Martiaux Genas
-  text: Karaté · Self-défense · Body Fight
+  text: Karaté · Self-défense · Body Fight · MMA
   tagline: Tradition – Exigence – Progression pour tous
   actions:
     - theme: brand
