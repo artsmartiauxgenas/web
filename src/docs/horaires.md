@@ -51,9 +51,12 @@ Découvrez nos cours adaptés à tous les âges et tous les niveaux : du karaté
 
 | Jour       | Heure         | Lieu    |
 |------------|---------------|---------|
+| Lundi      | 19h - 20h     | Dojo    |
 | Mercredi   | 18h30 - 19h30 | Dojo    |
 | Vendredi   | 18h30 - 19h30 | Salle 4 |
-| Samedi     | 9h - 10h      | Dojo    |
+
+- Lundi : techniques de base
+- Vendredi : techniques avancées
 
 ### 🧑‍🦱 Ados et Adultes {#karate-adultes}
 
@@ -61,20 +64,18 @@ Découvrez nos cours adaptés à tous les âges et tous les niveaux : du karaté
 |------------|---------------|---------|
 | Lundi      | 20h - 21h     | Dojo    |
 | Mercredi   | 20h30 - 21h30 | Dojo    |
-| Vendredi   | 19h45 - 21h30 | Dojo    |
+| Vendredi   | 20h30 - 21h30 | Dojo    |
 
-## 🛡️ Karaté Defense Training & Santé {#kdt}
+## 🛡️ Karaté Defense Training {#kdt}
 
 *Bouger, se renforcer, se protéger – à tout âge et tous niveaux.*
 
 ### 🧑‍🦱 👴 Ados / Adultes / Seniors
 
-| Jour       | Heure         | Lieu    | Session                 |
-|------------|---------------|---------|-------------------------|
-| Lundi      | 19h - 20h     | Dojo    | Karaté Santé            |
-| Mercredi   | 19h30 - 20h30 | Dojo    | Karaté Defense Training |
-| Samedi     | 10h - 11h     | Dojo    | Cardio-training         |
-| Samedi     | 11h - 12h     | Dojo    | Karaté Defense Training |
+| Jour       | Heure         | Lieu    |
+|------------|---------------|---------|
+| Mercredi   | 19h30 - 20h30 | Dojo    |
+| Vendredi   | 19h30 - 20h30 | Dojo    |
 
 ## 💪 Body Fight & MMA Fit+Fun {#fitness-combat}
 
