@@ -43,6 +43,7 @@ Il suit les grandes lignes du **Plan Comptable Général (PCG 2025)** et du **Pl
 | 616    | Primes d’assurances                            | MACIF                                        |
 | 6218   | Rémunérations exceptionnelles de membres    | Pour stage ou encadrement ponctuel          |
 | 6226   | Rémunérations d’intervenants extérieurs        | Professeurs via leur structure               |
+| 6234   | Cadeaux ou objets publicitaires                | Objets floqués, distribués gratuitement            |
 | 6251   | Déplacements                                    | Transport, indemnité km                      |
 | 6256   | Missions                                        | Repas, hébergement                           |
 | 6257   | Réceptions                                      | Goûters, fêtes de fin d’année                |
