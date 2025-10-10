@@ -6,6 +6,8 @@ decription: Liste des RFC et processus de décision
 
 ## 2025
 
+- 1 adhésion remboursée
+- [RFC-12 Ajustement des horaires](rfc-12-ajustement-horaires)
 - [RFC-8 Règlement intérieur](rfc-8-2025-reglement) <Badge type="info" text="reglement" />
 - [RFC-7 Statuts de l'association Arts Martiaux Genas](rfc-7-statuts-arts-martiaux-genas) <Badge type="info" text="statuts" /> <Badge type="info" text="AGE" />
   - Changement de nom
