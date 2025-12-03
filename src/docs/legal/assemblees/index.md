@@ -8,7 +8,7 @@ description: Liste des Assemblées générales de l'association
 ## 2025-26
 
 - [Convocation Assemblée Générale](/blog/2025-26/2025-09-24-assemblee-generale)
-- [Assemblée Générale Ordinaire](2025-11-06-pv-assemblee-generale) <Badge type="warning" text="à venir" />
+- [Assemblée Générale Ordinaire](2025-11-06-pv-assemblee-generale)
 
 ## 2024-25
 

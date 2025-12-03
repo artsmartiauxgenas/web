@@ -17,18 +17,13 @@ status: draft
 **Date** : 6 novembre 2025 à 20h30  
 **Lieu** : Salle Le Genêt, Genas
 
-::: warning Attention
-Document en cours de rédaction
-:::
-
 ## Présents
 
-- Geoffrey PETRI — _Président_
-- Cyrille Protiere — _Secrétaire_
-- Membres présents : **14**
-- Total des voix exprimées : **16**
+Rappel du nombre d’adhérents à ce jour : **95**
 
-La Mairie de Genas est représentée par Christine Liatard, _adjointe aux Sports_.
+Nombre d’adhérents présents : **14 représentant 16 inscrits** (ratio : 17%) (voir feuille de présence en annexe).
+
+Les membres de l’association débutent la séance en remerciant l’ensemble des personnes présentes ainsi que la mairie, représentée par son adjointe aux sports Christine Liatard, pour leur investissement et soutien.
 
 ## Ordre du jour
 
@@ -47,57 +42,76 @@ La Mairie de Genas est représentée par Christine Liatard, _adjointe aux Sports
 
 ## Rapport moral 2024-25
 
-Le Président ouvre la séance à 20h35 et présente le rapport moral de l’association.  
-A souligner :
+Le bon déroulement de la saison 2024-25 avec un bon esprit général au sein des différentes sections et une stabilité du nombre d’adhérents malgré la fermeture de la section Taekwondo la saison précédente.
 
-- Le bon déroulement de la saison 2024–25.
-- La stabilité du nombre d’adhérents.
-- Le bon esprit général au sein des sections et du Bureau.
-
-### Faits marquants
-
-- L'approbation des nouveaux statuts.
-- Le renouvellement du Bureau.
-
-En attente d'approbation de la Préfecture
-
-**Vote** : Le rapport moral est adopté à l’unanimité.
-
-## Rapport d’activités 2024-25
-
-Le Secrétaire présente le rapport d'activités.
+### Les adhérents 2024-25
 
 Membres de la saison 2024-25 :  
 **83 adhérents**, dont **70 % de Genassiens**.
 
-| Âge / Section | Body-Fight / MMA | Karaté |
-| ------------: | :--------------: | :----: |
-| 5-7 ans       |   -              |   10   |
-| 8-13 ans      |   -              |   33   |
-| Ados/Adultes  |   23             |   16   |
-| **Total**     | **23**           | **60** |
+| Âge / Section | Body-Fight / MMA | Karaté | Karaté défense |
+| ------------: | :--------------: | :----: | :------------: |
+| 5-7 ans       |   -              |   10   |                |
+| 8-13 ans      |   -              |   33   |                |
+| Ados/Adultes  |   23             |   8    |  9             |
+| **Total**     | **23**           | **51** | **9**          |
 
-Cours :  
-6 cours hebdomadaires assurés sur 10 créneaux
+### Les coachs 2024-25
 
-Stages et événements organisés :  
-- 2024-10-13 Stage Grappling
-- 2024-11-23 Stage Karaté
-- 2024-12-13 Soirée de Noël (Karaté)
-- 2025-01-18 Stage Karaté JP Lavorato
-- 2025-02-08 Stage Karaté
-- 2025-03-29 Stage Karaté
-- 2025-04-11 Lecture et dédicace _L’appel du Karaté_
-- 2025-05-10 Stage Karaté Mike Julie
-- 2025-05-15 Stage Christian CLAUSE (9e dan)
-- 2025-06-28 Passage de grade et fin de saison
+- Body Fight / MMA : Bernardo Dupont
+- Karaté : Ayoub Otmani
 
-Participation extérieure :  
-- 2024-09-07 Forum des Associations
-- 2025-04-06 Interclubs St-Jeannais
-- 2025-04-18 Fête du Kata
+### Faits marquants
 
-**Vote** : Le rapport d’activités est adopté à l’unanimité.
+Approbation des nouveaux statuts et règlement intérieur lors de l’Assemblée Générale précédente et transmission à la Préfecture.
+
+Pour mémoire, ils sont disponibles directement sur le site internet :
+
+- [Statuts](https://artsmartiauxgenas.fr/docs/legal/statuts/2025-statuts)
+- [Règlement intérieur](https://artsmartiauxgenas.fr/docs/rfc/rfc-8-2025-reglement)
+
+Renouvellement des membres du bureau de l’association avec l’arrivée de :
+
+- Cyrille PROTIERE en tant que Secrétaire
+- Dragos MOCANU en tant que Trésorie
+
+### Evénements 2024-25
+
+Stages et événements organisés :
+
+| Date | Evénement |
+| ---: | :-------- |
+| 2024-10-13 | Stage Grappling |
+| 2024-11-23 | Stage Karaté |
+| 2024-12-13 | Soirée de Noël (Karaté) |
+| 2025-01-18 | Stage Karaté JP Lavorato |
+| 2025-02-08 | Stage Karaté |
+| 2025-03-29 | Stage Karaté |
+| 2025-04-11 | Lecture et dédicace _L’appel du Karaté_ |
+| 2025-04    | Séjour/Stage Body Fight / MMA dans le Sud de l’Espagne |
+| 2025-05-10 | Stage Karaté Mike Julie |
+| 2025-05-15 | Stage Christian CLAUSE (9e dan) |
+| 2025-06-28 | Passage de grade et fin de saison |
+
+Participation extérieure :
+
+| Date | Evénement |
+| ---: | :-------- |
+| 2024-09-07 | Forum des Associations |
+| 2025-04-06 | Interclubs St-Jeannais |
+| 2025-04-18 | Fête du Kata |
+
+Réflexion sur l’ouverture d’une session karaté santé
+
+L’Association soumet à l’approbation de l’Assemblée Générale. 
+
+**Résolution n° 1 : Approbation du bilan moral de l’activité 2024-25** 
+- Votes "Pour" : 14 adhérents présents représentant 16 inscrits
+- Votes "Contre" : 0 / Abstentions : 0
+
+## Bilan financier de la saison 2024-25
+
+La présentation simplifiée des comptes est donnée ci-dessous, le détail est fourni sur le site internet de l’association. Voir [Bilan financier 2024-25](https://artsmartiauxgenas.fr/docs/legal/budgets/2024-25-bilan).
 
 ## Rapport financier 2024-25
 
@@ -147,7 +161,75 @@ Présenté à l'AG 2024-25.
 > - Les comptes sont disponibles : [Bilan financier 2024-25](../budgets/2024-25-bilan)
 > - Bilan de la saison 2023-24 : **+ 797,00 €**
 
-**Vote** : Le rapport financier est adopté à l’unanimité.
+L’Association soumet à l’approbation de l’Assemblée Générale.
+
+**Résolution n° 2 : Approbation des comptes 2024-25**
+- Votes "Pour" : 14 adhérents présents représentant 16 inscrits
+- Votes "Contre" : 0 / Abstentions : 0
+
+## Aperçu sur la saison 2025-26
+
+### Les adhérents
+
+| Âge / Section | Body-Fight / MMA | Karaté | Karaté défense |
+| ------------: | :--------------: | :----: | :------------: |
+| 5-7 ans       |   -              |   16 (+6)   |                |
+| 8-13 ans      |   -              |   32 (-1)  |                |
+| Ados/Adultes  |   19 (-4)             |   13 (+5)    |  15 (+6)             |
+| **Total**     | **19** (-4)          | **61** (+10) | **15** (+6)         |
+
+
+### Les coachs 2025-26
+
+- Body Fight / MMA : Bernardo Dupont
+- Karaté : Ayoub Otmani
+
+### Evénements 2025-26
+
+Stages et événements organisés :
+
+| Date | Evénement |
+| ---: | :-------- |
+| 2025-11-20 | Stage Jean-Louis MOREL (8e dan) - salle 1 ou 4 Genas |
+| 2025-12-12 | Soirée de fin d'année |
+| 2026-01-07 | Stage Jean-Pierre LAVORATO (10e dan) - dojo Genas |
+| 2026-03-21 | Stage enfants/adultes Mike JULIE (7e dan) - dojo Genas |
+| 2026-05-28 | Stage Christian CLAUSE (9e dan) - salle 1 ou 4 |
+| 2026-06    | Passage de grade |
+
+Interclubs en discussion avec clubs amis.
+
+### Mise-à-jour du logo et du site internet
+
+Nouvelle identité et reprise complète du site internet depuis le début de l’année. 
+
+[Arts Martiaux Genas](https://artsmartiauxgenas.fr)
+
+### Mise en place des agendas partagés
+
+Chaque section possède un agenda en ligne mis à jour régulièrement.  
+Voir le lien ci-dessous pour les modalités de couplage avec vos agenda Google / Apple / Microsoft :
+
+[Calendriers des cours — liens et mode d’emploi](https://artsmartiauxgenas.fr/blog/2025-26/2025-09-21-liens-utiles)
+
+### Instagram
+
+Difficulté d’utilisation avec les sujets de _droit à l’image_ mais prêt à reprendre du service par un membre du CA. Groupe Facebook à créer. 
+
+### Réorganisation du planning des activités
+
+Une communication spécifique a été faite le 2025-10-05 afin d’informer les adhérents impactés par la réorganisation des sessions : Karaté 8/13 et Karaté Santé/Défense. Elle fait suite à la fermeture de la section Karaté Santé ayant eu trop peu d’adhérents.
+
+Le site internet a été mis à jour en conséquence et intègre le nouveau planning des activités. Un affichage spécifique a été mis en place au dojo. 
+
+## Projets pour la saison 2025-26
+
+Pour ceette saison, l’association prévoit :
+
+- Formation d’un nouveau professeur pour suppléer Ayoub dans les sections de Karaté. 
+- Achat de matériel pour améliorer la qualité des cours
+- Fourniture d’écussons brodés à l’image du club pour les compléter les tenues
+- Ouverture prochaine de commande pour des t-shirts et casquette (modèles présentés en séance)
 
 ## Budget prévisionnel 2025-26
 
@@ -183,92 +265,85 @@ Le budget pour la saison 2025–2026 est présenté :
 
 - Nombre d'adhésions : 95
 - Adhésions : 21 450 €
+- Dépenses exceptionnelles
+  - Remboursement à la mairie des badges perdus par la précédente équipe (3 * 11,75 €)
+  - Prise en charge des frais de formation de Thibaud
 
-**Vote** : Le budget prévisionnel est adopté à l’unanimité.
+Les aides indirectes de la mairie correspondent à la mise à disposition des locaux (éclairage, chauffage, ménage, entretien, etc.) seront estimés en fin d’exercice.
 
-## Aperçu de la saison 2025-26
+L’Association soumet à l’approbation de l’Assemblée Générale.
 
-Membres de la saison 2025-26 :  
-**95 adhérents**, dont **76 % de Genassiens**.
+**Résolution n° 3 : Approbation du budget prévisionnel 2025-26**
+- Votes "Pour" : 14 adhérents présents représentant 16 inscrits
+- Votes "Contre" : 0 / Abstentions : 0
 
-| Section | Membres |
-| :------ | :-----: |
-| Karaté 5-7 ans      | 16 |
-| Karaté 8-13 ans     | 32 |
-| Karaté Ados/Adultes | 13 |
-| Karaté Self-Défense | 15 |
-| Body-Fight          | 10 |
-| MMA                 |  9 |
-| **Total**           | **95** |
+## Désignation et renouvellement des membres du conseil d'administration
 
-- Genassiens : **72 (76 %)**
-- Répartition M / F : 57 / 38
-
-## Projets 2025-26
-
-- Changement de nom de l'association (suite aux nouveaux statuts) <Badge>OK</Badge>
-- Refonte de l'identité visuelle et du site internet : artsmartiauxgenas.fr <Badge>OK</Badge>
-- Mise en place des calendriers partagés <Badge>OK</Badge>
-- Création d'une section _Karaté Santé_ <Badge type="danger">annulé</Badge>
-  - Trop peu de personnes inscrites à cette section pour la maintenir sur l'année. Communication aux membres impactés le 05/10/2025. 
-- Organisation de la communication Facebook et Instagram <Badge type="warning">en cours</Badge>
-- Commandes de casquettes et t-shirts <Badge type="info">à venir</Badge>
-- Commandes d'écussons <Badge type="info">à venir</Badge>
-
-## Evénements 2025-26
-
-- 2025-09-06 Forum des Associations <Badge>OK</Badge>
-- 2025-11-06 AG <Badge type="warning">en cours</Badge>
-- 2025-11-20 Stage Jean-Louis Morel (8e dan) - salle 1 ou 4 Genas <Badge type="info">prévu</Badge>
-- début décembre Fête de Noël <Badge type="warning">à prévoir</Badge>
-- 2025-12-08 Stage partenariat avec les Epides <Badge type="info">prévu</Badge>
-- 2026-01-07 Stage Jean-Pierre Lavorato (10e dan) - dojo Genas <Badge type="info">prévu</Badge>
-- 2026-03-21 Stage enfants/adultes Mike Julie (7e dan) - dojo Genas <Badge type="info">prévu</Badge>
-- avril 2026 Projet de stage sport arts martiaux <Badge type="warning">à prévoir</Badge>
-- 2026-05-28 Stage Christian Clause (9e dan) - salle 1 ou 4 Genas <Badge type="info">prévu</Badge>
-- 2025-06-21 Fin de saison
-
-Participations : 
-- 2025-11-30 Stage Mike Julie + Philippe Corneloup + Stéphane Marie
-
-## Renouvellement du CA
+Mandats en cours : 
 
 - Geoffrey Petri — Président (2022–2025)
 - Cyrille Protiere — Secrétaire (2025–2028)
 - Dragos Mocanu — Trésorier (2025–2028)
 - Laurent Galin (2024–2027)
 
+### Désignation ou renouvellement du président de l'association
+
+Il est proposé au vote le renouvellement de **Geoffrey Petri** en tant que Président de l’association.
+
+L’Association soumet à l’approbation de l’Assemblée Générale.
+
+**Résolution n° 4 : Renouvellement du Président de l’association**
+- Votes "Pour" : 14 adhérents présents représentant 16 inscrits
+- Votes "Contre" : 0 / Abstentions : 0
+
 ### 📣 Appel à volontaires pour intégrer le CA
 
-Candidatures de 3 personnes pour rejoindre le CA : 
+Un appel à volontaires est lancé en séance afin d’accueillir de nouveaux membres au sein du CA et ainsi aider à l’organisation de l’Association.  
+Parmi les présents, 3 volontaires se sont manifestés : Lucie Bellouvet, Patrick Tanzilli, et Gilles Ortiz.
 
-- Lucie Bellouvet
-- Gilles Ortiz
-- Patrick Tanzilli
+Patrick se propose pour prendre en main le compte Instagram de l’association.
 
-**Vote** : Les candidatures sont approuvées à l'unanimité.  
-Une réunion spécifique sera prévue pour les accueillir.  
-Bienvenue aux nouveaux membres du CA !
+L’Association soumet à l’approbation de l’Assemblée Générale.
 
-### 🗳️ Vote pour le renouvellement de Président
+**Résolution n° 5 : Acceptation de Lucie Bellouvet en tant que membre du Comité d’Administration**
+- Votes "Pour" : 14 adhérents présents représentant 16 inscrits
+- Votes "Contre" : 0 / Abstentions : 0
 
-Le mandat du Président arrivant à échéance, un vote est organisé.
+**Résolution n° 6 : Acceptation de Patrick Tanzilli en tant que membre du Comité d’Administration**
+- Votes "Pour" : 14 adhérents présents représentant 16 inscrits
+- Votes "Contre" : 0 / Abstentions : 0
 
-- Candidature : Geoffrey PETRI, candidat à sa propre succession
-- _Aucune autre candidature n'est déclarée_
+**Résolution n° 7 : Acceptation de Gilles Ortiz en tant que membre du Comité d’Administration**
+- Votes "Pour" : 14 adhérents présents représentant 16 inscrits
+- Votes "Contre" : 0 / Abstentions : 0
 
-**Résultat du vote** :  
-Geoffrey Petri est reconduit dans ses fonctions à l’unanimité.
+## Vos questions et points divers
 
-## Questions diverses
+### Passeport sportif
 
-- [Sujet 1] : Passeports sportifs
-- [Sujet 2] : Participation aux stages pour les enfants
-- [Sujet 3] : Communication via le journal de Genas _Le MAG_
-- [Sujet 4] : Elargissement du club à d'autres disciplines
-- [Sujet 5] : Présenter un dossier de subvention aéroport sur les stages _Transmission à travers les générations_
+Les passeports ne sont nécessaires que lors des passages nationaux de ceinture (noire) et ne sont distribués qu’aux personnes susceptibles d’y participer après validation d’Ayoub. Ils représentent un cout d’environ 50€/u et sont pris en charge par l’association.
 
----
+### Stage des enfants
+
+Actuellement, seul le stage avec Mike JULIE (21 mars 2026) est entièrement destiné aux enfants. Pour les autres stages d’experts, Ayoub pourra sélectionner quelques gradés pour participer. 
+
+Seuls les adhérents peuvent participer aux stages.
+
+### Communication via Genas Le Mag
+
+Des articles dans le magazine Genas le Mag sont possibles, notamment lors de stages avec des experts nationaux. Dans ce cas, prévenir Mme Liatard quelques temps avant pour que le service communication de la Mairie puisse s’organiser.
+
+### Elargissement de l'association à d'autres disciplines
+
+Les nouveaux statuts permettent l’ajout de nouvelles activités en lien avec les arts martiaux au sein de l’association. Si une opportunité se présente, il conviendra de trouver des créneaux disponibles dans l’une des salles mises à disposition par la Mairie. 
+
+### Subvention Aéroport sur le thème de la transmission entre générations
+
+Mme Liatard indique que l’aéroport St Exupéry met actuellement en place des subventions pour promouvoir la transmission entre les différentes générations. Les modalités seront transmises à l’association pour éventuellement compléter un dossier.
+
+## Prochaine réunion
+
+La prochaine Assemblée Générale est programmée pour le mois d’octobre 2026.
 
 ## Clôture de séance
 
@@ -280,5 +355,9 @@ Le Président remercie les membres présents pour leur participation.
 Fait à Genas, le 6 novembre 2025
 
 Pour l’association,  
+
+**Cyrille Protiere**  
+_Secrétaire_
+
 **Geoffrey PETRI**  
-Président
+_Président_
