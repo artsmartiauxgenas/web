@@ -14,8 +14,13 @@ status: draft
 # Procès-verbal de l’Assemblée Générale Ordinaire
 
 **Arts Martiaux Genas**  
-**Date** : 6 novembre 2025 à 20h30  
-**Lieu** : Salle Le Genêt, Genas
+
+📅 **Date** : 6 novembre 2025 à 20h30  
+📍 **Lieu** : Salle Le Genêt, Genas
+
+::: info
+Version PDF signée et avec feuille de présence sur demande auprès de l'association.
+:::
 
 ## Présents
 
