@@ -4,6 +4,7 @@ description: Liste des billets de blog de la saison 2025-26
 ---
 # Actualités de la saison 2025-26
 
+- [12 décembre · 📝 Parution du procès-verbal de l’Assemblée Générale 2025-26 — Arts Martiaux Genas](/blog/2025-26/2025-12-03-parution-pv-assemblee-generale)
 - [24 septembre · 📢 Assemblée Générale — Arts Martiaux Genas](/blog/2025-26/2025-09-24-assemblee-generale)
 - [21 septembre · 🧾 Calendriers des cours — liens et mode d’emploi](/blog/2025-26/2025-09-21-liens-utiles)
 - [6 septembre · Un beau forum des associations 2025 !](/blog/2025-26/2025-09-06-forum-associations)
