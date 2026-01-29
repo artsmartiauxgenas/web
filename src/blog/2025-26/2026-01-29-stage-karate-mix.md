@@ -21,6 +21,8 @@ Le club **Arts Martiaux Genas** organise un **stage découverte Karaté Mix**, o
 
 ## Qu’est-ce que le Karaté Mix ?
 
+![Stage Karaté Mix](2026-02-28-stage-karate-mix.jpg){align=right width=250px height=100px}
+
 Le **Karaté Mix** est une discipline complète qui combine :
 
 - **Pieds / poings**
