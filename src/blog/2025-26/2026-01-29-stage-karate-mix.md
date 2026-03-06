@@ -9,7 +9,7 @@ authors:
   - name: Equipe AMGenas
 status: published
 ---
-## Stage découverte Karaté Mix – Percussions, transitions et combat
+# Stage découverte Karaté Mix – Percussions, transitions et combat
 `{{ $frontmatter.id }}` 2026-01-29 · {{ $frontmatter.authors[0].name }}
 
 Le club **Arts Martiaux Genas** organise un **stage découverte Karaté Mix**, ouvert à toutes et tous à partir de **15 ans**, pratiquants ou non.
