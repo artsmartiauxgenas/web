@@ -45,4 +45,6 @@ Contactez **Otmani Ayoub** pour toute information :
 
 > ⚠️ Les places sont limitées — renseignez-vous rapidement !
 
-*Événement organisé par Arts Martiaux Genas — 2 rue de la Fraternité, 69740 Genas.*
+---
+
+*Stage organisé par Arts Martiaux Genas, en partenariat avec la Ville de Genas et sous l'égide de la **Fédération Française de Karaté**.*
