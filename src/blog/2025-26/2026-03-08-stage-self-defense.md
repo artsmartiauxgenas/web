@@ -14,7 +14,7 @@ status: published
 
 À l'occasion de la **Journée Internationale des Droits des Femmes**, Arts Martiaux Genas organise un stage de **self-défense** ouvert à toutes et à tous. Une belle façon de marquer cette journée symbolique en acquérant des outils concrets pour se protéger et gagner en confiance !
 
-![Stage Self Défense](/blog/2025-26/2026-03-08-stage-self-defense.jpg){align=right width=250px height=100px}
+![Stage Self Défense](/blog/2025-26/2026-03-08-stage-self-defense.jpg){width=250px height=100px}
 
 ## 📅 Informations pratiques
 

@@ -7,7 +7,7 @@ description: Liste des billets de blog de la saison 2025-26
 - [13-17 avril · Stage Enfants Karaté-Do — Les Vacances au Dojo](/blog/2025-26/2026-04-13-stage-vacances.md)
 - [21 mars · Stage Karaté Do avec Fabrice Boichot et Mike Julie](/blog/2025-26/2026-03-21-stage-karate-do.md)
 - [8 mars · Stage Self-Défense — Journée de la Femme](/blog/2025-26/2026-03-08-stage-self-defense.md)
-- [29 janvier · Stage Karaté Mix — Arts Martiaux Genas](/blog/2025-26/2026-01-29-stage-karate-mix.md)
+- [28 février · Stage Karaté Mix — Arts Martiaux Genas](/blog/2025-26/2026-02-28-stage-karate-mix.md)
 - [12 décembre · 📝 Parution du procès-verbal de l’Assemblée Générale 2025-26 — Arts Martiaux Genas](/blog/2025-26/2025-12-03-parution-pv-assemblee-generale)
 - [24 septembre · 📢 Assemblée Générale — Arts Martiaux Genas](/blog/2025-26/2025-09-24-assemblee-generale)
 - [21 septembre · 🧾 Calendriers des cours — liens et mode d’emploi](/blog/2025-26/2025-09-21-liens-utiles)

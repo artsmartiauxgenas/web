@@ -4,13 +4,27 @@ description: Annonce du stage découverte de Karaté Mix le 28 février 2026
 id: post-9
 tags:
   - post
-date: 2026-01-29
+date: 2026-02-28
 authors:
   - name: Equipe AMGenas
 status: published
 ---
 # Stage découverte Karaté Mix – Percussions, transitions et combat
-`{{ $frontmatter.id }}` 2026-01-29 · {{ $frontmatter.authors[0].name }}
+`{{ $frontmatter.id }}` 2026-02-28 · {{ $frontmatter.authors[0].name }}
+
+![Stage Karaté Mix](/blog/2025-26/2026-02-28-stage-karate-mix-2.jpg)
+
+### Merci à tous — Retour sur le Stage Découverte Karaté Mix !
+
+Merci à tous pour votre présence au Stage Découverte Karaté Mix ! À la Halle des Sports Jacques Vabre, vous avez répondu présent avec engagement et énergie 👊
+
+Débutants venus tester, pratiquants confirmés venus enrichir leur palette... chacun a apporté sa dynamique au groupe. C'est ce mélange qui fait la richesse du Karaté Mix : une pratique moderne, exigeante, mais toujours encadrée et accessible.
+
+Au-delà des techniques, ce que nous retenons surtout, c'est votre implication et votre capacité à sortir de votre zone de confort dans un cadre sécurisé. C'est là que la progression commence vraiment.
+
+Fiers de votre implication. On continue ensemble 🔥
+
+---
 
 Le club **Arts Martiaux Genas** organise un **stage découverte Karaté Mix**, ouvert à toutes et tous à partir de **15 ans**, pratiquants ou non.
 
