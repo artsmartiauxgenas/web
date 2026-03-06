@@ -14,6 +14,8 @@ status: published
 
 **Arts Martiaux Genas** vous invite à un stage exceptionnel dédié à l'étude des fondamentaux du Karaté-Do avec mise en application pratique. Une opportunité unique de progresser sous la direction de deux maîtres de haut niveau !
 
+![Stage Karaté-Do](/blog/2025-26/2026-03-21-stage-karate-do.jpg){align=right width=250px height=100px}
+
 ## 📅 Informations pratiques
 
 - **Date :** Samedi 21 mars 2026
