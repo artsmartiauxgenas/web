@@ -1,7 +1,7 @@
 ---
 title: Stage découverte Karaté Mix — Arts Martiaux Genas
 description: Annonce du stage découverte de Karaté Mix le 28 février 2026
-id: post-10
+id: post-11
 tags:
   - post
 date: 2026-03-21
