@@ -15,7 +15,15 @@ Ce guide vise à assurer la cohérence, la qualité et la régularité de la com
 
 - Utiliser le logo officiel
 - Respecter les couleurs et typographies définies
-- Fichiers disponibles dans `assets/logo/`
+- Ressources
+  - [Logo clair](/img/logo-full-light.svg)
+  - [Logo sombre](/img/logo-full-dark.svg)
+  - [Logo Genas clair](/img/logo-genas-light.svg)
+  - [Logo Genas sombre](/img/logo-genas-dark.svg)
+  - [Logo FFK clair](/img/logo-ffk-light.svg)
+  - [Logo FFK sombre](/img/logo-ffk-dark.svg)
+  - [Logo Crédit Mutuel clair](/img/logo-creditmutuel-light.svg)
+  - [Logo Crédit Mutuel sombre](/img/logo-creditmutuel-dark.svg)
 
 ## 🗣 Ton et style
 
