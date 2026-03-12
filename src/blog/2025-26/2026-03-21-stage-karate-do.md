@@ -52,7 +52,7 @@ Une **possibilité de repas** est proposée après le stage — réservation obl
 Contactez **Ayoub Otmani** pour obtenir plus d'informations :
 📱 **06.41.02.93.86**
 
-> ⚠️ Les places sont limitées, n'attendez pas pour vous inscrire !
+<!-- > ⚠️ Les places sont limitées, n'attendez pas pour vous inscrire ! -->
 
 ---
 
