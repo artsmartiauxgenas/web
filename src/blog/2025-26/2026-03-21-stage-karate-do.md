@@ -47,7 +47,7 @@ Une **possibilité de repas** est proposée après le stage — réservation obl
 
 ## 📞 Inscription et informations
 
-👉 [S'inscrire](https://www.payasso.fr/artsmartiauxgenas/20260321-stage-karate-do)
+<!-- 👉 [S'inscrire](https://www.payasso.fr/artsmartiauxgenas/20260321-stage-karate-do) -->
 
 Contactez **Ayoub Otmani** pour obtenir plus d'informations :
 📱 **06.41.02.93.86**
