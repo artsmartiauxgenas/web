@@ -12,7 +12,7 @@ import {
 
 const members = [
   {
-    avatar: '/club/IMG_0766.jpeg',
+    avatar: '/club/IMG_2035.jpeg',
     name: 'Ayoub Otmani',
     title: 'Entraîneur, 3ème DAN, Directeur technique Karaté',
     links: [
