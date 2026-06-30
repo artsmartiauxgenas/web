@@ -146,6 +146,8 @@ export default defineConfig({
 
     socialLinks: [
       // You can add any icon from simple-icons (https://simpleicons.org/):
+      { icon: 'instagram', link: 'https://www.instagram.com/artsmartiauxgenas' },
+      { icon: 'facebook', link: 'https://www.facebook.com/people/Arts-Martiaux-Genas/61591289501295/' },
       { icon: 'github', link: 'https://github.com/artsmartiauxgenas/web' },
     ],
 
