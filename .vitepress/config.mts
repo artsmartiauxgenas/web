@@ -7,6 +7,7 @@ export default defineConfig({
   lang: 'fr-FR',
   title: "Arts Martiaux Genas",
   description: "Arts Martiaux à Genas",
+  base: '/',
   cleanUrls: true,
   head: [
     ['link', { rel: 'icon', href: '/favicon.ico' }],
