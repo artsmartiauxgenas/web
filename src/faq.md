@@ -1,0 +1,56 @@
+---
+title: Questions fréquentes
+description: Réponses aux questions les plus courantes sur le club Arts Martiaux Genas.
+sidebar: false
+---
+# 💡 Questions fréquentes
+
+## À partir de quel âge peut-on commencer ?
+
+> Nos cours sont accessibles dès 5 ans, selon la discipline. N'hésitez pas à consulter la section [Cours](/horaires) pour les horaires par tranche d’âge.
+
+## Faut-il un certificat médical ?
+
+> Non, un certificat médical n'est pas obligatoire. Il pourra cependant être demandé pour la participation à des compétitions.
+
+## Peut-on faire un cours d’essai ?
+
+> Bien sûr ! Le premier cours est toujours gratuit. Venez en tenue de sport confortable, on s’occupe du reste.
+
+## Quels équipements faut-il pour commencer ?
+
+> Pour débuter, une simple tenue de sport suffit. Ensuite, nous vous indiquerons le matériel recommandé selon la discipline (karate gi, protections, etc.).
+
+## Combien coûtent les cours ?
+
+> Nos tarifs sont indiqués dans le [Règlement intérieur](/docs/legal/reglements/latest). Ils varient selon l’âge et la discipline.
+
+## Puis-je m'inscrire en cours d'année ?
+
+> Oui, c’est possible selon les places disponibles. Le tarif est ajusté tous les trimestres.
+
+## Où ont lieu les cours ?
+
+> Tous nos cours ont lieu au pôle Fraternité. Voir la section [Cours](/horaires) pour les détails.
+
+## L’association propose-t-elle des stages ou événements ?
+
+> Oui, nous organisons régulièrement des stages, passages de grades et démonstrations. Toutes les infos sont communiquées par mail et affichées au Dojo.
+
+## Qui encadre les cours ?
+
+> Des professeurs diplômés, passionnés et expérimentés. Vous pouvez les découvrir sur la page [Notre équipe](/club).
+
+## Que se passe-t-il en cas d’absence ou de blessure ?
+
+> En cas d'absence prolongée, prévenez-nous. Nous pouvons proposer des solutions (remboursement partiel ou report selon les cas).
+
+## L’association est-elle affiliée à une fédération ?
+
+> Oui, nous sommes affiliés à la [Fédération Française de Karaté et Disciplines Associées](https://www.ffkarate.fr/), ce qui garantit un cadre officiel et des passages de grade reconnus.
+
+## Puis-je m’impliquer dans l’association sans être pratiquant ?
+
+> Absolument ! L’association vit grâce à ses bénévoles.  
+> Parents d'enfant licencié, si vous avez un peu de temps, de l'énergie, ou juste des idées, rejoignez-nous !  
+> [Contribuer](/docs/guides/contribuer) et [Rejoindre le CA](/docs/guides/rejoindre-ca)

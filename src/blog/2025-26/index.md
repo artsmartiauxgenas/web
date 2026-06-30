@@ -1,0 +1,19 @@
+---
+title: Posts saison 2025-26
+description: Liste des billets de blog de la saison 2025-26
+---
+# Actualités de la saison 2025-26
+
+- [15 juin · 📝 Cours d'essai et inscriptions](/blog/2025-26/2026-06-15-cours-essai-inscriptions-2026-27.md)
+- [13-17 avril · 🥋 Stage Enfants Karaté-Do — Les Vacances au Dojo](/blog/2025-26/2026-04-13-stage-vacances.md)
+- [21 mars · 🥋 Stage Karaté Do avec Fabrice Boichot et Mike Julie](/blog/2025-26/2026-03-21-stage-karate-do.md)
+- [8 mars · 🥋 Stage Self-Défense — Journée de la Femme](/blog/2025-26/2026-03-08-stage-self-defense.md)
+- [28 février · 🥋 Stage Karaté Mix — Arts Martiaux Genas](/blog/2025-26/2026-02-28-stage-karate-mix.md)
+- [12 décembre · 📝 Parution du procès-verbal de l’Assemblée Générale 2025-26 — Arts Martiaux Genas](/blog/2025-26/2025-12-03-parution-pv-assemblee-generale)
+- [24 septembre · 📢 Assemblée Générale — Arts Martiaux Genas](/blog/2025-26/2025-09-24-assemblee-generale)
+- [21 septembre · 🧾 Calendriers des cours — liens et mode d’emploi](/blog/2025-26/2025-09-21-liens-utiles)
+- [6 septembre · 📝 Un beau forum des associations 2025 !](/blog/2025-26/2025-09-06-forum-associations)
+- [16 août · 📝 Rentrée 2025 — Arts Martiaux Genas vous attend !](/blog/2025-26/2025-08-16-saison-2025)
+- [19 juillet · 📝 Les inscriptions sont ouvertes pour la nouvelle saison !](/blog/2025-26/2025-07-19-ouverture-inscriptions)
+- [12 juillet · 📝 Bal des pompiers et feu d'artifice 2025](/blog/2025-26/2025-07-12-bal-pompiers)
+- [10 juillet · 📢 Nouveau nom, nouveau site — même esprit](/blog/2025-26/2025-07-10-nouveau-nom)

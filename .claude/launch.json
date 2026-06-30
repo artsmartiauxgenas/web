@@ -1,0 +1,17 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "VitePress Dev",
+      "runtimeExecutable": "npm",
+      "runtimeArgs": ["run", "docs:dev"],
+      "port": 5173
+    },
+    {
+      "name": "VitePress Preview",
+      "runtimeExecutable": "npm",
+      "runtimeArgs": ["run", "docs:preview"],
+      "port": 4173
+    }
+  ]
+}
