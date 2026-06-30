@@ -65,14 +65,6 @@ Nous accueillons les **enfants dès 5 ans**, les **adultes débutants ou confirm
 
 👉 [Voir le planning complet](/horaires)
 
-<script setup>
-import TigerMascot from '../.vitepress/theme/components/TigerMascot.vue'
-</script>
-
-## 🐯 Crée ta mascotte
-
-<TigerMascot />
-
 ## 📰 Derniers articles
 
 - [Stage vacances avril — Karaté-Do](/blog/2025-26/2026-04-13-stage-vacances)
