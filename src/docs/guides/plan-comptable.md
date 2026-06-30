@@ -44,6 +44,7 @@ Il suit les grandes lignes du **Plan Comptable Général (PCG 2025)** et du **Pl
 | 6218   | Rémunérations exceptionnelles de membres    | Pour stage ou encadrement ponctuel          |
 | 6226   | Rémunérations d’intervenants extérieurs        | Professeurs via leur structure               |
 | 6234   | Cadeaux ou objets publicitaires                | Objets floqués, distribués gratuitement            |
+| 6236   | Catalogues et imprimés                         | Flyers, affiches, impressions, plaquettes    |
 | 6251   | Déplacements                                    | Transport, indemnité km                      |
 | 6256   | Missions                                        | Repas, hébergement                           |
 | 6257   | Réceptions                                      | Goûters, fêtes de fin d’année                |
@@ -56,8 +57,8 @@ Il suit les grandes lignes du **Plan Comptable Général (PCG 2025)** et du **Pl
 | Code  | Intitulé                                 | Usage dans l’association                     |
 |--------|------------------------------------------|-----------------------------------------------|
 | 706   | Prestations de services                  | Stages ouverts au public, cours ponctuels    |
+| 740   | Subventions d’exploitation               | Pass’Sport, mairie, CDOS...                  |
 | 756   | Cotisations des adhérents                | Inscriptions annuelles                       |
-| 757   | Subventions d’exploitation               | Pass’Sport, mairie, CDOS...                  |
 | 758   | Autres produits de gestion courante      | Dons, participations repas, divers           |
 
 ## 📘 Contributions bénévoles et en nature (classe 8)
