@@ -44,8 +44,6 @@ Il suit les grandes lignes du **Plan Comptable Général (PCG 2025)** et du **Pl
 | 486  | Charges constatées d'avance    | Actif   | Charge payée pendant la saison en cours mais concernant la saison suivante (ex. cotisation fédérale ou assurance prépayée)     |
 | 487  | Produits constatés d'avance    | Passif  | Produit encaissé pendant la saison en cours mais concernant la saison suivante (ex. inscriptions réglées en juin pour N+1)     |
 
-
-
 ## 🧾 Comptes de charges (classe 6)
 
 | Code   | Intitulé                                       | Usage dans l’association                    |
