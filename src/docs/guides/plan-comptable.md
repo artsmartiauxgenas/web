@@ -33,7 +33,8 @@ Il suit les grandes lignes du **Plan Comptable Général (PCG 2025)** et du **Pl
 | Code  | Intitulé                  | Usage dans l’association           |
 |-------|---------------------------|------------------------------------|
 | 120   | Résultat de l’exercice    | Excédent ou déficit annuel         |
-| 512   | Banque                    | Compte bancaire principal          |
+| 5121  | Banque — compte courant   | Compte courant principal (encaissements et paiements) |
+| 5122  | Banque — livret (Livret Bleu) | Compte d’épargne rémunéré, intérêts suivis en 768 |
 
 ## 🗂️ Comptes de tiers et de régularisation (classe 4)
 
