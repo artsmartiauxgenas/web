@@ -30,10 +30,21 @@ Il suit les grandes lignes du **Plan Comptable Général (PCG 2025)** et du **Pl
 
 ## 🔢 Comptes de bilan (classe 1)
 
-| Code  | Intitulé                  | Remarques                          |
+| Code  | Intitulé                  | Usage dans l’association           |
 |-------|---------------------------|------------------------------------|
 | 120   | Résultat de l’exercice    | Excédent ou déficit annuel         |
 | 512   | Banque                    | Compte bancaire principal          |
+
+## 🗂️ Comptes de tiers et de régularisation (classe 4)
+
+| Code | Intitulé                     | Sens    | Usage dans l'association                                                                              |
+| ---- | ----------------------------- | ------- | -------------------------------------------------------------------------------------------------------|
+| 4686 | Charges à payer                | Passif  | Charge de la saison précédente, réglée au début de la saison en cours (ex. rémunération d'intervenant de juin rattachée à N-1) |
+| 4687 | Produits à recevoir             | Actif   | Produit de la saison précédente, encaissé au début de la saison en cours (ex. remboursement/soutien reçu après la clôture)     |
+| 486  | Charges constatées d'avance    | Actif   | Charge payée pendant la saison en cours mais concernant la saison suivante (ex. cotisation fédérale ou assurance prépayée)     |
+| 487  | Produits constatés d'avance    | Passif  | Produit encaissé pendant la saison en cours mais concernant la saison suivante (ex. inscriptions réglées en juin pour N+1)     |
+
+
 
 ## 🧾 Comptes de charges (classe 6)
 
@@ -42,7 +53,8 @@ Il suit les grandes lignes du **Plan Comptable Général (PCG 2025)** et du **Pl
 | 6063   | Fournitures d’entretien et petit équipement    | Ceintures, protections, matériel léger       |
 | 616    | Primes d’assurances                            | MACIF                                        |
 | 6218   | Rémunérations exceptionnelles de membres    | Pour stage ou encadrement ponctuel          |
-| 6226   | Rémunérations d’intervenants extérieurs        | Professeurs via leur structure               |
+| 62261  | Rémunérations d’intervenants extérieurs        | Professeurs via leur structure               |
+| 62262  | Rémunérations d’intervenants extérieurs (stages) | Professeurs via leur structure               |
 | 6234   | Cadeaux ou objets publicitaires                | Objets floqués, distribués gratuitement            |
 | 6236   | Catalogues et imprimés                         | Flyers, affiches, impressions, plaquettes    |
 | 6251   | Déplacements                                    | Transport, indemnité km                      |
@@ -55,7 +67,7 @@ Il suit les grandes lignes du **Plan Comptable Général (PCG 2025)** et du **Pl
 ## 📥 Comptes de produits (classe 7)
 
 | Code  | Intitulé                                 | Usage dans l’association                     |
-|--------|------------------------------------------|-----------------------------------------------|
+|-------|------------------------------------------|-----------------------------------------------|
 | 706   | Prestations de services                  | Stages ouverts au public, cours ponctuels    |
 | 740   | Subventions d’exploitation               | Pass’Sport, mairie, CDOS...                  |
 | 756   | Cotisations des adhérents                | Inscriptions annuelles                       |
@@ -66,8 +78,8 @@ Il suit les grandes lignes du **Plan Comptable Général (PCG 2025)** et du **Pl
 
 Ces comptes n’ont aucun impact sur la trésorerie ni le résultat. Ils servent à valoriser les apports non monétaires :
 
-| Code | Intitulé                                               | Exemple d’usage                                  |
-|------|--------------------------------------------------------|--------------------------------------------------|
+| Code | Intitulé                                               | Usage dans l’association                        |
+|------|--------------------------------------------------------|-------------------------------------------------|
 | 870  | Bénévolat valorisé (charge fictive)                    | Heures de cours, aide aux événements            |
 | 871  | Mise à disposition gratuite de locaux (charge fictive) | Dojo mis à disposition gratuitement             |
 | 875  | Contrepartie du bénévolat (produit fictif)             | Valorisation du service rendu                   |
