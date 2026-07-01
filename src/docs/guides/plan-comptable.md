@@ -50,6 +50,7 @@ Il suit les grandes lignes du **Plan Comptable Général (PCG 2025)** et du **Pl
 |--------|------------------------------------------------|----------------------------------------------|
 | 6063   | Fournitures d’entretien et petit équipement    | Ceintures, protections, matériel léger       |
 | 616    | Primes d’assurances                            | MACIF                                        |
+| 6181   | Formations enseignants bénévoles               | Perfectionnements, stages, certifications   |
 | 6218   | Rémunérations exceptionnelles de membres    | Pour stage ou encadrement ponctuel          |
 | 62261  | Rémunérations d’intervenants extérieurs        | Professeurs via leur structure               |
 | 62262  | Rémunérations d’intervenants extérieurs (stages) | Professeurs via leur structure               |
