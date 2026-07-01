@@ -16,7 +16,7 @@ Les inscriptions au club **Arts Martiaux Genas** pour la saison 2026-27 sont **o
 
 Les inscriptions se font **en ligne** via notre partenaire :
 
-👉 [Accéder au formulaire d’inscription](https://www.payasso.fr/artsmartiauxgenas/inscriptions-2026-27) <Badge type="warning" text="ouverture 1er juillet" />
+👉 [Accéder au formulaire d’inscription](https://www.monetico-online-asso.com/artsmartiauxgenas/2026-27-inscriptions)
 
 ## 💰 Tarifs
 
