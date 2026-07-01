@@ -28,12 +28,11 @@ const option = () => ({
     trigger: 'item',
     formatter: (p) => `${p.name}<br/><b>${euro(p.value)}</b> (${p.percent}%)`,
   },
-  legend: { bottom: 0, type: 'scroll' },
+  legend: { bottom: 0 },
   series: [
     {
       type: 'pie',
-      radius: ['45%', '70%'],
-      center: ['50%', '46%'],
+      radius: ['30%', '60%'],
       avoidLabelOverlap: true,
       itemStyle: { borderColor: 'transparent', borderWidth: 2 },
       label: { formatter: '{d}%', fontSize: 11 },
