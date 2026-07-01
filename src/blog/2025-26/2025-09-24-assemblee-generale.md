@@ -1,7 +1,6 @@
 ---
 title: Assemblée Générale — Arts Martiaux Genas
 description: Annonce de l'Assemblée Générale Ordinaire 2025 de l'association Arts Martiaux Genas
-id: post-7
 tags:
   - post
   - assemblee
@@ -11,7 +10,7 @@ authors:
 status: published
 ---
 # 📢 Assemblée Générale — Arts Martiaux Genas
-`{{ $frontmatter.id }}` 2025-09-24 · {{ $frontmatter.authors[0].name }}
+2025-09-24 · {{ $frontmatter.authors[0].name }}
 
 Nous avons le plaisir de convier l’ensemble de nos adhérents à :
 

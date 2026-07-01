@@ -2,7 +2,6 @@
 title: "Cours d'essai et inscriptions saison 2026-27 — Arts Martiaux Genas"
 description: Annonce des cours d'essai et des inscriptions
 slug: 2026-06-15-cours-essai-inscriptions-2026-27
-id: post-13
 tags:
   - post
 date: 2026-06-15
@@ -11,7 +10,7 @@ authors:
 status: published
 ---
 # Venez essayer — la rentrée commence maintenant !
-`{{ $frontmatter.id }}` 2026-06-15 · {{ $frontmatter.authors[0].name }}
+2026-06-15 · {{ $frontmatter.authors[0].name }}
 
 *Vous hésitez encore ?* Bonne nouvelle : on vous donne deux occasions de franchir le pas avant de vous engager.
 

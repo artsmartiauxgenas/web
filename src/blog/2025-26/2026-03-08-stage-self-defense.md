@@ -1,7 +1,6 @@
 ---
 title: Stage Self-Défense — Journée de la Femme
 description: Annonce du stage Self-Défense — Journée de la Femme
-id: post-10
 tags:
   - post
 date: 2026-03-08
@@ -10,7 +9,7 @@ authors:
 status: published
 ---
 # Stage Self-Défense — Journée de la Femme
-`{{ $frontmatter.id }}` 2026-03-08 · {{ $frontmatter.authors[0].name }}
+2026-03-08 · {{ $frontmatter.authors[0].name }}
 
 À l'occasion de la **Journée Internationale des Droits des Femmes**, Arts Martiaux Genas organise un stage de **self-défense** ouvert à toutes et à tous. Une belle façon de marquer cette journée symbolique en acquérant des outils concrets pour se protéger et gagner en confiance !
 

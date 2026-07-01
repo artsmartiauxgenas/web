@@ -1,7 +1,6 @@
 ---
 title: Stage vacances avril — Arts Martiaux Genas
 description: Annonce du stage vacances scolaires du 13 au 17 avril 2026
-id: post-12
 tags:
   - post
 date: 2026-04-13
@@ -10,7 +9,7 @@ authors:
 status: published
 ---
 # Stage Enfants Karaté-Do — Les Vacances au Dojo
-`{{ $frontmatter.id }}` 2026-04-13 · {{ $frontmatter.authors[0].name }}
+2026-04-13 · {{ $frontmatter.authors[0].name }}
 
 Les vacances de printemps approchent et Arts Martiaux Genas propose une semaine complète de **stage Karaté-Do pour les enfants** ! Une belle occasion de progresser, de s'amuser et de vivre le dojo autrement pendant les congés scolaires.
 

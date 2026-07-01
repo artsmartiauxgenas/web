@@ -67,9 +67,9 @@ Nous accueillons les **enfants dès 5 ans**, les **adultes débutants ou confirm
 
 ## 📰 Derniers articles
 
+- [Ouverture des inscriptions — Saison 2026-27](/blog/2026-27/2026-07-01-ouverture-inscriptions)
+- [Cours d'essai et inscriptions saison 2026-27](/blog/2025-26/2026-06-15-cours-essai-inscriptions-2026-27)
 - [Stage vacances avril — Karaté-Do](/blog/2025-26/2026-04-13-stage-vacances)
 - [Stage Karaté-Do — Étude des Fondamentaux](/blog/2025-26/2026-03-21-stage-karate-do)
-- [Stage Self-Défense — Journée de la Femme](/blog/2025-26/2026-03-08-stage-self-defense)
-- [Stage découverte Karaté Mix](/blog/2025-26/2026-02-28-stage-karate-mix)
 
 👉 [Voir tous les articles](/blog/)

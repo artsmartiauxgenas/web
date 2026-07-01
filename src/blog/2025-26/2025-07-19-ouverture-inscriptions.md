@@ -1,7 +1,6 @@
 ---
 title: Les inscriptions sont ouvertes pour la nouvelle saison !
 description: Ouverture des inscriptions pour la saison 2025-26
-id: post-3
 tags:
   - post
   - inscriptions
@@ -11,7 +10,7 @@ authors:
 status: published
 ---
 # Les inscriptions sont ouvertes pour la nouvelle saison !
-`{{ $frontmatter.id }}` 2025-07-12 · {{ $frontmatter.authors[0].name }}
+2025-07-12 · {{ $frontmatter.authors[0].name }}
 
 📅 **Saison 2025–26**  
 🥋 **Arts Martiaux Genas**

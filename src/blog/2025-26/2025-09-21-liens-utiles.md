@@ -1,7 +1,6 @@
 ---
 title: Calendriers des cours — liens et mode d’emploi
 description: Retrouvez ici tous les liens vers nos calendriers (version web et abonnements .ics) et apprenez à les ajouter à votre agenda
-id: post-6
 tags:
   - post
   - calendrier
@@ -12,7 +11,7 @@ authors:
 status: published
 ---
 # Calendriers des cours — liens et mode d’emploi
-`{{ $frontmatter.id }}` 2025-09-21 · {{ $frontmatter.authors[0].name }}
+2025-09-21 · {{ $frontmatter.authors[0].name }}
 
 Vous pouvez consulter nos horaires de cours en ligne (HTML) ou vous abonner à un calendrier .ics pour voir automatiquement les mises à jour dans votre agenda.
 

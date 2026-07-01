@@ -108,7 +108,9 @@ export default defineConfig({
         {
           text: '2026-27',
           collapsed: false,
-          items: []
+          items: [
+            { text: 'Ouverture des inscriptions', link: '/blog/2026-27/2026-07-01-ouverture-inscriptions' },
+          ]
         },
         {
           text: '2025-26',

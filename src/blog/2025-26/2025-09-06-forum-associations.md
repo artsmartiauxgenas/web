@@ -1,7 +1,6 @@
 ---
 title: Un beau forum des associations 2025 !
 description: Forum des associations 2025
-id: post-5
 tags:
   - post
   - forum
@@ -11,7 +10,7 @@ authors:
 status: published
 ---
 # Un beau forum des associations 2025 !
-`{{ $frontmatter.id }}` 2025-09-06 · {{ $frontmatter.authors[0].name }}
+2025-09-06 · {{ $frontmatter.authors[0].name }}
 
 Ce samedi matin, nous étions présents au **Forum des Associations de Genas** pour présenter nos disciplines et échanger avec les visiteurs.  
 

@@ -1,7 +1,6 @@
 ---
 title: Stage Karaté-Do — Étude des Fondamentaux avec Application
 description:
-id: post-11
 tags:
   - post
 date: 2026-03-21
@@ -10,7 +9,7 @@ authors:
 status: published
 ---
 # Stage Karaté-Do : Étude des Fondamentaux avec Application
-`{{ $frontmatter.id }}` 2026-03-21 · {{ $frontmatter.authors[0].name }}
+2026-03-21 · {{ $frontmatter.authors[0].name }}
 
 **Arts Martiaux Genas** vous invite à un stage exceptionnel dédié à l'étude des fondamentaux du Karaté-Do avec mise en application pratique. Une opportunité unique de progresser sous la direction de deux maîtres de haut niveau !
 

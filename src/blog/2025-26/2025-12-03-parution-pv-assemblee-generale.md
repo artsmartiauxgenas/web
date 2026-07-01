@@ -1,7 +1,6 @@
 ---
 title: Parution du procès-verbal de l’Assemblée Générale 2025-26 — Arts Martiaux Genas
 description: Parution du PV de l'Assemblée Générale Ordinaire 2025 de l'association Arts Martiaux Genas
-id: post-8
 tags:
   - post
   - assemblee
@@ -11,7 +10,7 @@ authors:
 status: published
 ---
 # 📝 Parution du procès-verbal de l’Assemblée Générale 2025-26 — Arts Martiaux Genas
-`{{ $frontmatter.id }}` 2025-12-03 · {{ $frontmatter.authors[0].name }}
+2025-12-03 · {{ $frontmatter.authors[0].name }}
 
 L’Assemblée Générale de la saison 2025-26 s’est tenue récemment, réunissant les membres du club autour d’un moment essentiel de notre vie associative : faire le point, partager, débattre, décider ensemble.
 
