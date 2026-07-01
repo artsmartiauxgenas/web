@@ -5,11 +5,11 @@ Retrouvez ici nos actualités, événements, et moments de vie du club.
 
 ## 📅 Derniers articles
 
-<!--@include: 2025-26/index.md{7,}-->
+<!--@include: 2026-27/index.md{7,}-->
 
 ## 📚 Archives
 
-- [Tous les articles de 2024–25]()
+- [Tous les articles de 2025–26](2025-26)
 
 ::: info
 - 🎆 Evénements
