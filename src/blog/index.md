@@ -9,7 +9,7 @@ Retrouvez ici nos actualités, événements, et moments de vie du club.
 
 ## 📚 Archives
 
-- [Tous les articles de 2025–26](2025-26)
+- [Tous les articles de 2025–26](/blog/2025-26/)
 
 ::: info
 - 🎆 Evénements
