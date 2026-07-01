@@ -5,7 +5,7 @@ date: 2025-04-17
 outline: deep
 ---
 # Statuts de l'association Arts Martiaux Genas
-**Arts Martiaux Genas** · Saison 2025–26
+**Arts Martiaux Genas**
 
 > [!INFO]
 > Ces statuts sont en vigueur à partir de la saison 2025-26.

@@ -14,7 +14,7 @@ status: published
 
 C'est le grand jour : **les inscriptions pour la saison 2026-27 sont officiellement ouvertes** ! Que vous soyez déjà adhérent cette saison ou que vous découvriez le club pour la première fois, c'est le moment de prendre votre place sur le tatami.
 
-👉 **[S'inscrire pour la saison 2026-27](#)**
+👉 **[S'inscrire pour la saison 2026-27](https://www.monetico-online-asso.com/artsmartiauxgenas/2026-27-inscriptions)**
 
 ## 👋 Adhérents de la saison 2025-26, on compte sur vous !
 
@@ -63,7 +63,7 @@ La saison 2026-27 s'annonce riche en événements :
 
 Rendez-vous sur la page dédiée pour découvrir les tarifs, les documents à fournir et les modalités d'inscription :
 
-👉 **[S'inscrire pour la saison 2026-27](#)**
+👉 **[S'inscrire pour la saison 2026-27](https://www.monetico-online-asso.com/artsmartiauxgenas/2026-27-inscriptions)**
 
 Une question ? L'équipe du club est là pour vous accompagner.
 
