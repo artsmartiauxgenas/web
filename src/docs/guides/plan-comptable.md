@@ -60,6 +60,7 @@ Il suit les grandes lignes du **Plan Comptable Général (PCG 2025)** et du **Pl
 | 740   | Subventions d’exploitation               | Pass’Sport, mairie, CDOS...                  |
 | 756   | Cotisations des adhérents                | Inscriptions annuelles                       |
 | 758   | Autres produits de gestion courante      | Dons, participations repas, divers           |
+| 768   | Autres produits financiers               | Intérêts du compte courant ou du livret associatif |
 
 ## 📘 Contributions bénévoles et en nature (classe 8)
 
@@ -88,6 +89,9 @@ Enregistrement du paiement des cotisations fédérales :
 
 Evénement de club ou de CA (goûter, repas) :
 - `6257` Réceptions
+
+La banque verse des intérêts sur le livret associatif :
+- `768` Autres produits financiers
 
 Un professeur donne 30h de cours bénévoles (valeur estimée à 25 €/h) :  
 - `870` Bénévolat valorisé : 750 €  
