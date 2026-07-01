@@ -32,8 +32,6 @@ Le montant de la cotisation annuelle est fixé chaque année par le Conseil d'ad
 
 La cotisation permet de couvrir les frais de fonctionnement de l’association, y compris les indemnités aux entraîneurs, les assurances, le matériel nécessaire à la pratique du sport proposé, ainsi que l’accès aux installations mises à disposition.
 
-La cotisation donne accès à toutes les sections proposées par l'association.
-
 Toute cotisation versée est définitive.
 
 **Cotisations pour la saison 2026-27** (période 7 septembre 2026 – 20 juin 2027)
@@ -77,7 +75,17 @@ En cas de départ anticipé, l’enfant doit impérativement être accompagné d
 
 En cas d’urgence médicale, les responsables légaux seront immédiatement contactés. Si la situation l’exige, l’enfant sera pris en charge par les services d’urgence.
 
-## Article 7 – Utilisation des locaux
+## Article 7 – Droit à l'image
+
+L'adhésion implique la connaissance et l'acceptation de la politique du club en matière de droit à l'image, notamment concernant les mineurs.
+
+Toute prise de vue et publication d'un mineur nécessite l'autorisation préalable de son représentant légal, recueillie à l'inscription. En l'absence d'autorisation, aucune image de l'enfant ne peut être publiée.
+
+Pour les adultes, la participation aux événements ouverts au public vaut consentement implicite aux prises de vue d'ensemble ; tout retrait peut être demandé à tout moment.
+
+Le détail de cette politique (supports autorisés, durée de conservation, droit de retrait) est précisé dans le [guide « Droits à l'image »](/docs/guides/droits-image).
+
+## Article 8 – Utilisation des locaux
 
 Les locaux mis à disposition par la mairie sont exclusivement réservés à la pratique des activités de l’association. Leur utilisation à d’autres fins est interdite.
 
@@ -85,7 +93,7 @@ Les horaires d’accès aux locaux sont fixés par le Conseil d’administration
 
 Il est interdit de fumer, vapoter, manger ou boire dans les salles de pratique, sauf dans les espaces prévus à cet effet. Les adhérents sont invités à veiller à la sécurité et à l’ordre dans les locaux.
 
-## Article 8 – Composition des instances dirigeantes
+## Article 9 – Composition des instances dirigeantes
 
 - Président : Geoffrey Petri (2022-2028)
 - Secrétaire : Cyrille Protière (2025-2028)
@@ -96,25 +104,25 @@ Il est interdit de fumer, vapoter, manger ou boire dans les salles de pratique, 
 - Bernardo Dupont : CN 4ème DAN FFK, Référent AITO Rhône-Alpes FFK
 - Ayoub Otmani : CN 3ème DAN FFK, Directeur technique Karaté
 
-## Article 9 – Sanctions disciplinaires
+## Article 10 – Sanctions disciplinaires
 
 Tout manquement aux règles définies dans le présent règlement pourra entraîner des sanctions décidées par le Conseil d’administration. Les sanctions peuvent aller de l’avertissement à l’exclusion temporaire ou définitive de l’association, en fonction de la gravité des faits.
 
 Les membres concernés par une procédure disciplinaire auront le droit d’être entendus avant toute décision.
 
-## Article 10 – Différences entre bénévoles et prestataires externes
+## Article 11 – Différences entre bénévoles et prestataires externes
 
 Les bénévoles de l'Association ne reçoivent pas de rémunération pour les services rendus, sauf dans les cas exceptionnels, comme l'organisation de stages ou d'événements. Ils peuvent se voir rembourser les frais réels engagés dans le cadre de leurs missions, sous réserve de présentation de justificatifs et selon le barème fiscal applicable.
 
 Les prestataires externes (formateurs, intervenants, etc.) sont rémunérés selon un contrat de prestation. Les conditions de rémunération et les frais (kilométriques, hébergement, repas, etc.) sont spécifiés dans ce contrat.
 
-## Article 11 – Assurance
+## Article 12 – Assurances
 
 L’association souscrit une assurance responsabilité civile couvrant ses membres pendant les séances d’entraînement, ainsi que lors des compétitions et événements organisés par l’association (Assurance MACIF – Numéro de sociétaire 6293108).
 
 Les adhérents sont invités à souscrire une assurance personnelle complémentaire pour couvrir les risques médicaux non pris en charge par l’assurance de l’association.
 
-## Article 12 – Modification du règlement intérieur
+## Article 13 – Modification du règlement intérieur
 
 Le présent règlement intérieur est revu chaque année par le Conseil d'administration et peut être modifié par décision de ce dernier.
 
