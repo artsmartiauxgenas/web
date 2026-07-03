@@ -27,7 +27,7 @@ Découvrez nos cours adaptés à tous les âges et tous les niveaux : du Karaté
 
 > [!IMPORTANT] ✍️ <a href="/inscription">S'inscrire</a>
 
-[Accéder au planning](/docs/saisons/2026-27/horaires.html){target="_self"} — [version PNG](/docs/saisons/2026-27/horaires.png)
+[Accéder au planning](/docs/saisons/2026-27/horaires.html){target="_self"} — [version PDF](/docs/saisons/2026-27/horaires.pdf)
 
 ## 🔎 Légende
 
@@ -103,7 +103,7 @@ _¹ Accès à la discrétion du directeur technique._
 | Dates | Lieu | Motif |
 |-------|------|-------|
 | vendredi 25 septembre 2026 | — | Assemblée Générale 2026 |
-| vendredi 11 décembre 2026 | — | Événement de Noël |
+| vendredi 18 décembre 2026 | — | Événement de Noël |
 | — | — | — |
 
 > Pas de cours pendant les vacances scolaires, sauf indication contraire.  
