@@ -16,7 +16,7 @@ decriptions: Liste des saisons sportives de l'association
 - [2019-20](2019-20)
 - 2018-19
 - [2017-18](2017-18)
-- 2016-17
+- [2016-17](2016-17)
 - 2015-16
 - 2014-15
 - 2013-14
@@ -26,7 +26,7 @@ decriptions: Liste des saisons sportives de l'association
 - 2009-10
 - 2008-09
 - 2007-08
-- 2006-07
+- [2006-07](2006-07)
 - 2005-06
 - 2004-05
 - 2003-04
