@@ -28,7 +28,7 @@ Ce guide applique les règles fixées par les [statuts](/docs/legal/statuts/late
 - Renouvellement ou élection des membres du Conseil d'administration
 - Questions diverses
 
-_Exemple réel : voir le [PV de l'AG du 6 novembre 2025](/docs/legal/assemblees/2025-11-06-pv-assemblee-generale)._
+_Exemple réel : voir le [PV de l'AG du 6 novembre 2025](/docs/legal/assemblees/2025-11-06-pv-ag)._
 
 ## 🏛 AG ordinaire vs AG extraordinaire
 
