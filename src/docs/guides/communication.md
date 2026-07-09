@@ -9,7 +9,7 @@ tags:
 
 # 📣 Guide de communication associative
 
-Ce guide vise à assurer la cohérence, la qualité et la régularité de la communication du club.
+Ce guide assure la cohérence, la qualité et la régularité de la communication du club.
 
 ## 🎨 Charte graphique
 
@@ -27,17 +27,27 @@ Ce guide vise à assurer la cohérence, la qualité et la régularité de la com
 
 ## 🗣 Ton et style
 
-- Clair, bienveillant, enthousiaste
-- Pas de jargon technique sans explication
+Le site distingue deux publics, avec un ton différent pour chacun :
+
+- **Visiteurs / familles** (accueil, disciplines, horaires, inscription) : phrases courtes, langage naturel, sans jargon, ton chaleureux
+- **Membres / CA** (guides, documents légaux) : ton neutre et factuel, listes et tableaux plutôt que longs paragraphes
 
 ## 📰 Supports
 
-- Site internet (actualités, agenda, infos pratiques)
-- Réseaux sociaux (Facebook, Instagram)
-- Affiches et flyers (pour événements)
+- **Site internet** [artsmartiauxgenas.fr](https://artsmartiauxgenas.fr) — actualités (blog), agenda, infos pratiques
+- **Instagram** : [@artsmartiauxgenas](https://www.instagram.com/artsmartiauxgenas)
+- **Facebook** : [page du club](https://www.facebook.com/people/Arts-Martiaux-Genas/61591289501295/)
+- Affiches et flyers pour les événements (stages, forum des associations)
+
+## ✍️ Publier un article de blog
+
+1. Créer l'article dans `src/blog/<saison>/AAAA-MM-JJ-slug.md`
+2. L'ajouter à la sidebar blog et à l'index de la saison
+3. Si c'est l'un des 4 articles les plus récents, le remonter en page d'accueil
+
+Voir un exemple récent : [ouverture des inscriptions 2026-27](/blog/2026-27/2026-07-01-ouverture-inscriptions).
 
 ## 📆 Fréquence recommandée
 
 - 1 à 2 publications/mois hors événements
-- Email mensuel récapitulatif aux adhérents
-
+- Une annonce à chaque temps fort de la saison (forum, stage, AG, Noël — voir le [journal de la saison](/docs/saisons/2026-27))

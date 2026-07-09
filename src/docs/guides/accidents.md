@@ -18,7 +18,7 @@ En cas d'accident survenu lors d'un cours, d'un stage ou d'un événement organi
 
 ## 2. Prévenir les parents si la victime est mineure
 
-Contacter immédiatement les responsables légaux. Les coordonnées sont disponibles dans le formulaire d'inscription Payasso.
+Contacter immédiatement les responsables légaux. Les coordonnées sont disponibles dans le formulaire d'inscription Monetico Online Asso.
 
 ## 3. Rédiger un rapport d'incident
 

@@ -19,7 +19,6 @@ Ressources pratiques pour les bénévoles et membres du CA. Chaque guide couvre 
 
 - [Organisation d'un événement](/docs/guides/event)
 - [Communication](/docs/guides/communication)
-- [Licences](/docs/guides/licences)
 - [RGPD](/docs/guides/rgpd)
 
 ## Finances
@@ -56,7 +55,7 @@ Ressources pratiques pour les bénévoles et membres du CA. Chaque guide couvre 
 - [ ] Reconduire ou renégocier les contrats des professeurs
 - [ ] Rédiger ou réviser le [règlement intérieur](/docs/legal/reglements/latest)
 - [ ] Préparer le [budget prévisionnel](/docs/guides/conseils-tresorier) ([plan comptable](/docs/guides/plan-comptable))
-- [ ] Créer le formulaire d'inscriptions sur Payasso
+- [ ] Créer le formulaire d'inscriptions sur Monetico Online Asso
 - [ ] Mettre à jour le site : [fiche saison](/docs/saisons/latest), [horaires](/docs/horaires), [page inscription](/docs/inscription)
 
 ### Juillet–août
@@ -72,5 +71,5 @@ Ressources pratiques pour les bénévoles et membres du CA. Chaque guide couvre 
 - [ ] Convoquer et tenir l'[Assemblée Générale](/docs/guides/ag) ([template convocation](/docs/guides/templates/convocation), [template PV](/docs/guides/templates/pv-ag))
 - [ ] Adopter le règlement intérieur et le budget en AG
 - [ ] Mettre à jour les [mandats](/docs/legal/mandats) et la [fiche saison](/docs/saisons/latest) après l'AG
-- [ ] Lancer la campagne de [licences FFKaraté](/docs/guides/licences)
+- [ ] Lancer la campagne de [licences FFKaraté](/docs/guides/conseils-tresorier#licences-f%C3%A9d%C3%A9rales)
 

@@ -15,7 +15,7 @@ Toute personne — adulte ou mineur — dispose d'un droit exclusif sur son imag
 
 L'autorisation des deux parents (ou du représentant légal) est obligatoire avant toute prise de vue et toute publication impliquant un enfant ou adolescent de moins de 18 ans.
 
-Cette autorisation est recueillie à l'inscription via le formulaire Payasso. Elle précise :
+Cette autorisation est recueillie à l'inscription via le formulaire Monetico Online Asso. Elle précise :
 
 - Les supports autorisés (site web, réseaux sociaux du club, presse locale)
 - La durée (saison en cours, renouvelable)

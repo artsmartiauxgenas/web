@@ -9,7 +9,7 @@ Bienvenue au club ! Ce guide rassemble tout ce qu'il faut savoir pour pratiquer 
 
 ## S'inscrire
 
-Les inscriptions se font en ligne via [Payasso](https://www.payasso.fr/artsmartiauxgenas). Le dossier comprend :
+Les inscriptions se font en ligne via [Monetico Online Asso](https://www.monetico-online-asso.com/artsmartiauxgenas). Le dossier comprend :
 
 - Le formulaire d'inscription complété
 - Le règlement de la cotisation annuelle

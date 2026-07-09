@@ -48,30 +48,30 @@ Les cours sont organisés par niveaux :
 ### 👶 Enfants 5–7 ans {#karate-5-7}
 
 | Jour | Heure | Lieu | Niveau |
-|------|-------|------|--------|
-| Mercredi | 17h30–18h30 | Dojo | Tous niveaux |
-| Vendredi | 17h30–18h30 | Salle 4 | Confirmés |
-| Samedi | 10h–11h | Dojo | Débutants |
+|------|-------|:----:|-------:|
+| Mercredi | 17h30–18h30 | Dojo | <Badge type="tip">Tous niveaux</Badge> |
+| Vendredi | 17h30–18h30 | Salle 4 | <Badge type="danger">Confirmés</Badge> |
+| Samedi | 10h–11h | Dojo | <Badge type="warning">Débutants</Badge> |
 
 ### 🧒 Enfants 8–13 ans {#karate-8-13}
 
 | Jour | Heure | Lieu | Niveau |
-|------|-------|------|--------|
-| Lundi | 18h–19h | Dojo | Débutants |
-| Mercredi | 18h30–19h30 | Dojo | Tous niveaux |
-| Vendredi | 18h30–19h30 | Salle 4 | Confirmés |
-| Samedi | 9h–10h | Dojo | Compétition¹ |
+|------|-------|:----:|-------:|
+| Lundi | 18h–19h | Dojo | <Badge type="warning">Débutants</Badge> |
+| Mercredi | 18h30–19h30 | Dojo | <Badge type="tip">Tous niveaux</Badge> |
+| Vendredi | 18h30–19h30 | Salle 4 | <Badge type="danger">Confirmés</Badge> |
+| Samedi | 9h–10h | Dojo | <Badge type="info">Compétition¹</Badge> |
 
 _¹ Accès à la discrétion du directeur technique._
 
 ### 🧑 Ados et Adultes {#karate-adultes}
 
 | Jour | Heure | Lieu | Niveau |
-|------|-------|------|--------|
-| Lundi | 19h–20h | Dojo | Tous niveaux |
-| Lundi | 20h–21h30 | Dojo | Confirmés |
-| Mercredi | 20h30–21h30 | Dojo | Tous niveaux |
-| Samedi | 11h–12h | Dojo | Cours libre¹ |
+|------|-------|:----:|-------:|
+| Lundi | 19h–20h | Dojo | <Badge type="tip">Tous niveaux</Badge> |
+| Lundi | 20h–21h30 | Dojo | <Badge type="danger">Confirmés</Badge> |
+| Mercredi | 20h30–21h30 | Dojo | <Badge type="tip">Tous niveaux</Badge> |
+| Samedi | 11h–12h | Dojo | <Badge type="info">Cours libre¹</Badge> |
 
 _¹ Accès à la discrétion du directeur technique._
 

@@ -13,7 +13,7 @@ Un bon passage de relais assure la continuité de l'association et évite les pe
 |-------|----------|-------|
 | Email `info@amgenas.fr` | Président / Secrétaire | Transférer ou changer le mot de passe |
 | Site web (GitHub) | Président | Ajouter le successeur comme collaborateur |
-| Payasso (inscriptions) | Trésorier | Transférer l'accès administrateur |
+| Monetico Online Asso (inscriptions) | Trésorier | Transférer l'accès administrateur |
 | Réseaux sociaux (Facebook, Instagram) | Communication | Ajouter le successeur comme gestionnaire |
 | Espace MACIF | Président / Trésorier | Mettre à jour le représentant légal |
 | Espace FFKaraté | Président | Mettre à jour le dirigeant référent |
@@ -48,7 +48,7 @@ Un bon passage de relais assure la continuité de l'association et évite les pe
 
 ### Trésorier
 
-- [ ] Transmettre l'accès Payasso et HelloAsso
+- [ ] Transmettre l'accès Monetico Online Asso et HelloAsso
 - [ ] Clôturer et transmettre la comptabilité de la saison
 - [ ] Présenter le plan comptable et les procédures de remboursement
 - [ ] Transmettre les coordonnées bancaires et les accès compte

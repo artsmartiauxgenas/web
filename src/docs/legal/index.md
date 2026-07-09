@@ -25,8 +25,8 @@ description: Liste des liens utiles pour la gouvernance
 
 ### Equipe pédagogique
 
-- Bernardo Dupont + diplôme + grade
-- Ayoub Otmani + diplôme + grade
+- Bernardo Dupont, 4ème DAN, Référent AITO Rhône-Alpes FFK
+- Ayoub Otmani, 3ème DAN, Directeur technique Karaté
 
 ##  Affiliation
 

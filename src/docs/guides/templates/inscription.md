@@ -9,7 +9,7 @@ tags:
 
 # Checklist dossier d'inscription
 
-Ce document liste les informations et documents à recueillir pour chaque nouvel adhérent. Le formulaire Payasso couvre la plupart de ces éléments — cette checklist sert de référence pour les cas particuliers et les vérifications.
+Ce document liste les informations et documents à recueillir pour chaque nouvel adhérent. Le formulaire Monetico Online Asso couvre la plupart de ces éléments — cette checklist sert de référence pour les cas particuliers et les vérifications.
 
 ## Informations à recueillir
 
@@ -26,8 +26,8 @@ Ce document liste les informations et documents à recueillir pour chaque nouvel
 - [ ] Nom et prénom du responsable légal
 - [ ] Lien de parenté
 - [ ] Téléphone d'urgence (différent du principal si possible)
-- [ ] Autorisation parentale signée (dans Payasso)
-- [ ] Autorisation de droit à l'image signée (dans Payasso)
+- [ ] Autorisation parentale signée (dans Monetico Online Asso)
+- [ ] Autorisation de droit à l'image signée (dans Monetico Online Asso)
 - [ ] Autorisation de quitter seul les lieux (à préciser)
 
 ### Discipline(s) choisie(s)
@@ -39,7 +39,7 @@ Ce document liste les informations et documents à recueillir pour chaque nouvel
 
 ### Règlement
 
-- [ ] Cotisation réglée (via Payasso)
+- [ ] Cotisation réglée (via Monetico Online Asso)
 - [ ] Période : septembre–juin / janvier–juin / avril–juin
 - [ ] Pass'Sport applicable ? (vérifier éligibilité)
 

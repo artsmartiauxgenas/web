@@ -55,6 +55,10 @@ Ce guide aide le trésorier à suivre les finances de l’association, à mainte
 | 2025-10-01 | Subvention Mairie            | 740  | 300         |             | notification    |
 | 2025-10-12 | Frais bancaires trimestriels | 627  |             | 12          | relevé          |
 
+## 🪪 Licences fédérales
+
+Les licences FFKaraté des adhérents se commandent via l'espace dirigeant [SIKADA](https://www.sikada.fr/SiKada/AppLib_Login.aspx). La campagne de licences est à lancer en septembre, une fois les inscriptions de la saison ouvertes (voir la [checklist de rentrée](/docs/guides/)).
+
 ## 📎 Annexes à fournir à l'AG annuelle
 
 - ✅ Bilan financier (fichier `bilan.md` ou PDF)
