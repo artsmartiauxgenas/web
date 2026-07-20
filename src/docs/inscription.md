@@ -9,7 +9,7 @@ Les inscriptions au club **Arts Martiaux Genas** pour la saison 2026-27 sont **o
 
 ## 🥋 Qui peut s’inscrire ?
 
-- 👶 Enfants dès 5 ans : Karaté Shotokan traditionnel
+- 👶 Enfants dès 5 ans, adolescents et adultes : Karaté Shotokan traditionnel
 - 🧑 Adolescents et adultes : Karaté Fitness & Défense
 
 ## 💻 Comment s’inscrire ?
