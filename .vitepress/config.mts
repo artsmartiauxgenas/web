@@ -108,6 +108,7 @@ export default defineConfig({
           text: '2026-27',
           collapsed: false,
           items: [
+            { text: 'Assemblée Générale', link: '/blog/2026-27/2026-09-14-assemblee-generale' },
             { text: 'Ouverture des inscriptions', link: '/blog/2026-27/2026-07-01-ouverture-inscriptions' },
           ]
         },
