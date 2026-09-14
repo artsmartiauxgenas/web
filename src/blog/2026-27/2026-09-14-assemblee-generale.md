@@ -25,10 +25,10 @@ Nous avons le plaisir de convier l’ensemble de nos adhérents à :
 
 L’Assemblée Générale est un moment important de la vie du club :
 
-* présentation du **bilan de la saison précédente**,
-* discussion sur les **projets et orientations de l’année à venir**,
-* **vote des adhérents** sur les décisions majeures,
-* possibilité de rejoindre le **conseil d’administration** ou de s’investir dans la vie associative.
+* Présentation du **bilan de la saison précédente**,
+* Discussion sur les **projets et orientations de l’année à venir**,
+* **Vote des adhérents** sur les décisions majeures,
+* Possibilité de rejoindre le **conseil d’administration** ou de s’investir dans la vie associative.
 
 Votre présence compte : le club vit grâce à l’implication de ses membres !
 
