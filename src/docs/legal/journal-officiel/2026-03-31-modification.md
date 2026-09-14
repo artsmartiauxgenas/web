@@ -1,4 +1,4 @@
-# ARTS MARTIAUX DE GENAS KWON TE ZEN
+# ARTS MARTIAUX GENAS
 
 - Numéro RNA : W691055588
 - N° de parution : 20260013
@@ -15,4 +15,4 @@
 - Localisation : Rhône
 
 > 1766 – * Déclaration à la préfecture du Rhône. Ancien titre : ARTS MARTIAUX DE GENAS KWON TE ZEN. Nouveau titre : ARTS MARTIAUX GENAS. Siège social : 22 rue Docteur Amedee Bonnet 69740 Genas. Date de la déclaration : 31 octobre 2025.  
-> — [Annonce JOAFE parue le 16 juin 2012 (journal-officiel.gouv.fr)](https://www.journal-officiel.gouv.fr/pages/associations-detail-annonce/?q.id=id:202600131766)
+> — [Annonce JOAFE parue le 31 mars 2026 (journal-officiel.gouv.fr)](https://www.journal-officiel.gouv.fr/pages/associations-detail-annonce/?q.id=id:202600131766)
