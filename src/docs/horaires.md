@@ -102,9 +102,12 @@ _¹ Accès à la discrétion du directeur technique._
 
 | Dates | Lieu | Motif |
 |-------|------|-------|
-| vendredi 25 septembre 2026 | — | Assemblée Générale 2026 |
-| vendredi 18 décembre 2026 | — | Événement de Noël |
-| — | — | — |
+| jeudi 3 septembre 2026 | Salle 4 | Forum des Associations |
+| vendredi 25 septembre 2026 | Salle 4 | Assemblée Générale 2026 |
+| samedi 26 septembre 2026 | Dojo | Démonstration Décathlon Bron |
+| vendredi 6 novembre 2026 | Salle 4 | Soirée des bénévoles |
+| vendredi 20 novembre 2026 | Salle 4 | Foire aux skis et vélos |
+| vendredi 18 décembre 2026 | Salle 4 | Événement de Noël (et Gala de Noël ESGA GRS) |
 
 > Pas de cours pendant les vacances scolaires, sauf indication contraire.  
 
