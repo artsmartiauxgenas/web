@@ -7,35 +7,43 @@ const SUBJECT = "Form Submission"
 const name = ref("")
 const email = ref("")
 const message = ref("")
+const sending = ref(false)
+const status = ref<"" | "sending" | "ok" | "error">("")
 
 const submitForm = async () => {
-    const result_field = document.getElementById('result')
-    result_field.innerHTML = "Envoi du message [ EN COURS ]"
-  const response = await fetch("https://api.web3forms.com/submit", {
-    method: "POST",
-    headers: {
-      "Content-Type": "application/json",
-      Accept: "application/json",
-    },
-    body: JSON.stringify({
-      access_key: WEB3FORMS_ACCESS_KEY,
-      from_name: FROM_NAME,
-      subject: SUBJECT,
-      name: name.value,
-      email: email.value,
-      message: message.value,
-    }),
-  })
-  const result = await response.json();
-  if (result.success) {
-    console.log(result)
-    result_field.innerHTML = "Envoi du message [ OK ]"
-    result_field.style.color = "green"
-  } else {
-    console.error(result)
-    console.error(result)
-    result_field.innerHTML = "Envoi du message [ ERREUR ]"
-    result_field.style.color = "red"
+  if (sending.value) return
+  sending.value = true
+  status.value = "sending"
+  try {
+    const response = await fetch("https://api.web3forms.com/submit", {
+      method: "POST",
+      headers: {
+        "Content-Type": "application/json",
+        Accept: "application/json",
+      },
+      body: JSON.stringify({
+        access_key: WEB3FORMS_ACCESS_KEY,
+        from_name: FROM_NAME,
+        subject: SUBJECT,
+        name: name.value,
+        email: email.value,
+        message: message.value,
+      }),
+    })
+    const result = await response.json()
+    if (result.success) {
+      status.value = "ok"
+      email.value = ""
+      message.value = ""
+    } else {
+      console.error(result)
+      status.value = "error"
+    }
+  } catch (e) {
+    console.error(e)
+    status.value = "error"
+  } finally {
+    sending.value = false
   }
 }
 </script>
@@ -53,6 +61,11 @@ form button {
   border: 1px solid darkgray;
   border-radius: 4px;
 }
+
+form button:disabled {
+  opacity: 0.6;
+  cursor: not-allowed;
+}
 </style>
 
 <template>
@@ -63,7 +76,12 @@ form button {
 
     <label for="message" class="form-label">Message</label>
     <textarea name="message" id="message" v-model="message" placeholder="message" required></textarea>
-    <button type="submit">Envoyer</button>
-    <div id="result"></div>
+    <button type="submit" :disabled="sending" :aria-busy="sending">
+      {{ sending ? "Envoi en cours…" : "Envoyer" }}
+    </button>
+    <div class="form-result" role="status" aria-live="polite">
+      <span v-if="status === 'ok'" style="color: green">Message envoyé, merci !</span>
+      <span v-else-if="status === 'error'" style="color: red">Erreur lors de l'envoi, veuillez réessayer ou nous écrire à info@amgenas.fr.</span>
+    </div>
   </form>
 </template>
