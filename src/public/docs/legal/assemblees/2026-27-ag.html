@@ -1,0 +1,454 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="robots" content="noindex">
+<title>AG 2026-27 · Arts Martiaux Genas</title>
+<link rel="icon" href="/favicon.ico">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/reveal.js@5.1.0/dist/reveal.css">
+<script src="https://cdn.jsdelivr.net/npm/echarts@5/dist/echarts.min.js"></script>
+<style>
+  :root {
+    --brand: #b22222;
+    --brand-light: #d94f4f;
+    --bg: #14171c;
+    --bg-soft: #1c2129;
+    --ink: #f4f1ec;
+    --ink-muted: #b7bcc4;
+    --line: #333a44;
+    --good: #4caf7d;
+  }
+  * { box-sizing: border-box; margin: 0; }
+  html, body { background: var(--bg); }
+  .reveal-viewport { background: var(--bg); }
+  .reveal { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; color: var(--ink); font-size: 44px; }
+  .reveal .slides { text-align: left; }
+  .reveal .slides section { position: absolute; top: 0; left: 0; width: 100%; height: 100%; box-sizing: border-box; padding: 32px 64px; overflow: hidden; }
+  .reveal h1, .reveal h2, .reveal h3 { color: var(--ink); text-transform: none; letter-spacing: 0; font-weight: 700; }
+  .reveal h1 { font-size: 2.4em; margin-bottom: .2em; }
+  .reveal h2 { font-size: 1.7em; border-bottom: 3px solid var(--brand); padding-bottom: .25em; margin-bottom: .45em; }
+  .reveal h3 { font-size: 1.1em; color: var(--brand-light); margin-bottom: .3em; }
+  .reveal p, .reveal li { font-size: .78em; line-height: 1.45; color: var(--ink); }
+  .reveal ul { margin-left: .4em; }
+  .reveal li { margin-bottom: .24em; }
+  .reveal li::marker { color: var(--brand-light); }
+  .reveal a { color: var(--brand-light); }
+  .kicker { color: var(--brand-light); font-size: .55em; letter-spacing: .12em; text-transform: uppercase; font-weight: 700; margin-bottom: .3em; }
+  .subtitle { color: var(--ink-muted); font-size: .55em; margin-top: .4em; }
+
+  /* title slide */
+  .title-slide { display: flex; flex-direction: column; justify-content: center; align-items: flex-start; height: 100%; }
+  .title-slide .club { font-size: .5em; letter-spacing: .15em; text-transform: uppercase; color: var(--brand-light); margin-bottom: .6em; }
+  .title-slide h1 { font-size: 2.6em; }
+  .title-slide .meta { margin-top: .8em; font-size: .7em; color: var(--ink-muted); }
+  .title-slide .hint { position: absolute; bottom: 36px; left: 64px; font-size: .4em; color: var(--ink-muted); }
+
+  /* stat tiles */
+  .stats { display: grid; grid-auto-flow: column; gap: 20px; margin: .6em 0; }
+  .stat { background: var(--bg-soft); border: 1px solid var(--line); border-radius: 10px; padding: 18px 22px; min-width: 0; }
+  .stat .num { font-size: 1.6em; font-weight: 800; color: var(--ink); line-height: 1; }
+  .stat .num.pos { color: var(--good); }
+  .stat .num.brand { color: var(--brand-light); }
+  .stat .lbl { font-size: .58em; color: var(--ink-muted); margin-top: .35em; text-transform: uppercase; letter-spacing: .06em; }
+
+  /* compact vertical stack of 3 tiles, for slides that pair stats with a chart */
+  .stats.trio-v { gap: 8px; margin: .3em 0; }
+  .stats.trio-v .stat { padding: 8px 16px; }
+  .stats.trio-v .stat .num { font-size: 1.15em; }
+  .stats.trio-v .stat .lbl { font-size: .48em; margin-top: .2em; }
+
+  /* layout helpers */
+  .cols { display: grid; grid-template-columns: 1fr 1fr; gap: 40px; align-items: start; }
+  .cols.wide-left { grid-template-columns: 1.3fr 1fr; }
+  .cols > * { min-width: 0; }
+  .chart { width: 100%; height: 440px; min-width: 0; overflow: hidden; }
+  .chart.small { height: 300px; }
+
+  table.pv { width: 100%; border-collapse: collapse; font-size: .62em; }
+  table.pv th, table.pv td { text-align: left; padding: 8px 12px; border-bottom: 1px solid var(--line); }
+  table.pv th { color: var(--brand-light); text-transform: uppercase; font-size: .85em; letter-spacing: .05em; }
+  table.pv tr:last-child td { border-bottom: none; }
+  .tag { display: inline-block; background: var(--brand); color: #fff; font-size: .55em; padding: 2px 8px; border-radius: 4px; margin-left: 6px; vertical-align: middle; }
+  .badge-tbc { display: inline-block; background: #4a4322; color: #f2d675; font-size: .55em; padding: 2px 8px; border-radius: 4px; margin-left: 6px; }
+
+  .callout { background: var(--bg-soft); border-left: 4px solid var(--brand); border-radius: 6px; padding: 14px 18px; font-size: .68em; color: var(--ink-muted); margin-top: .6em; }
+  .callout b { color: var(--ink); }
+
+  .footer-note { position: absolute; bottom: 28px; right: 64px; font-size: .4em; color: var(--ink-muted); }
+
+  .reveal .progress { color: var(--brand); }
+  .reveal .controls { color: var(--brand-light); }
+</style>
+</head>
+<body>
+<div class="reveal">
+  <div class="slides">
+
+    <!-- 1. Titre -->
+    <section>
+      <div class="title-slide">
+        <div class="club">Arts Martiaux Genas</div>
+        <h1>Assemblée Générale Ordinaire</h1>
+        <div class="meta">📅 25 septembre 2026 à 19h · 📍 Salle Le Genêt, Genas</div>
+        <div class="hint">→ / Espace pour avancer · f pour le plein écran · Échap pour en sortir</div>
+      </div>
+    </section>
+
+    <!-- 2. Ordre du jour -->
+    <section>
+      <div class="kicker">Sommaire</div>
+      <h2>Ordre du jour</h2>
+      <div class="cols">
+        <ul>
+          <li>Saison 2025-26 — rapport moral, d'activités et financier</li>
+          <li>Projet sportif — Karaté compétition (Ayoub)</li>
+          <li>Body Karaté &amp; Karaté Mix (Bernardo)</li>
+        </ul>
+        <ul>
+          <li>Saison 2026-27 — aperçu, projets, budget prévisionnel</li>
+          <li>Gouvernance du Conseil d'administration</li>
+          <li>Questions diverses</li>
+        </ul>
+      </div>
+      <div class="callout">Le procès-verbal complet, détaillé et à jour, est publié sur <b>artsmartiauxgenas.fr</b> — cette présentation en reprend les points clés.</div>
+    </section>
+
+    <!-- 3. Rapport moral 2025-26 -->
+    <section>
+      <div class="kicker">Saison 2025-26</div>
+      <h2>Rapport moral</h2>
+      <div class="cols wide-left">
+        <div id="chart-membres-2526" class="chart"></div>
+        <div class="stats" style="grid-auto-flow: row;">
+          <div class="stat">
+            <div class="num pos">101</div>
+            <div class="lbl">Adhérents en fin de saison</div>
+          </div>
+          <div class="stat">
+            <div class="num brand">+ 21,7 %</div>
+            <div class="lbl">Progression (83 → 101)</div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- 4. Faits marquants -->
+    <section>
+      <div class="kicker">Saison 2025-26</div>
+      <h2>Faits marquants</h2>
+      <ul>
+        <li>Nouvelle identité et changement de nom du club, <b>refonte complète du site internet</b></li>
+        <li>Nouveaux statuts et règlement intérieur adoptés — dépôt au Journal Officiel le 31 mars 2026</li>
+        <li>Structuration de la gouvernance : projet associatif, gouvernance ouverte, structure des documents (RFC-9 à 11)</li>
+        <li>Réorganisation du planning : fermeture Karaté Santé, ouverture Karaté Défense (RFC-12)</li>
+        <li>Mise en place d'un agenda partagé par section</li>
+      </ul>
+    </section>
+
+    <!-- 5. Rapport financier 2025-26 -->
+    <section>
+      <div class="kicker">Saison 2025-26</div>
+      <h2>Rapport financier</h2>
+      <div class="cols wide-left">
+        <div id="chart-depenses-2526" class="chart"></div>
+        <div>
+          <div class="stats trio-v" style="grid-auto-flow: row;">
+            <div class="stat">
+              <div class="num">24 418 €</div>
+              <div class="lbl">Recettes</div>
+            </div>
+            <div class="stat">
+              <div class="num">23 680 €</div>
+              <div class="lbl">Dépenses</div>
+            </div>
+            <div class="stat">
+              <div class="num pos">+ 738 €</div>
+              <div class="lbl">Résultat</div>
+            </div>
+          </div>
+          <div class="callout">Trésorerie totale (compte courant + Livret Bleu) : <b>14 406 €</b>, au-dessus de la cible de prudence (10 000 €).</div>
+        </div>
+      </div>
+    </section>
+
+    <!-- 6. Merci mairie -->
+    <section>
+      <div class="kicker">Saison 2025-26</div>
+      <h2>Merci à la Ville de Genas</h2>
+      <div class="stats">
+        <div class="stat">
+          <div class="num brand">≈ 5 000 €</div>
+          <div class="lbl">Mise à disposition des salles</div>
+        </div>
+      </div>
+      <p style="margin-top: .6em;">Un soutien indirect essentiel — près d'un cinquième des recettes du club en équivalent — qui ne transite pas par la trésorerie mais rend la pratique accessible à tous.</p>
+      <div class="callout">Conformément à la politique de transparence du club, tous les documents financiers et de gouvernance sont publiés en accès libre sur <b>artsmartiauxgenas.fr</b>.</div>
+    </section>
+
+    <!-- 7. Projet sportif Karaté compétition -->
+    <section>
+      <div class="kicker">Projet sportif</div>
+      <h2>Karaté compétition <span style="font-size:.5em; color: var(--ink-muted); font-weight:400;">— Ayoub Otmani</span></h2>
+      <ul>
+        <li>Bilan : 4 experts accueillis, plusieurs interclubs — une préparation suivie sur l'année est nécessaire</li>
+        <li>Une <b>préparation structurée sur l'année</b>, avec stage de rentrée et évaluation blanche</li>
+        <li>La <b>Coupe de Noël</b> (déc.) : compétition officielle non qualificative, ouverte à tous les enfants volontaires</li>
+        <li>Renfort technique : entente sportive envisagée avec <b>Ancel Gherambanga (6e dan)</b>, ~2 samedis/mois</li>
+        <li>Engagement compatible avec la scolarité, priorité affichée</li>
+      </ul>
+    </section>
+
+    <!-- 8. Passages de grade -->
+    <section>
+      <div class="kicker">Projet sportif</div>
+      <h2>Nouvelle politique des passages de grade</h2>
+      <table class="pv">
+        <tr><th>Public</th><th>Fréquence</th><th>Modalités</th></tr>
+        <tr><td>Babies / 5-7 ans</td><td>1 par an (début juin)</td><td>2 barrettes par an</td></tr>
+        <tr><td>Ados / Adultes</td><td>2 par an</td><td>Passage blanc mi-année + officiel en fin de saison</td></tr>
+      </table>
+    </section>
+
+    <!-- 9. Body Karaté & Karaté Mix -->
+    <section>
+      <div class="kicker">Projet sportif</div>
+      <h2>Body Karaté &amp; Karaté Mix <span style="font-size:.5em; color: var(--ink-muted); font-weight:400;">— Bernardo Dupont</span></h2>
+      <ul>
+        <li><b>Développement du Karaté Mix</b>, dans la continuité de la dynamique de cette saison</li>
+        <li><b>Changement de salle début octobre 2026</b> : nouvelle salle plurivalente de l'école Joanny Collomb<span class="badge-tbc">à confirmer</span></li>
+      </ul>
+    </section>
+
+    <!-- 10. Aperçu saison 2026-27 -->
+    <section>
+      <div class="kicker">Saison 2026-27</div>
+      <h2>Aperçu et statut à ce jour</h2>
+      <div class="cols wide-left">
+        <div id="chart-membres-2627" class="chart"></div>
+        <div>
+          <div class="stats trio-v" style="grid-auto-flow: row;">
+            <div class="stat">
+              <div class="num brand">81</div>
+              <div class="lbl">Adhérents (25 sept.)</div>
+            </div>
+            <div class="stat">
+              <div class="num">16 669 €</div>
+              <div class="lbl">Recettes</div>
+            </div>
+            <div class="stat">
+              <div class="num">3 762 €</div>
+              <div class="lbl">Dépenses</div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- 11. Calendrier -->
+    <section>
+      <div class="kicker">Saison 2026-27</div>
+      <h2>Calendrier des temps forts</h2>
+      <table class="pv">
+        <tr><th>Période</th><th>Évènement</th></tr>
+        <tr><td>Sept. – Oct.</td><td>Forum, démo Décathlon Bron, stages 5-7 ans, dédicace Anne-Laure Massinon, Octobre Rose</td></tr>
+        <tr><td>Nov. – Déc.</td><td>Stage Christian Clause, Coupe de Noël, fête de Noël</td></tr>
+        <tr><td>Janv. – Fév.</td><td>Stage Maïjuli &amp; Fabrice Boichot, stage Jean-Pierre Lavorato</td></tr>
+        <tr><td>Avr. – Juin</td><td>Stage self-défense, stage Jean-Louis Morel, fête de fin de saison (19 juin)</td></tr>
+      </table>
+      <div class="callout">Calendrier complet et daté : journal de la saison 2026-27 sur le site.</div>
+    </section>
+
+    <!-- 12. Budget prévisionnel 2026-27 -->
+    <section>
+      <div class="kicker">Saison 2026-27</div>
+      <h2>Budget prévisionnel</h2>
+      <div class="cols wide-left">
+        <div id="chart-depenses-2627" class="chart"></div>
+        <div>
+          <div class="stats trio-v" style="grid-auto-flow: row;">
+            <div class="stat">
+              <div class="num">23 800 €</div>
+              <div class="lbl">Recettes</div>
+            </div>
+            <div class="stat">
+              <div class="num">23 800 €</div>
+              <div class="lbl">Dépenses</div>
+            </div>
+            <div class="stat">
+              <div class="num brand">Équilibre</div>
+              <div class="lbl">Résultat</div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- 13. Gouvernance -->
+    <section>
+      <div class="kicker">Gouvernance</div>
+      <h2>Conseil d'administration</h2>
+      <table class="pv">
+        <tr><th>Fonction</th><th>Nom</th><th>Mandat</th></tr>
+        <tr><td>Président</td><td>Geoffrey Petri</td><td>2025–2028</td></tr>
+        <tr><td>Secrétaire</td><td>Cyrille Protière</td><td>2025–2028</td></tr>
+        <tr><td>Trésorier</td><td>Dragos Mocanu</td><td>2025–2028</td></tr>
+        <tr><td>Membres</td><td>Laurent Galin, Lucie Bellouvet, Patrick Tanzilli, Gilles Ortiz</td><td>2025–2028</td></tr>
+      </table>
+      <div class="callout"><b>Aucun renouvellement nécessaire cette année</b> — mandats en cours jusqu'en 2028. Le CA reste ouvert aux candidatures en cours de mandat.</div>
+    </section>
+
+    <!-- 14. Questions / Merci -->
+    <section>
+      <div class="title-slide">
+        <div class="club">Arts Martiaux Genas</div>
+        <h1>Questions diverses</h1>
+        <div class="meta">Merci de votre présence et de votre engagement pour le club.</div>
+      </div>
+    </section>
+
+  </div>
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/reveal.js@5.1.0/dist/reveal.js"></script>
+<script>
+  const deck = new Reveal({
+    hash: false,
+    controls: true,
+    progress: true,
+    center: false,
+    transition: 'fade',
+    width: 1280,
+    height: 720,
+    margin: 0.06,
+  });
+  deck.initialize();
+
+  const MONTHS = ['Juil', 'Août', 'Sept', 'Oct', 'Nov', 'Déc', 'Jan', 'Fév', 'Mar', 'Avr', 'Mai', 'Juin'];
+  const MEMBERS = {
+    '2024-25': [11, 24, 73, 79, 80, 82, 83, 83, 83, 83, 83, 83],
+    '2025-26': [12, 36, 82, 88, 95, 97, 100, 101, 101, 101, 101, 101],
+    '2026-27': [19, 32, 81],
+  };
+  const COLORS = ['#e0526b', '#5b8bd6', '#f2b84b', '#5fb88a'];
+  const euro = (v) => Number(v).toLocaleString('fr-FR') + ' €';
+
+  function baseTextStyle() {
+    return { color: '#f4f1ec' };
+  }
+
+  function lineOption(seasons) {
+    return {
+      backgroundColor: 'transparent',
+      textStyle: baseTextStyle(),
+      tooltip: { trigger: 'axis' },
+      legend: { data: seasons, top: 0, textStyle: baseTextStyle() },
+      grid: { left: 36, right: 16, top: 40, bottom: 28 },
+      xAxis: { type: 'category', data: MONTHS, axisLine: { lineStyle: { color: '#555' } }, axisLabel: baseTextStyle() },
+      yAxis: { type: 'value', splitLine: { lineStyle: { color: '#2a2f38' } }, axisLabel: baseTextStyle() },
+      series: seasons.map((s, i) => ({
+        name: s,
+        type: 'line',
+        smooth: true,
+        symbolSize: 6,
+        lineStyle: { width: i === 0 ? 4 : 2 },
+        color: COLORS[i % COLORS.length],
+        data: MEMBERS[s] || [],
+      })),
+    };
+  }
+
+  function pieOption(title, items) {
+    return {
+      backgroundColor: 'transparent',
+      textStyle: baseTextStyle(),
+      tooltip: { trigger: 'item', formatter: (p) => `${p.name}<br/><b>${euro(p.value)}</b> (${p.percent}%)` },
+      legend: { bottom: 0, textStyle: { color: '#b7bcc4', fontSize: 11 }, itemWidth: 12, itemHeight: 12 },
+      series: [{
+        type: 'pie',
+        radius: ['32%', '62%'],
+        avoidLabelOverlap: true,
+        itemStyle: { borderColor: '#14171c', borderWidth: 2 },
+        label: { formatter: '{d}%', color: '#f4f1ec', fontSize: 11 },
+        data: items,
+      }],
+    };
+  }
+
+  // Chart definitions, keyed by container id. Charts are created lazily —
+  // only once their slide is actually visible — so echarts never measures
+  // a display:none container (which reads as 0×0 and produces a broken size).
+  const chartDefs = {
+    'chart-membres-2526': () => lineOption(['2025-26', '2024-25']),
+    'chart-membres-2627': () => lineOption(['2026-27', '2025-26', '2024-25']),
+    'chart-depenses-2526': () => pieOption('Répartition des dépenses 2025-26', [
+      { name: 'Encadrement (rémun. + défraiements)', value: 14994.35 },
+      { name: 'Licences fédérales', value: 3198.00 },
+      { name: 'Réceptions, événements', value: 1653.44 },
+      { name: 'Communication', value: 1457.14 },
+      { name: 'Assurances', value: 1179.85 },
+      { name: 'Matériel', value: 763.29 },
+      { name: 'Divers', value: 434.01 },
+    ]),
+    'chart-depenses-2627': () => pieOption('Répartition des dépenses prévues 2026-27', [
+      { name: 'Encadrement (rémun. + défraiements)', value: 15500 },
+      { name: 'Licences fédérales', value: 4000 },
+      { name: 'Réceptions, événements', value: 1500 },
+      { name: 'Communication', value: 1500 },
+      { name: 'Assurances', value: 1200 },
+      { name: 'Divers', value: 100 },
+    ]),
+  };
+
+  const charts = {};
+
+  function syncChart(id) {
+    const el = document.getElementById(id);
+    if (!el) return;
+    const rect = el.getBoundingClientRect();
+    if (rect.width === 0 || rect.height === 0) return; // slide not visible yet
+    if (!charts[id]) {
+      charts[id] = echarts.init(el, null, { renderer: 'canvas', width: rect.width, height: rect.height });
+      charts[id].setOption(chartDefs[id]());
+    } else {
+      charts[id].resize({ width: rect.width, height: rect.height });
+    }
+  }
+
+  function syncChartsOnCurrentSlide() {
+    const current = deck.getCurrentSlide ? deck.getCurrentSlide() : document.querySelector('.reveal .slides section.present');
+    if (!current) return;
+    current.querySelectorAll('[id^="chart-"]').forEach((el) => syncChart(el.id));
+  }
+
+  function resizeAllInitialized() {
+    Object.keys(charts).forEach(syncChart);
+  }
+
+  deck.on('ready', () => {
+    syncChartsOnCurrentSlide();
+    setTimeout(syncChartsOnCurrentSlide, 150);
+  });
+  deck.on('slidechanged', () => {
+    syncChartsOnCurrentSlide();
+    setTimeout(syncChartsOnCurrentSlide, 150);
+  });
+  deck.on('resize', resizeAllInitialized);
+  window.addEventListener('resize', resizeAllInitialized);
+  document.addEventListener('fullscreenchange', () => setTimeout(resizeAllInitialized, 100));
+
+  function toggleFullscreen() {
+    try {
+      if (!document.fullscreenElement) {
+        document.documentElement.requestFullscreen?.()?.catch(() => {});
+      } else {
+        document.exitFullscreen?.()?.catch(() => {});
+      }
+    } catch (e) { /* Fullscreen API unavailable in this context */ }
+  }
+  document.addEventListener('keydown', (e) => {
+    if (e.key === 'f' && !e.metaKey && !e.ctrlKey && !e.altKey) toggleFullscreen();
+  });
+</script>
+</body>
+</html>
