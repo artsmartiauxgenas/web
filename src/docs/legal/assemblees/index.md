@@ -7,6 +7,9 @@ description: Liste des Assemblées générales de l'association
 
 ## 2026-27 <Badge type="warning" text="à venir" />
 
+- [Convocation Assemblée Générale](/blog/2025-26/2025-09-24-assemblee-generale)
+- [Assemblée Générale Ordinaire](2026-09-25-pv-ag)
+
 ## 2025-26
 
 - [Convocation Assemblée Générale](/blog/2025-26/2025-09-24-assemblee-generale)
