@@ -42,6 +42,7 @@
   .title-slide .club { font-size: .5em; letter-spacing: .15em; text-transform: uppercase; color: var(--brand-light); margin-bottom: .6em; }
   .title-slide h1 { font-size: 2.6em; }
   .title-slide .meta { margin-top: .8em; font-size: .7em; color: var(--ink-muted); }
+  .title-slide .logo { width: 200px; height: 200px; margin-bottom: .5em; }
   .title-slide .hint { position: absolute; bottom: 36px; left: 64px; font-size: .4em; color: var(--ink-muted); }
 
   /* stat tiles */
@@ -77,17 +78,23 @@
 
   .footer-note { position: absolute; bottom: 28px; right: 64px; font-size: .4em; color: var(--ink-muted); }
 
+  /* small club logo in the corner of content slides (hidden on title slides) */
+  .corner-logo { position: fixed; top: 20px; right: 24px; width: 64px; height: 64px; z-index: 10; pointer-events: none; transition: opacity .3s; }
+  .reveal-viewport.title .corner-logo { opacity: 0; }
+
   .reveal .progress { color: var(--brand); }
   .reveal .controls { color: var(--brand-light); }
 </style>
 </head>
 <body>
+<img class="corner-logo" src="/img/logo-full-dark.svg" alt="">
 <div class="reveal">
   <div class="slides">
 
     <!-- 1. Titre -->
-    <section>
+    <section data-state="title">
       <div class="title-slide">
+        <img class="logo" src="/img/logo-full-dark.svg" alt="Logo Arts Martiaux Genas">
         <div class="club">Arts Martiaux Genas</div>
         <h1>Assemblée Générale Ordinaire</h1>
         <div class="meta">📅 25 septembre 2026 à 19h · 📍 Salle Le Genêt, Genas</div>
@@ -299,8 +306,9 @@
     </section>
 
     <!-- 14. Questions / Merci -->
-    <section>
+    <section data-state="title">
       <div class="title-slide">
+        <img class="logo" src="/img/logo-full-dark.svg" alt="Logo Arts Martiaux Genas">
         <div class="club">Arts Martiaux Genas</div>
         <h1>Questions diverses</h1>
         <div class="meta">Merci de votre présence et de votre engagement pour le club.</div>
