@@ -63,6 +63,7 @@ Il suit les grandes lignes du **Plan Comptable Général (PCG 2025)** et du **Pl
 | 6278   | Autres services bancaires                       | Commissions, frais SGT                       |
 | 6281   | Cotisations versées aux organismes             | Licences FFKDA                               |
 | 6288   | Autres charges de gestion courante             | Stages PSC1, perfectionnements                  |
+| 678    | Charges exceptionnelles                        | Frais exceptionnels                  |
 
 ## 📥 Comptes de produits (classe 7)
 
