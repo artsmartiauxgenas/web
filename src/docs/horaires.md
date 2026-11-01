@@ -8,7 +8,7 @@ season: 2026-27
 
 **Arts Martiaux Genas** · Saison 2026–27 · Du 7 septembre 2026 au 20 juin 2027
 
-Découvrez nos cours adaptés à tous les âges et tous les niveaux : du Karaté Shotokan traditionnel à la Self-Défense et au Karaté Mix, en passant par des séances de cardio et de renforcement physique. Que vous cherchiez à pratiquer un art martial, à vous perfectionner, à vous remettre en forme, ou à vous défouler en toute sécurité, nous avons un créneau pour vous !
+Découvrez nos cours adaptés à tous les âges et tous les niveaux : du Karaté Shotokan traditionnel à la Self-Défense et au Boxe & MMA, en passant par des séances de cardio et de renforcement physique. Que vous cherchiez à pratiquer un art martial, à vous perfectionner, à vous remettre en forme, ou à vous défouler en toute sécurité, nous avons un créneau pour vous !
 
 - 🥋 [Karaté Shotokan](#karate)
   - 👶 [5–7 ans](#karate-5-7)
@@ -17,7 +17,7 @@ Découvrez nos cours adaptés à tous les âges et tous les niveaux : du Karaté
 - 🥋 [Karaté Fitness & Défense](#karate-fitness-defense)
   - 🛡️ [Karaté Défense](#karate-defense)
   - 💥 [Body Karaté](#body-karate)
-  - 🥊 [Karaté Mix](#karate-mix)
+  - 🥊 [Boxe & MMA](#boxe-mma)
 
 ::: info Les cours ont lieu au [Pôle de Loisirs de la Fraternité — 2 rue de la Fraternité, 69740 Genas](https://maps.app.goo.gl/rW2HG1AiGbyPNULA9)
 - **Dojo** : Halle des Sports Jacques Vabre, 2ème étage
@@ -92,7 +92,7 @@ _¹ Accès à la discrétion du directeur technique._
 |------|-------|------|
 | Mardi | 19h30–21h | Salle 1 |
 
-### 🥊 Karaté Mix {#karate-mix}
+### 🥊 Karaté Mix {#boxe-mma}
 
 | Jour | Heure | Lieu |
 |------|-------|------|

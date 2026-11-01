@@ -31,12 +31,18 @@ Le genre de cours où on arrive fatigué de sa semaine et où on repart avec de 
 
 > 🗓️ [Voir les horaires des cours](/docs/horaires#body-karate)
 
-## 🥊 Karaté Mix {#karate-mix}
+## 🥊 Boxe & MMA {#boxe-mma}
 
-Le Karaté Mix est une synthèse martiale de l’ensemble des disciplines représentées au sein de la FFK, et qui réunit les composantes de percussion debout, projection, immobilisation et soumission. La concrétisation de la pratique se traduit par des échanges sous forme d’assauts pluridimensionnels dans lesquels chacun peut y trouver sa forme de liberté.
+La section **Boxe & MMA des Arts Martiaux de Genas** propose une pratique complète des sports de combat, accessible aux adultes débutants comme aux pratiquants confirmés.
 
-Cette discipline évolutive est enseignée dans un esprit de respect et de partage des valeurs sportives. Elle permet à ses pratiquants de s’exprimer pleinement tout en préservant leur sécurité et leur intégrité physique.
+Les entraînements associent les techniques de *boxe pieds-poings*, les projections, les amenées au sol et le grappling. Cette complémentarité permet de développer sa condition physique, sa coordination, sa maîtrise technique et sa capacité d’adaptation.
 
-Un art martial complexe mais ouvert dans lequel la stratégie est au service de l’efficacité. Le pratiquant doit être capable d’exploiter toutes les formes de combat et même d’en créer de nouvelles. Le Karaté Mix, de par sa richesse technique et ses différentes formes d’approche pédagogique, s’adapte parfaitement à tous les âges et niveaux.
+Dans un esprit de respect, de convivialité et de partage, chacun progresse à son rythme, selon ses capacités et ses objectifs. Les exercices sont adaptés au niveau des pratiquants et se déroulent dans un cadre sécurisé, avec une attention particulière portée au contrôle des gestes et au respect des partenaires.
 
-> 🗓️ [Voir les horaires des cours](/docs/horaires#karate-mix)
+**Pas besoin d’être un combattant pour commencer !** Que tu souhaites découvrir les sports de combat, te remettre en forme ou enrichir ta pratique martiale, viens apprendre, progresser et te dépasser dans une ambiance sportive et conviviale.
+
+**Pieds-poings • Projections • Grappling**
+
+**Débutants et confirmés : progresse à ton rythme !**
+
+> 🗓️ [Voir les horaires des cours](/docs/horaires#boxe-mma)
